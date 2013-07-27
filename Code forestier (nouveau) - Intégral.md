@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-07-28
 
 # Partie législative
 
@@ -14077,7 +14077,7 @@ développement de la forêt et contribuer au rassemblement des données françai
 l'Union européenne et des pays tiers ; 
 
 11° Donner un avis sur l'agrément des sociétés de gestion des sociétés d'épargne forestière en application de l'article L.
-214-87 du code monétaire et financier. 
+214-124 du code monétaire et financier. 
 
 Il peut être consulté par les pouvoirs publics et émettre des propositions sur toutes les questions relatives à la filière
 forêt-bois, au développement durable des forêts et de leurs fonctions économiques, environnementales et sociales, et à leur
@@ -14089,20 +14089,16 @@ contribution à l'aménagement rural.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L221-1 (VT)
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 40
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-87
-	  - Code de l'environnement - art. L132-2 (V)
-	  - Code forestier (nouveau) - art. L312-2 (VD)
-	  - Code forestier (nouveau) - art. L313-1 (V)
+	  - Code monétaire et financier - art. L214-124
+	  - Code de l'environnement - art. L132-2
+	  - Code forestier (nouveau) - art. L312-2
+	  - Code forestier (nouveau) - art. L313-1
 
 	**Cité par**:
 
