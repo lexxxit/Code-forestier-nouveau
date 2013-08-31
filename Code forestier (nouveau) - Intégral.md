@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2013-07-28
+Version Consolidée au 2013-09-01
 
 # Partie législative
 
@@ -206,7 +206,16 @@ réserve des dispositions particulières du présent code.
 
 Les conditions et limites dans lesquelles le principe de participation du public est applicable aux décisions publiques ayant
 une incidence sur l'environnement prises en application du présent code sont, sous réserve des dispositions particulières que
-celui-ci édicte, énoncées aux articles L. 120-1 et L. 120-2 du code de l'environnement.
+celui-ci édicte, énoncées                  aux articles L. 120-1 à L. 120-2 du code de l'environnement .
+
+**Nota:**
+
+Ordonnance n° 2013-714 du 5 août 2013 art. 8 : La présente ordonnance entre en vigueur le 1er septembre 2013.
+
+Toutefois, les dispositions de ses articles 6 et 7 ne sont pas applicables aux décisions publiques prises en application des
+dispositions du code forestier et du code rural et de la pêche maritime mentionnées à ces articles pour lesquelles une
+consultation du public a été engagée avant cette date dans les conditions prévues par les dispositions législatives qui leur
+étaient applicables antérieurement à celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -214,13 +223,13 @@ celui-ci édicte, énoncées aux articles L. 120-1 et L. 120-2 du code de l'envi
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Ordonnance n°2013-714 du 5 août 2013 - art. 6
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L120-1 (V)
+	  - Code de l'environnement - art. L120-1
 
 
 #### Chapitre III : Institutions
