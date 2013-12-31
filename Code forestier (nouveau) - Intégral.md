@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2013-12-30
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -14476,34 +14476,22 @@ compétence territoriale d'un centre excède celle d'une seule chambre régional
 ###### Article L321-13
 
 L'Etat contribue au financement du Centre national de la propriété forestière, au titre de ses missions de développement
-forestier, reconnues d'intérêt général. 
+forestier, reconnues d'intérêt général.
 
 Les chambres d'agriculture versent une cotisation au Centre national de la propriété forestière par l'intermédiaire du Fonds
-national de péréquation et d'action professionnelle des chambres d'agriculture. 
+national de péréquation et d'action professionnelle des chambres d'agriculture.
 
 Cette cotisation est fixée à 50 % du montant des taxes perçues par l'ensemble des chambres d'agriculture sur tous les
-immeubles classés au cadastre en nature de bois et forêts. 
+immeubles classés au cadastre en nature de bois et forêts.
 
 La cotisation est répartie entre les chambres d'agriculture départementales en fonction notamment de la superficie forestière
-constatée dans la statistique agricole. 
+constatée dans la statistique agricole.
 
-Un décret fixe les conditions de versement de ces cotisations par les chambres d'agriculture. 
-
-Une part du produit de la taxe perçue sur tous les immeubles classés au cadastre en nature de bois et forêts est reversée par
-les chambres départementales d'agriculture aux chambres régionales d'agriculture à hauteur de 43 % de la recette fiscale,
-déduction faite des versements au Fonds national de péréquation et d'action professionnelle des chambres d'agriculture
-mentionnés au deuxième alinéa du présent article et à l'article L. 251-1. 
-
-Cette part finance les actions du plan pluriannuel régional de développement forestier mentionné à l'article L. 122-12, et en
-priorité les dépenses des chambres départementales d'agriculture liées à des actions validées à ce titre.
+Un décret fixe les conditions de versement de ces cotisations par les chambres d'agriculture.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
@@ -14514,14 +14502,14 @@ priorité les dépenses des chambres départementales d'agriculture liées à de
 	  - Code forestier (nouveau) - art. R321-24 (V)
 	  - Code forestier (nouveau) - art. R321-28 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code forestier - art. L221-9 (VT)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 47
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L122-12 (VD)
-	  - Code forestier (nouveau) - art. L251-1 (VD)
+	  - Code forestier (nouveau) - art. L122-12
+	  - Code forestier (nouveau) - art. L251-1
 
 
 ###### Article L321-14
@@ -16017,24 +16005,24 @@ en matière de nettoyage et reconstitution des peuplements forestiers.
 	  - Code forestier - art. L261-4 (VT)
 
 
-#### Chapitre II : Compte épargne d'assurance pour la forêt
+#### Chapitre II : Compte d'investissement forestier et d'assurance
 
 ###### Article L352-1
 
-Le compte épargne d'assurance pour la forêt est ouvert exclusivement aux personnes physiques qui remplissent les conditions
-suivantes : 
+Le compte d'investissement forestier et d'assurance est ouvert aux personnes physiques domiciliées et aux groupements
+forestiers et sociétés d'épargne forestière établis en France, dans un autre Etat membre de l'Union européenne ou dans un
+Etat ou un territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la
+fraude et l'évasion fiscales, qui remplissent les conditions suivantes : 
 
-1° Etre domiciliée fiscalement en France au sens de l'article 4 B du code général des impôts ; 
-
-2° Etre propriétaire de bois et forêts et s'engager à appliquer l'une des garanties de gestion durable mentionnées à
+1° Etre propriétaire de bois et forêts et s'engager à y appliquer l'une des garanties de gestion durable mentionnées à
 l'article L. 124-1 ; 
 
-3° Avoir souscrit pour tout ou partie de la surface forestière détenue en propre une assurance couvrant notamment le risque
-de tempête. 
+2° Avoir souscrit, pour tout ou partie de la surface forestière détenue, une assurance, couvrant notamment le risque de
+tempête. 
 
-Le compte épargne d'assurance pour la forêt peut être ouvert auprès d'un établissement financier teneur de compte de dépôt ou
-d'une entreprise d'assurance. Il ne peut être ouvert qu'un seul compte épargne d'assurance pour la forêt par propriétaire
-forestier.
+Le compte d'investissement forestier et d'assurance peut être ouvert auprès d'un établissement financier teneur de compte de
+dépôt ou d'une entreprise d'assurance. Il ne peut être ouvert qu'un seul compte d'investissement forestier et d'assurance par
+propriétaire forestier.
 
 **Liens relatifs à cet article**
 
@@ -16042,18 +16030,13 @@ forestier.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 4 B
-	  - Code forestier (nouveau) - art. L124-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L261-1 (VT), al 1 à 5.
+	  - Code forestier (nouveau) - art. L124-1
 
 	**Cité par**:
 
@@ -16068,15 +16051,18 @@ forestier.
 
 ###### Article L352-2
 
-Le montant des dépôts autorisé sur un compte épargne d'assurance pour la forêt est égal au produit de 2 000 euros par le
-nombre d'hectares de forêt assurés dans les conditions prévues au 3° de l'article L. 352-1, dans la limite d'un plafond
-global de 50 000 euros. 
+Le  montant des dépôts autorisés sur un compte d'investissement forestier  et d'assurance est égal à 2 500 € par hectare de
+forêt assuré  conformément au 2° de l'article L. 352-1. 
 
-Les sommes sont déposées sur le compte épargne d'assurance pour la forêt dans un délai de dix ans à compter de son ouverture.
-Tout dépôt après l'expiration de ce délai entraîne la clôture du compte. 
+Le  compte ne peut être alimenté que par des produits de coupe issus de  l'exploitation des parcelles en nature de bois et
+forêts dont le  titulaire du compte est propriétaire. Le titulaire du compte doit  démontrer, lors de chaque dépôt, que les
+sommes qu'il dépose proviennent  uniquement des parcelles en nature de bois et forêts dont il est  propriétaire. 
 
-Le titulaire du compte justifie chaque année auprès du teneur du compte du nombre d'hectares de surface forestière pour
-lesquels une assurance couvrant notamment le risque de tempête est souscrite.
+La condition prévue au deuxième  alinéa ne s'applique pas lors du premier dépôt effectué à la suite de  l'ouverture du
+compte, dans la limite de 2 000 €. 
+
+Le titulaire du compte justifie chaque année auprès du teneur du compte  du nombre d'hectares de surface forestière pour
+lesquels la condition  prévue au 2° de l'article L. 352-1 est remplie.
 
 **Liens relatifs à cet article**
 
@@ -16084,18 +16070,9 @@ lesquels une assurance couvrant notamment le risque de tempête est souscrite.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L261-2 (VT)
-	  - Code forestier - art. L261-3 (VT)
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L352-1 (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
 
 	**Cité par**:
 
@@ -16106,9 +16083,12 @@ lesquels une assurance couvrant notamment le risque de tempête est souscrite.
 
 ###### Article L352-3
 
-Les sommes déposées sur le compte épargne d'assurance pour la forêt sont employées exclusivement pour financer les travaux de
-reconstitution forestière à la suite de la survenance d'un sinistre naturel d'origine sanitaire, climatologique,
-météorologique ou lié à l'incendie, ou les travaux de prévention d'un tel sinistre.
+Les  sommes déposées sur le compte d'investissement forestier et d'assurance  sont employées pour financer les travaux de
+reconstitution forestière à  la suite de la survenance d'un sinistre naturel d'origine sanitaire,  climatologique,
+météorologique ou lié à l'incendie, ou les travaux de  prévention d'un tel sinistre. 
+
+Elles peuvent  également être utilisées au titre d'une année, dans la limite de 30 %  des sommes déposées sur le compte, pour
+procéder à des travaux  forestiers de nature différente de ceux mentionnés au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -16116,13 +16096,9 @@ météorologique ou lié à l'incendie, ou les travaux de prévention d'un tel s
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L261-1 (VT), al 6.
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
 
 	**Cité par**:
 
@@ -16135,12 +16111,8 @@ météorologique ou lié à l'incendie, ou les travaux de prévention d'un tel s
 
 ###### Article L352-4
 
-Lorsqu'une partie des sommes déposées et des intérêts capitalisés sur le compte épargne d'assurance pour la forêt est retirée
-dans les conditions prévues à l'article L. 352-3, le titulaire du compte dispose d'un délai de dix ans à compter de la date
-des retraits des fonds pour reconstituer son épargne capitalisée à hauteur des retraits effectués. 
-
-Le retrait des fonds est opéré par le teneur du compte dans les conditions prévues à cet article après vérification des
-justificatifs présentés par le titulaire du compte.
+L'emploi  des sommes, dans les conditions prévues à l'article L. 352-3, est opéré  par le teneur du compte, après
+vérification des justificatifs présentés  par le titulaire du compte.
 
 **Liens relatifs à cet article**
 
@@ -16148,17 +16120,13 @@ justificatifs présentés par le titulaire du compte.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code forestier - art. L261-5 (VT)
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L352-3 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 38
 
 	**Cité par**:
 
@@ -16167,17 +16135,15 @@ justificatifs présentés par le titulaire du compte.
 
 ###### Article L352-5
 
-Le compte épargne d'assurance pour la forêt est clos dans les cas suivants : 
+Le compte d'investissement forestier et d'assurance est clos dans les cas suivants :
 
-1° La cessation totale ou partielle de la souscription de l'assurance mentionnée au 3° de l'article L. 352-1 a pour effet que
+1° La cessation totale ou partielle de la souscription de l'assurance mentionnée au 2° de l'article L. 352-1 a pour effet que
 les sommes déposées sur le compte excèdent le plafond de dépôt, exprimé en proportion du nombre d'hectares assurés contre le
-risque de tempête, mentionné au premier alinéa de l'article L. 352-2 ; 
+risque de tempête, mentionné au premier alinéa de l'article L. 352-2 ;
 
-2° Les sommes retirées du compte ne sont pas employées pour financer les travaux mentionnés à l'article L. 352-3 ; 
+2° Les sommes retirées du compte ne sont pas employées pour financer les travaux mentionnés à l'article L. 352-3 ;
 
-3° Le titulaire du compte cède l'intégralité de la surface de bois et forêts dont il est propriétaire ; 
-
-4° Le décès du titulaire du compte.
+3° Le titulaire du compte cède l'intégralité de la surface de bois et forêts dont il est propriétaire.
 
 **Liens relatifs à cet article**
 
@@ -16185,24 +16151,35 @@ risque de tempête, mentionné au premier alinéa de l'article L. 352-2 ;
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L261-6 (VT)
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L352-1 (V)
-	  - Code forestier (nouveau) - art. L352-2 (V)
-	  - Code forestier (nouveau) - art. L352-3 (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 157 (V)
 	  - Code monétaire et financier - art. D221-121 (V)
+
+
+###### Article L352-6
+
+Les comptes épargne d'assurance pour la forêt demeurent soumis au présent chapitre dans sa rédaction antérieure à l'entrée en
+vigueur de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013 ou peuvent être, à la demande de leurs
+titulaires, convertis en compte d'investissement forestier et d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D221-126 (V)
 
 
 ### TITRE VI : DISPOSITIONS PÉNALES
