@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2014-03-31
+Version Consolidée au 2014-10-15
 
 # Partie législative
 
@@ -122,7 +122,18 @@ l'article L. 130-1 du code de l'urbanisme.
 Les forêts, bois et arbres sont placés sous la sauvegarde de la Nation, sans préjudice des titres, droits et usages
 collectifs et particuliers.
 
-Sont reconnus d'intérêt général la mise en valeur et la protection des forêts ainsi que le reboisement.
+Sont reconnus d'intérêt général :
+
+1° La protection et la mise en valeur des bois et forêts ainsi que le reboisement dans le cadre d'une gestion durable ;
+
+2° La conservation des ressources génétiques et de la biodiversité forestières ;
+
+3° La protection de la ressource en eau et de la qualité de l'air par la forêt dans le cadre d'une gestion durable ;
+
+4° La protection ainsi que la fixation des sols par la forêt, notamment en zone de montagne ;
+
+5° La fixation du dioxyde de carbone par les bois et forêts et le stockage de carbone dans les bois et forêts, le bois et les
+produits fabriqués à partir de bois, contribuant ainsi à la lutte contre le changement climatique.
 
 Il est tenu un inventaire permanent des ressources forestières de la Nation.
 
@@ -132,9 +143,9 @@ Il est tenu un inventaire permanent des ressources forestières de la Nation.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
@@ -142,12 +153,6 @@ Il est tenu un inventaire permanent des ressources forestières de la Nation.
 	  - Code de l'environnement - art. L181-3 (V)
 	  - Code de l'environnement - art. L425-4 (V)
 	  - Code forestier (nouveau) - art. L156-4 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L1 (VT), al 1, phr 1
-	  - Code forestier - art. L511-1 (VT)
-	  - Code forestier - art. L521-1 (VT), ecqc principe de l'inventaire.
 
 
 ###### Article L112-2
@@ -238,17 +243,24 @@ consultation du public a été engagée avant cette date dans les conditions pr�
 
 ###### Article L113-1
 
-Le Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois participe à la définition, à la
-coordination, à la mise en œuvre et à l'évaluation de la politique forestière et de ses modulations régionales. A cette fin,
-il concourt à l'élaboration de la stratégie de recherche en matière de forêts et de produits forestiers. Il est associé à
-l'évaluation du rôle économique, social et environnemental des activités liées à la forêt et à l'exploitation et à la
-transformation des produits forestiers, ainsi qu'au suivi du financement de la politique forestière. 
+Le Conseil supérieur de la forêt et du bois participe à la définition, à la coordination, à la mise en œuvre et à
+l'évaluation de la politique forestière et de ses modulations régionales. A cette fin, il concourt à l'élaboration de la
+stratégie de recherche en matière de forêts et de produits forestiers. Il est associé à l'évaluation du rôle économique,
+social et environnemental des activités liées à la forêt et à l'exploitation et à la transformation des produits forestiers,
+ainsi qu'au suivi du financement de la politique forestière. 
 
 Il est composé de membres du Parlement ainsi que de représentants des ministères intéressés, des collectivités territoriales
 et de leurs groupements, des établissements publics intéressés, des organisations professionnelles représentatives, des
 organisations syndicales de salariés représentatives, des associations de protection de l'environnement agréées mentionnées
 aux articles L. 141-1 et L. 141-3 du code de l'environnement qui exercent leurs activités sur l'ensemble du territoire
-national, et des intérêts associés à la forêt.
+national, et des intérêts associés à la forêt. 
+
+Lorsque les questions sur lesquelles il doit se prononcer ont une incidence sur les productions agricoles, le Conseil
+supérieur d'orientation et de coordination de l'économie agricole et alimentaire y est représenté à titre consultatif. 
+
+Le Conseil supérieur de la forêt et du bois est informé de tout projet d'implantation industrielle de transformation du bois
+et formule un avis dès lors qu'il estime que ce projet implique une modification du programme national de la forêt et du
+bois, défini à l'article L. 121-2-2.
 
 **Liens relatifs à cet article**
 
@@ -256,19 +268,15 @@ national, et des intérêts associés à la forêt.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R3-6 (Ab)
-	  - Code forestier - art. L3 (VT)
-	  - Code forestier - art. L3 (VT), al 1 et 2.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L141-1 (V)
+	  - Code de l'environnement - art. L141-3 (V)
+	  - Code forestier (nouveau) - art. L121-2-2 (V)
 
 	**Cité par**:
 
@@ -279,11 +287,24 @@ national, et des intérêts associés à la forêt.
 
 ###### Article L113-2
 
-La commission régionale de la forêt et des produits forestiers est chargée notamment d'élaborer les orientations régionales
-forestières mentionnées à l'article L. 122-1 ainsi que de donner un avis à l'autorité administrative sur les directives et
-schémas régionaux mentionnés à l'article L. 122-2. Elle comprend des représentants des collectivités territoriales, des
+La commission régionale de la forêt et du bois est chargée notamment d'élaborer les programmes régionaux de la forêt et du
+bois mentionnés à l'article L. 122-1 ainsi que de donner un avis à l'autorité administrative sur les directives et schémas
+régionaux mentionnés à l'article L. 122-2. Elle comprend des représentants des collectivités territoriales, des
 administrations déconcentrées de l'Etat, des établissements publics intéressés, des organisations professionnelles, des
-associations de protection de l'environnement, d'associations d'usagers de la forêt ainsi que des personnalités qualifiées.
+associations de protection de l'environnement, des fédérations départementales ou interdépartementales des chasseurs,
+d'associations d'usagers de la forêt ainsi que des personnalités qualifiées. 
+
+Un comité composé paritairement de représentants des propriétaires forestiers et des chasseurs est rattaché à la commission.
+Il établit, en concertation avec les commissions départementales de la chasse et de la faune sauvage territorialement
+compétentes, le bilan des dégâts de gibier recensés au cours de l'année écoulée. Il adopte, à la majorité des deux tiers de
+ses membres et après consultation des commissions départementales de la chasse et de la faune sauvage territorialement
+compétentes, un programme d'actions permettant de favoriser l'établissement d'un équilibre sylvocynégétique dans les zones
+les plus affectées. Si la majorité des deux tiers n'est pas atteinte, le programme d'actions est élaboré et arrêté par le
+représentant de l'Etat dans la région. 
+
+Le programme d'actions mentionné au deuxième alinéa est transmis aux représentants de l'Etat dans les départements que
+comporte la région avant l'établissement des schémas départementaux de gestion cynégétique prévus à la section 1 du chapitre
+V du titre II du livre IV du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -291,9 +312,9 @@ associations de protection de l'environnement, d'associations d'usagers de la fo
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
@@ -311,14 +332,9 @@ associations de protection de l'environnement, d'associations d'usagers de la fo
 	  - Code forestier (nouveau) - art. L178-2 (V)
 	  - Code forestier (nouveau) - art. L214-13-1 (V)
 
-	**Anciens textes**:
-
-	  - Code forestier - art. L4 (VT), al 1 ecqc élaboration.
-	  - Code forestier - art. R4-2 (Ab)
-
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L122-2 (V)
+	  - Code forestier (nouveau) - art. L122-2
 
 
 ### TITRE II : POLITIQUE FORESTIÈRE  ET GESTION DURABLE
@@ -328,13 +344,32 @@ associations de protection de l'environnement, d'associations d'usagers de la fo
 ###### Article L121-1
 
 La politique forestière relève de la compétence de l'Etat. Ses orientations, ses financements et ses investissements
-s'inscrivent dans le long terme.
+s'inscrivent dans le long terme. 
 
-Elle a pour objet d'assurer la gestion durable des bois et forêts. Elle prend en compte leurs fonctions économique,
-écologique et sociale. Elle contribue à l'équilibre biologique en prenant en considération les modifications et phénomènes
-climatiques. Elle concourt au développement de la qualification des emplois en vue de leur pérennisation. Elle vise à
-favoriser le regroupement technique et économique des propriétaires et l'organisation interprofessionnelle de la filière
-forestière pour en renforcer la compétitivité. Elle tend à satisfaire les demandes sociales relatives à la forêt.
+L'Etat veille : 
+
+1° A l'adaptation des essences forestières au milieu ; 
+
+2° A l'optimisation du stockage de carbone dans les bois et forêts, le bois et les produits fabriqués à partir de bois ; 
+
+3° Au maintien de l'équilibre et de la diversité biologiques et à l'adaptation des forêts au changement climatique ; 
+
+4° A la régénération des peuplements forestiers dans des conditions satisfaisantes d'équilibre sylvo-cynégétique, au sens du
+dernier alinéa de l'article L. 425-4 du code de l'environnement ; 
+
+5° A la satisfaction des besoins des industries du bois, notamment par l'équilibre des classes d'âge des peuplements
+forestiers au niveau national ; 
+
+6° Au renforcement de la compétitivité et de la durabilité des filières d'utilisation du bois, par la valorisation optimale
+des ressources forestières nationales et par l'accompagnement en formation des nouveaux métiers du bois ; 
+
+7° Au développement des territoires. 
+
+La politique forestière a pour objet d'assurer la gestion durable des bois et forêts. Elle prend en compte leurs fonctions
+économique, écologique et sociale. Elle concourt au développement de la qualification des emplois en vue de leur
+pérennisation. Elle vise à favoriser le regroupement technique et économique des propriétaires et l'organisation
+interprofessionnelle de la filière forestière pour en renforcer la compétitivité. Elle tend à satisfaire les demandes
+sociales relatives à la forêt.
 
 **Liens relatifs à cet article**
 
@@ -342,9 +377,9 @@ forestière pour en renforcer la compétitivité. Elle tend à satisfaire les de
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 1
 
 	**Cité par**:
 
@@ -358,22 +393,23 @@ forestière pour en renforcer la compétitivité. Elle tend à satisfaire les de
 	  - Code forestier (nouveau) - art. L177-3 (M)
 	  - Code forestier (nouveau) - art. L178-3 (M)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code forestier - art. L1 (VT), al 1 phr 2, al 2 ecqc politique forestiére, al 4 phr 2, et 7.
-	  - Code forestier - art. L2 (VT), phr 1.
-	  - Code forestier - art. L5 (VT), ecqc l'équilibre biologique du pays.
+	  - Code de l'environnement - art. L425-4 (V)
 
 
 ###### Article L121-2
 
-La politique forestière privilégie les mesures incitatives et contractuelles, notamment par la recherche de contreparties
-pour les services rendus en assurant les fonctions environnementale et sociale lorsqu'il en résulte des contraintes ou des
-surcoûts d'investissement et de gestion.
+La politique forestière privilégie les mesures incitatives et contractuelles, notamment à l'égard des propriétaires organisés
+en groupement. Elle favorise la recherche de contreparties pour les services rendus en matière environnementale et sociale
+par les bois et forêts qui présentent une garantie de gestion durable.
 
 L'Etat assure la cohérence de la politique forestière avec les autres politiques publiques relatives notamment au
 développement rural, à l'aménagement du territoire, à la protection des sols et des eaux et à la prévention des risques
 naturels.
+
+L'Etat favorise les démarches territoriales et privilégie les initiatives des propriétaires forestiers, à l'échelle d'un
+massif forestier cohérent, en faveur d'une gestion durable et multifonctionnelle.
 
 Les collectivités territoriales et leurs groupements peuvent passer des contrats avec l'Etat, notamment dans le cadre des
 stratégies locales de développement forestier, en vue de concourir à la mise en œuvre de cette politique.
@@ -384,18 +420,85 @@ stratégies locales de développement forestier, en vue de concourir à la mise 
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L1 (VT), al 4 phr 1 et 8.
-	  - Code forestier - art. L2 (VT), phr 2.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. L5111-4 (V)
+
+
+###### Article L121-2-1
+
+La politique conduite dans le but de promouvoir la qualité des produits forestiers et de garantir leur origine doit répondre
+de façon globale et équilibrée aux objectifs suivants :
+
+1° Promouvoir la diversité des produits et l'identification de leurs caractéristiques, ainsi que les garanties de gestion
+durable des forêts, pour renforcer l'information du consommateur et satisfaire ses attentes ;
+
+2° Renforcer le développement de la filière de production, de récolte, de transformation et de commercialisation des produits
+forestiers et accroître l'adaptation des produits à la demande ;
+
+3° Fixer sur le territoire les capacités de transformation des produits forestiers et assurer le maintien de l'activité
+économique, notamment en zone rurale défavorisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+	**Anciens textes**:
+
+	  - Code forestier (nouveau) - art. L125-1 (T)
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. R213-28 (V)
+	  - Code rural et de la pêche maritime - art. L632-2 (V)
+
+
+###### Article L121-2-2
+
+Un programme national de la forêt et du bois précise les orientations de la politique forestière pour une durée maximale de
+dix ans. Il détermine des objectifs économiques, environnementaux et sociaux fondés sur des indicateurs de gestion durable.
+Il définit les territoires interrégionaux qui justifient, de par leurs caractéristiques communes, une coordination des
+programmes régionaux de la forêt et du bois, définis à l'article L. 122-1. Il assure le partage de l'information sur la
+production de produits forestiers et de produits issus de la transformation du bois, en vue d'une meilleure valorisation du
+bois et du développement des entreprises, ainsi que sur la production d'aménités environnementales et sociales de la forêt en
+vue de leur développement et de l'évaluation des modalités de leur rémunération.
+
+Le projet de programme national est soumis à la participation du public par l'autorité administrative compétente de l'Etat,
+dans les conditions prévues aux articles L. 120-1 à L. 120-2 du code de l'environnement. Il est approuvé par décret, après
+avis du Conseil supérieur de la forêt et du bois. Ses modalités d'élaboration sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+	**Cité par**:
+
+	  - Décret n°2015-666 du 10 juin 2015 (V)
+	  - Décret n°2016-1134 du 19 août 2016 - art. 1
+	  - Décret n°2016-1134 du 19 août 2016 - art. 2
+	  - Décret n°2017-155 du 8 février 2017 (V)
+	  - Décret n°2017-626 du 25 avril 2017 - art. 2
+	  - Décret n°2017-758 du 3 mai 2017 - art. 1
+	  - Code de l'environnement - art. D222-11 (V)
+	  - Code de l'environnement - art. R121-1-1 (V)
+	  - Code de l'environnement - art. R122-17 (VD)
+	  - Code de l'énergie - art. D211-3 (V)
+	  - Code forestier (nouveau) - art. D121-1 (V)
+	  - Code forestier (nouveau) - art. L113-1 (V)
+	  - Code rural - art. D512-2-3 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L120-1
+	  - Code forestier (nouveau) - art. L122-1
 
 
 ###### Article L121-3
@@ -423,18 +526,7 @@ l'accueil du public, la conservation des milieux, la prise en compte de la biodi
 
 Les documents de politique forestière mentionnés à l'article L. 122-2 traduisent, de manière adaptée aux spécificités
 respectives des bois et forêts relevant du régime forestier ou appartenant à des particuliers, les objectifs d'une gestion
-durable des bois et forêts tendant à : 
-
-1° Garantir leur diversité biologique, leur productivité, leur capacité de régénération, leur vitalité et leur capacité à
-satisfaire, actuellement et pour l'avenir, leurs fonctions économique, écologique et sociale pertinentes aux niveaux local,
-national et international, sans causer de préjudice à d'autres écosystèmes ; 
-
-2° Assurer un équilibre sylvo-cynégétique, tel que défini à l'article L. 425-4 du code de l'environnement, permettant la
-régénération des peuplements forestiers dans des conditions économiques satisfaisantes pour le propriétaire ; 
-
-3° Contribuer à la réduction des émissions de gaz à effet de serre et au développement des énergies renouvelables. A ce
-titre, la gestion durable des bois et forêts a vocation à participer aux mécanismes de marché destinés à honorer les
-engagements internationaux de la France en la matière.
+durable des bois et forêts, définis à l'article L. 121-1.
 
 **Liens relatifs à cet article**
 
@@ -442,18 +534,9 @@ engagements internationaux de la France en la matière.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L1 (VT), al 5 phr 1 et 6.
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L425-4 (V)
-	  - Code forestier (nouveau) - art. L122-2 (VD)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
@@ -464,6 +547,11 @@ engagements internationaux de la France en la matière.
 	  - Code forestier (nouveau) - art. R176-1 (V)
 	  - Code forestier (nouveau) - art. R177-1 (V)
 	  - Code forestier (nouveau) - art. R213-53 (M)
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L121-1
+	  - Code forestier (nouveau) - art. L122-2 (V)
 
 
 ###### Article L121-5
@@ -541,16 +629,39 @@ En cas de sinistre de grande ampleur, le ministre chargé des forêts peut prév
 
 ###### Article L122-1
 
-Des orientations régionales forestières traduisent les objectifs définis à l'article L. 121-1. Elles sont élaborées par les
-commissions régionales de la forêt et des produits forestiers mentionnées à l'article L. 113-2 et arrêtées par le ministre
-chargé des forêts, après avis des conseils régionaux et des conseils généraux.
+Dans un délai de deux ans suivant l'édiction du programme national de la forêt et du bois, un programme régional de la forêt
+et du bois adapte à chaque région les orientations et les objectifs du programme national de la forêt et du bois. Il fixe,
+par massif forestier, les priorités économiques, environnementales et sociales et les traduit en objectifs. Il définit des
+critères de gestion durable et multifonctionnelle et des indicateurs associés. Il identifie les massifs forestiers à enjeux
+prioritaires pour la mobilisation du bois. Il précise les conditions nécessaires au renouvellement des peuplements
+forestiers, notamment au regard de l'équilibre sylvo-cynégétique, en intégrant, le cas échéant, le programme d'actions
+mentionné au deuxième alinéa de l'article L. 113-2. Il définit un itinéraire de desserte des ressources forestières en
+s'appuyant sur les référentiels géographiques et forestiers de l'Institut national de l'information géographique et
+forestière. Il définit les actions à mettre en œuvre dans la région. 
+
+Il est élaboré par la commission régionale de la forêt et du bois mentionnée à l'article L. 113-2 du présent code, soumis à
+la participation du public par l'autorité administrative compétente de l'Etat, dans les conditions prévues aux articles L.
+120-1 à L. 120-2 du code de l'environnement, et arrêté par le ministre chargé des forêts. 
+
+Pour la Corse, le programme régional de la forêt et du bois est arrêté par le ministre chargé des forêts, après avis conforme
+du président du conseil exécutif de la collectivité territoriale de Corse. 
+
+La commission régionale de la forêt et du bois établit un bilan de la mise en œuvre du programme régional de la forêt et du
+bois et propose, si besoin, les modifications nécessaires. Ce bilan est transmis au ministre chargé des forêts, qui
+communique au Conseil supérieur de la forêt et du bois une synthèse de l'ensemble des bilans des programmes régionaux. 
+
+Les documents d'orientation régionaux, départementaux et locaux arrêtés par l'Etat ou par les collectivités publiques ayant
+une incidence sur la forêt et la filière bois et figurant sur une liste établie par décret tiennent compte du programme
+régional de la forêt et du bois de la région concernée. Les orientations régionales de gestion de la faune sauvage et de ses
+habitats prévues à l'article L. 414-8 du code de l'environnement et les schémas départementaux de gestion cynégétique prévus
+à l'article L. 425-1 du même code sont compatibles avec le programme régional de la forêt et du bois.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s’appliquera aux élections organisées en mars 2015 à l’occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+Conformément à l'article 93 XI de la loi n° 2014-1170 du 13 octobre 2014, les orientations régionales forestières mentionnées
+au présent article et les plans pluriannuels régionaux de développement forestier définis aux articles L. 122-12 à L. 122-15
+du présent code demeurent applicables et continuent de produire leurs effets jusqu'à l'adoption des programmes régionaux de
+la forêt et du bois et, au plus tard, jusqu'au 31 décembre 2020.
 
 **Liens relatifs à cet article**
 
@@ -558,9 +669,9 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
@@ -597,25 +708,38 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 	  - Code rural - art. D512-2-3 (V)
 	  - Code rural et de la pêche maritime - art. L126-1 (VD)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code forestier - art. L4 (VT), al 1 ecqc ORF.
+	  - Code de l'environnement - art. L120-1
+
+
+###### Article L122-1-1
+
+Le programme régional de la forêt et du bois, mentionné à l'article L. 122-1, prévoit, en Guadeloupe, en Guyane, en
+Martinique et à La Réunion, que soient caractérisées et qualifiées les performances techniques des produits issus de la
+transformation du bois dans la construction, avec un volet spécifique aux essences présentes dans les outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L121-1 (VD)
+	  - Code forestier (nouveau) - art. L122-1 (V)
 
 
 ###### Article L122-2
 
-Dans le cadre défini par les orientations régionales forestières, le ministre chargé des forêts arrête, après avis de la
-commission régionale de la forêt et des produits forestiers et dans les conditions prévues à l'article L. 122-8 du code de
-l'environnement : 
+Dans le cadre défini par les programmes régionaux de la forêt et du bois, le ministre chargé des forêts arrête, après avis de
+la commission régionale de la forêt et du bois et dans les conditions prévues à l'article L. 122-8 du code de
+l'environnement :
 
 1° Les directives d'aménagement des bois et forêts relevant du 1° du I de l'article L. 211-1 du présent code et du 2° de
-l'article L. 211-2 ; 
+l'article L. 211-2 ;
 
-2° Les schémas régionaux d'aménagement des bois et forêts relevant du 2° du I de l'article L. 211-1 ; 
+2° Les schémas régionaux d'aménagement des bois et forêts relevant du 2° du I de l'article L. 211-1 ;
 
 3° Les schémas régionaux de gestion sylvicole des bois et forêts des particuliers, après avis du Centre national de la
 propriété forestière mentionné à l'article L. 321-1.
@@ -626,18 +750,15 @@ propriété forestière mentionné à l'article L. 321-1.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L4 (VT), al 2.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L122-8 (V)
-	  - Code forestier (nouveau) - art. L211-1 (VD)
+	  - Code de l'environnement - art. L122-8
+	  - Code forestier (nouveau) - art. L211-1
+	  - Code forestier (nouveau) - art. L211-2 (V)
 	  - Code forestier (nouveau) - art. L321-1 (VD)
 
 	**Cité par**:
@@ -647,7 +768,7 @@ propriété forestière mentionné à l'article L. 321-1.
 	  - Code forestier (nouveau) - art. D122-4 (V)
 	  - Code forestier (nouveau) - art. D122-8 (V)
 	  - Code forestier (nouveau) - art. L113-2 (V)
-	  - Code forestier (nouveau) - art. L121-4 (VD)
+	  - Code forestier (nouveau) - art. L121-4 (V)
 	  - Code forestier (nouveau) - art. L121-5 (VD)
 	  - Code forestier (nouveau) - art. L122-13 (VD)
 	  - Code forestier (nouveau) - art. L122-7 (V)
@@ -725,12 +846,28 @@ prévues à l'article L. 124-2 du même code, dans sa rédaction antérieure à 
 	  - Code rural et de la pêche maritime - art. D551-100 (V)
 
 
+###### Article L122-3-1
+
+Les documents de gestion mentionnés à l'article L. 122-3 et régulièrement entrés en vigueur disposent d'un délai de cinq ans
+pour prendre en compte toute évolution réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L122-3
+
+
 ###### Article L122-4
 
 Un document d'aménagement ou un plan simple de gestion peut être arrêté ou agréé à la demande des propriétaires de parcelles
 forestières lorsqu'elles constituent un ensemble d'une surface totale d'au moins 10 hectares et sont situées sur le
-territoire d'une même commune ou de communes limitrophes. Dans ce cas, le document de gestion engage chaque propriétaire pour
-les parcelles qui lui appartiennent.
+territoire d'une même commune ou de communes limitrophes. Dans ce cas, le document de gestion concerté engage chaque
+propriétaire pour les parcelles qui lui appartiennent.
 
 **Liens relatifs à cet article**
 
@@ -738,9 +875,9 @@ les parcelles qui lui appartiennent.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 79
 
 	**Cité par**:
 
@@ -751,11 +888,7 @@ les parcelles qui lui appartiennent.
 	  - Code forestier (nouveau) - art. L332-7 (V)
 	  - Code forestier (nouveau) - art. R312-4-1 (V)
 	  - Code forestier (nouveau) - art. R312-5 (V)
-	  - Code général des impôts, CGI. - art. 199 decies H (M)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L6 (VT), II.
+	  - Code général des impôts, CGI. - art. 199 decies H (V)
 
 
 ###### Article L122-5
@@ -794,32 +927,28 @@ faibles potentialités économiques et ne présentant pas d'intérêt écologiqu
 
 Sans préjudice des dispositions de l'article L. 112-3 et de celles de l'article 4 de la loi n° 78-753 du 17 juillet 1978
 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre
-administratif, social et fiscal, les orientations régionales forestières, les directives et schémas régionaux ainsi que les
-documents d'aménagement pour leur partie technique sont communicables à toute personne, à sa demande et à ses frais.
+administratif, social et fiscal, les programmes régionaux de la forêt et du bois, les directives et schémas régionaux ainsi
+que les documents d'aménagement pour leur partie technique sont communicables à toute personne, à sa demande et à ses frais.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-753 du 17 juillet 1978 - art. 4
-	  - Code forestier (nouveau) - art. L112-3 (VD)
+	  - Code forestier (nouveau) - art. L112-3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L4 (VT), al 9.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L414-8 (M)
-	  - Code de l'environnement - art. L425-12 (M)
+	  - Code de l'environnement - art. L425-12 (V)
 	  - Code forestier (nouveau) - art. D122-9 (V)
 
 
@@ -870,6 +999,32 @@ compétente au titre de ces législations.
 
 	  - Code forestier - art. L11 (VT)
 	  - Code forestier - art. L11 (VT), al 1 et 2.
+
+
+###### Article L122-7-1
+
+Pour l'application du 2° de l'article L. 122-7 au document d'aménagement défini au a du 1° de l'article L. 122-3 :
+
+1° Le document d'aménagement est approuvé par l'autorité compétente chargée des forêts après vérification de sa conformité
+aux législations mentionnées à l'article L. 122-8. L'Office national des forêts recueille l'accord, explicite lorsqu'une
+prescription légale ou internationale l'impose, des autorités compétentes au titre de ces législations ;
+
+2° L'accord des autorités compétentes au titre des législations mentionnées au même article L. 122-8 peut être assorti de
+prescriptions qui doivent être intégrées au document d'aménagement. Pour les coupes et travaux définis dans le document
+d'aménagement, l'accord de ces autorités ne peut être subordonné à l'application de nouvelles formalités pendant la mise en
+œuvre du document d'aménagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 68
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L122-3 (VT)
+	  - Code forestier (nouveau) - art. L122-7 (V)
+	  - Code forestier (nouveau) - art. L122-8 (V)
 
 
 ###### Article L122-8
@@ -1026,162 +1181,6 @@ pour le propriétaire, aucune charge financière et matérielle de mesures compe
 	  - Code forestier - art. L380-1 (VT), al 3 et 4.
 
 
-##### Section 4 : Plan pluriannuel régional  de développement forestier
-
-###### Article L122-12
-
-Afin d'améliorer la production et la valorisation économique du bois, tout en respectant les conditions d'une gestion durable
-des forêts, il est établi dans chaque région un plan pluriannuel régional de développement forestier. Ce plan identifie à
-l'échelle régionale les massifs forestiers qui justifient, en raison de leur insuffisante exploitation, des actions
-prioritaires pour la mobilisation du bois. Il analyse les raisons pour lesquelles l'exploitation est insuffisante et définit
-les actions à mettre en œuvre à court terme pour y remédier. Ces actions sont relatives aux méthodes les plus adaptées à la
-gestion durable des forêts considérées dans la perspective d'une meilleure valorisation économique du bois, aux
-investissements à réaliser et à la coordination locale du développement forestier.
-
-Sont exclus de ce plan tous actes relevant du secteur marchand, de gestion directe, de maîtrise d'œuvre, de travaux ou de
-commercialisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
-	**Cité par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 93 (V)
-	  - Code de l'environnement - art. R122-17 (M)
-	  - Code forestier (nouveau) - art. L321-13 (VD)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L4-1 (VT), al 1 et 2.
-
-
-###### Article L122-13
-
-Le plan pluriannuel régional de développement forestier est établi sous l'autorité du représentant de l'Etat dans la région,
-en association avec les collectivités territoriales concernées. Il est préparé par un comité comprenant des représentants des
-propriétaires forestiers et des professionnels de la production forestière, notamment le centre régional de la propriété
-forestière, des représentants des communes forestières, de l'Office national des forêts et des représentants régionaux des
-chambres d'agriculture. 
-
-Le représentant de l'Etat dans la région prend en compte les dispositions des schémas directeurs d'aménagement et de gestion
-des eaux mentionnés à l'article L. 212-1 du code de l'environnement et des schémas régionaux de cohérence écologique et, dans
-le cas où certaines des forêts incluses dans le plan en font l'objet, les dispositions du schéma interrégional d'aménagement
-et de développement de massif ainsi que, dans les régions d'outre-mer, les dispositions des schémas d'aménagement régionaux.
-Il vérifie la compatibilité du plan avec les orientations régionales forestières ou, pour la Corse, avec le plan
-d'aménagement et de développement durable de la Corse, et avec les directives et schémas mentionnés à l'article L. 122-2. Il
-met le projet de plan à la disposition du public pendant une durée minimale d'un mois sous des formes, notamment
-électroniques, de nature à permettre sa participation. Il arrête ce plan après avis de la commission régionale de la forêt et
-des produits forestiers. 
-
-Un bilan de la mise en œuvre du plan pluriannuel de développement forestier est présenté chaque année à la commission
-régionale de la forêt et des produits forestiers. A l'issue d'un délai fixé par décret, le représentant de l'Etat dans la
-région décide du maintien ou de la révision du plan. A défaut d'une telle décision le plan devient caduc. 
-
-Dans la collectivité territoriale de Corse, les compétences conférées par le présent article au représentant de l'Etat dans
-la région sont exercées conjointement par ce dernier et par le président du conseil exécutif de Corse.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L4-1 (VT), al 3, 4, 7 et 8.
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L212-1 (V)
-	  - Code forestier (nouveau) - art. L122-2 (VD)
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. D122-26 (V)
-
-
-###### Article L122-14
-
-Le plan pluriannuel régional de développement forestier est mis en œuvre par les propriétaires forestiers publics et privés,
-par le centre régional de la propriété forestière, par l'Office national des forêts, par la chambre régionale et les chambres
-départementales d'agriculture dans l'exercice de leurs compétences respectives ainsi que par tout organisme œuvrant dans le
-cadre de la coordination locale de développement forestier, le cas échéant, dans le cadre des stratégies locales de
-développement forestier mentionnées au chapitre III du présent titre. Les interventions publiques sont prioritairement
-affectées aux actions définies dans le plan.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L4-1 (VT), al 6.
-
-
-###### Article L122-15
-
-Lors de l'élaboration ou de la révision des documents d'urbanisme, le plan pluriannuel régional de développement forestier
-est porté à la connaissance des communes ou des établissements publics de coopération intercommunale compétents par le
-représentant de l'Etat dans la région, en application de l'article L. 121-2 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L4-1 (VT), al 5.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-2 (VT)
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. L176-1 (M)
-	  - Code forestier (nouveau) - art. L177-1 (M)
-	  - Code forestier (nouveau) - art. L178-1 (M)
-
-
 #### Chapitre III : Stratégies locales de développement forestier
 
 ###### Article L123-1
@@ -1206,8 +1205,7 @@ groupée à l'échelle d'un massif forestier ;
 5° Renforcer la compétitivité de la filière de production, de récolte, de transformation et de valorisation des produits
 forestiers.
 
-Elle doit être compatible avec le plan pluriannuel régional de développement forestier mentionné à la section 4 du chapitre
-II du présent titre.
+Elle doit être compatible avec le programme régional de la forêt et du bois.
 
 **Liens relatifs à cet article**
 
@@ -1215,19 +1213,14 @@ II du présent titre.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R122-17 (VD)
 	  - Code forestier (nouveau) - art. D332-15 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L12 (VT)
-	  - Code forestier - art. L12 (VT), al 1 à 7.
 
 
 ###### Article L123-2
@@ -1235,27 +1228,22 @@ II du présent titre.
 L'élaboration et la mise en œuvre de la stratégie locale de développement forestier sont conduites par un comité associant
 les propriétaires forestiers, leurs mandataires ou leurs organisations représentatives, les professionnels de l'exploitation
 forestière ou leurs organisations représentatives, des représentants des établissements publics, des associations d'usagers
-de la forêt ou de protection de l'environnement ainsi que des collectivités territoriales concernées. Ce comité est présidé
+de la forêt et de protection de l'environnement ainsi que des collectivités territoriales concernées. Ce comité est présidé
 par un représentant élu d'une des collectivités territoriales.
 
 La stratégie retenue définit les objectifs poursuivis, des indicateurs relatifs aux actions à mettre en œuvre et des
 indicateurs de résultats. Un compte rendu annuel de sa mise en œuvre est établi et adressé à la commission régionale de la
-forêt et des produits forestiers où il fait l'objet d'un débat.
+forêt et du bois où il fait l'objet d'un débat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L12 (VT)
-	  - Code forestier - art. L12 (VT), al 8 et 10.
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 
 ###### Article L123-3
@@ -1264,24 +1252,19 @@ La stratégie locale de développement forestier, qui peut prendre la dénominat
 plan de développement de massif, donne lieu à des conventions conclues entre, d'une part, un ou plusieurs propriétaires
 forestiers, leurs mandataires ou leurs organisations représentatives et, d'autre part, des professionnels de l'exploitation
 forestière et de la transformation du bois ou leurs organisations représentatives, des établissements publics, des
-associations d'usagers de la forêt ou de protection de l'environnement, des collectivités territoriales ou l'Etat. Ces
+associations d'usagers de la forêt et  de protection de l'environnement, des collectivités territoriales ou l'Etat. Ces
 conventions, sous réserve du respect des dispositions du présent code et des règles applicables aux aides d'Etat, peuvent
 donner lieu à des aides publiques dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code forestier - art. L12 (VT), al 11.
-	  - Code forestier - art. L12 (VT)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
@@ -1294,29 +1277,34 @@ donner lieu à des aides publiques dans des conditions fixées par décret.
 
 ###### Article L124-1
 
-Présentent des garanties de gestion durable les bois et forêts gérés conformément à : 
+Présentent des garanties de gestion durable, sous réserve de la mise en œuvre effective du programme de coupes et travaux
+prévu, les bois et forêts gérés conformément à :
 
-1° Un document d'aménagement arrêté ; 
+1° Un document d'aménagement arrêté ;
 
-2° Un plan simple de gestion agréé ; 
+2° Un plan simple de gestion agréé ;
 
 3° Un règlement type de gestion approuvé, à condition que le propriétaire respecte celles des prescriptions mentionnées aux
-articles L. 122-5 et L. 313-2 qui lui sont applicables. 
+articles L. 122-5 et L. 313-2 qui lui sont applicables.
 
 Présentent également des garanties de gestion durable, dès lors qu'ils disposent du document de gestion spécifique à leur
-situation, les bois et forêts : 
+situation, les bois et forêts :
 
-1° Inclus dans le cœur d'un parc national ou dans une réserve naturelle ; 
+1° Inclus dans le cœur d'un parc national ou dans une réserve naturelle ;
 
 2° Classés comme forêt de protection en application de l'article L. 141-1 ; 
 
-3° Gérés principalement en vue de la préservation d'espèces ou de milieux forestiers ; 
+3° Gérés principalement en vue de la préservation d'espèces ou de milieux forestiers ;
 
 4° Appartenant à des personnes publiques sans relever du I de l'article L. 211-1 et gérés conformément à un règlement type de
 gestion agréé, que le propriétaire s'est engagé à appliquer pour une durée et selon des modalités fixées par décret en
 Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
 	**Cité par**:
 
@@ -1342,24 +1330,16 @@ Conseil d'Etat.
 	  - Code monétaire et financier - art. D221-121 (M)
 	  - Code rural et de la pêche maritime - art. L125-10 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L8 (VT), I er II, al 1 à 4.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L141-1 (V)
-	  - Code forestier (nouveau) - art. L122-5 (VD)
-	  - Code forestier (nouveau) - art. L211-1 (VD)
-	  - Code forestier (nouveau) - art. L313-2 (VD)
+	  - Code de l'environnement - art. L141-1
+	  - Code forestier (nouveau) - art. L122-5
+	  - Code forestier (nouveau) - art. L211-1
+	  - Code forestier (nouveau) - art. L313-2
 
 
 ###### Article L124-2
@@ -1550,21 +1530,23 @@ réalisation, le vendeur reste responsable de leur paiement à l'acquéreur.
 	  - Code forestier (nouveau) - art. L312-8 (V)
 
 
-#### Chapitre V : Certification
+#### Chapitre V : Protection contre les atteintes à la propriété foncière forestière
 
 ###### Article L125-1
 
-La politique conduite dans le but de promouvoir la qualité des produits forestiers et de garantir leur origine doit répondre
-de façon globale et équilibrée aux objectifs suivants :
+Sans préjudice des poursuites pénales encourues en cas de coupes et enlèvements d'arbres non autorisés, toute occupation de
+bois et forêts par des ouvrages, infrastructures ou équipements implantés sous terre sans l'accord écrit des propriétaires ou
+hors de toute servitude d'utilité publique régulièrement déclarée, dans le but d'assurer le transport d'énergie, les
+télécommunications, le captage ou la distribution d'eau, donne lieu au paiement, au profit du propriétaire ou, pour les
+forêts qui lui sont confiées en gestion conformément au second alinéa de l'article L. 221-2, de l'Office national des forêts,
+d'une indemnité annuelle d'occupation par mètre linéaire ou mètre carré dont le montant est fixé par décret, dans la limite
+de 20 € par mètre linéaire ou mètre carré. 
 
-1° Promouvoir la diversité des produits et l'identification de leurs caractéristiques, ainsi que les garanties de gestion
-durable des forêts, pour renforcer l'information du consommateur et satisfaire ses attentes ;
+Si la date de début de l'occupation n'est pas déterminée, et sauf preuve contraire, l'indemnité est calculée sur une durée
+d'occupation de trois ans avant la découverte de celle-ci. 
 
-2° Renforcer le développement de la filière de production, de récolte, de transformation et de commercialisation des produits
-forestiers et accroître l'adaptation des produits à la demande ;
-
-3° Fixer sur le territoire les capacités de transformation des produits forestiers et assurer le maintien de l'activité
-économique, notamment en zone rurale défavorisée.
+En l'absence de toute régularisation au delà de six années d'occupation sans titre, l'indemnité est majorée de 20 % chaque
+année supplémentaire.
 
 **Liens relatifs à cet article**
 
@@ -1572,58 +1554,18 @@ forestiers et accroître l'adaptation des produits à la demande ;
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L13 (VT), al 1 à 4.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. D125-1 (V)
 	  - Code rural - art. L632-2 (M)
 
-	**Nouveaux textes**:
-
-	  - Code forestier (nouveau) - art. L121-2-1, v. 0.1 (V)
-
-
-###### Article L125-2
-
-Les forêts gérées durablement peuvent faire l'objet d'une écocertification de gestion durable. Un décret définit les critères
-et les modalités de cette écocertification, dont la prise en compte des documents de gestion mentionnés à l'article L. 122-3,
-les types de contrôles applicables, les conditions de reconnaissance des systèmes de certification, les mentions
-correspondantes et leurs conditions d'utilisation. Il précise les conditions dans lesquelles le bénéfice de cette
-écocertification peut être étendu aux produits provenant des forêts dont la gestion est certifiée et aux produits issus de
-leur transformation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L13 (VT), al 5.
-
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L122-3
+	  - Code forestier (nouveau) - art. L221-2
 
 
 ### TITRE III : DÉFENSE ET LUTTE  CONTRE LES INCENDIES DE FORÊT
@@ -2423,7 +2365,8 @@ déclarés d'utilité publique à la demande de l'Etat, d'une collectivité terr
 territoriales. 
 
 La déclaration d'utilité publique est prononcée après consultation des collectivités territoriales intéressées et enquête
-publique menée dans les formes prévues par le chapitre Ier du code de l'expropriation pour cause d'utilité publique. 
+publique menée dans les formes prévues par le chapitre Ier du titre Ier du code de l'expropriation pour cause d'utilité
+publique. 
 
 L'acte déclarant l'utilité publique détermine le périmètre de protection et de reconstitution forestière à l'intérieur duquel
 ces travaux sont exécutés et les dispositions prévues aux articles L. 133-4 à L. 133-10 sont applicables. 
@@ -2437,18 +2380,14 @@ en application de l'article L. 130-1 du code de l'urbanisme.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L321-6 (VT), al 3 phr 1, al 4 phr 1 et 3, al 5 phr 2.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-1 (V)
-	  - Code forestier (nouveau) - art. L133-2 (V)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code forestier (nouveau) - art. L133-2
 
 	**Cité par**:
 
@@ -3945,23 +3884,24 @@ de l'environnement.
 
 ###### Article L143-2
 
-Sur les dunes côtières fixées par des plantes aréneuses, et, le cas échéant, par des arbres épars, sans préjudice de
+Sur les dunes côtières fixées par des plantes aréneuses et, le cas échéant, par des arbres épars, sans préjudice de
 l'application des dispositions relatives au défrichement prévues au titre IV du livre III, aucune coupe de ces végétaux ne
-peut être réalisée sans autorisation préalable de l'autorité administrative compétente de l'Etat. 
+peut être réalisée sans autorisation préalable de l'autorité administrative compétente de l'Etat, hormis si elle est
+programmée par un document de gestion mentionné au a des 1° ou 2° de l'article L. 122-3. 
 
-Cette autorisation peut être subordonnée au respect de l'une au moins des prescriptions suivantes : 
+Cette autorisation peut être subordonnée à l'exécution de travaux de restauration dans un secteur de dunes comparables du
+point de vue de la protection de l'environnement et de l'intérêt du public, pour une surface correspondant au moins à la
+surface faisant l'objet de l'autorisation.
 
-1° La cession à l'Etat, à une collectivité territoriale ou à un établissement public, de dunes côtières fixées par des
-plantes aréneuses d'une surface au moins égale à celle faisant l'objet de l'autorisation ; 
-
-2° L'exécution de travaux de restauration dans un secteur de dunes comparables du point de vue de l'intérêt de
-l'environnement et du public, pour une surface correspondant à la surface faisant l'objet de coupes. 
+Le demandeur qui ne souhaite pas réaliser par lui-même les travaux mentionnés au deuxième alinéa peut proposer de s'acquitter
+de ses obligations par la cession à l'Etat, à une collectivité territoriale ou à un établissement public de dunes côtières
+fixées par des plantes aréneuses d'une surface au moins égale à celle faisant l'objet de l'autorisation.
 
 L'autorisation peut être refusée lorsque la conservation de ces végétaux est reconnue nécessaire au titre d'un ou plusieurs
 des motifs mentionnés aux 1°, 2°, 4°, 8° et 9° de l'article L. 341-5.
 
-La durée, limitée à cinq ans, la forme et les conditions et délais de délivrance de l'autorisation sont fixés par décret en
-Conseil d'Etat.
+La durée, limitée à cinq ans, la forme ainsi que les conditions et délais de délivrance de l'autorisation sont fixés par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -3969,22 +3909,19 @@ Conseil d'Etat.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code forestier - art. L431-2 (VT)
+	  - Code forestier (nouveau) - art. L122-3 (VT)
+	  - Code forestier (nouveau) - art. L341-5 (V)
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. L163-15 (VD)
 	  - Code forestier (nouveau) - art. R143-1 (V)
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L341-5 (VD)
 
 
 ##### Section 2 : Dispositions spéciales aux dunes  du département du Pas-de-Calais
@@ -4151,6 +4088,19 @@ Ces dispositions sont également applicables à la connaissance du sol, de la v�
 	  - Code forestier - art. L521-2 (VT)
 
 
+###### Article L151-3
+
+L'inventaire permanent des ressources forestières nationales prend en compte les particularités des bois et forêts situés en
+Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-
+Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
+
+
 #### Chapitre II : Recherche
 
 ###### Article L152-1
@@ -4163,11 +4113,10 @@ Elle est conduite dans les organismes publics ou privés exerçant des missions 
 d'enseignement supérieur, et avec le concours des instituts et centres techniques. Elle fait l'objet d'évaluations
 périodiques mettant en regard les différents moyens engagés et les résultats.
 
-L'autorité administrative compétente de l'Etat définit, après avis du Conseil supérieur de la forêt, des produits forestiers
-et de la transformation du bois, les modes de coordination des programmes de recherche concernant la forêt, le bois et les
-produits dérivés. Elle veille à l'adaptation des activités de recherche aux objectifs de la politique forestière et à la
-prise en compte des spécificités forestières, notamment au regard de la durée dans les procédures de programmation et de
-financement.
+L'autorité administrative compétente de l'Etat définit, après avis du Conseil supérieur de la forêt et du bois, les modes de
+coordination des programmes de recherche concernant la forêt, le bois et les produits dérivés. Elle veille à l'adaptation des
+activités de recherche aux objectifs de la politique forestière et à la prise en compte des spécificités forestières,
+notamment au regard de la durée dans les procédures de programmation et de financement.
 
 Les organismes publics de recherche exercent auprès des pouvoirs publics une mission d'expertise permanente, notamment dans
 le domaine de la gestion durable des forêts métropolitaines et d'outre-mer.
@@ -4178,13 +4127,9 @@ le domaine de la gestion durable des forêts métropolitaines et d'outre-mer.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L521-3 (VT)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
@@ -4193,45 +4138,6 @@ le domaine de la gestion durable des forêts métropolitaines et d'outre-mer.
 
 
 #### Chapitre III : Commercialisation des matériels forestiers  de reproduction
-
-##### Section 1 : Champ d'application
-
-###### Article L153-1
-
-Sont soumis au présent chapitre les matériels de reproduction des essences forestières, produits pour la commercialisation ou
-commercialisés en tant que plants ou parties de plantes destinés à des fins forestières, ou en tant que semences. Pour
-l'application du présent chapitre, les plantations sont considérées comme ayant des fins forestières lorsqu'elles sont
-réalisées dans des conditions techniques compatibles avec la production de bois à titre principal ou lorsqu'elles sont
-susceptibles d'avoir un impact sur les ressources génétiques des arbres forestiers.
-
-Ne sont pas soumis au présent chapitre les matériels dont il est prouvé qu'ils sont destinés à l'exportation ou à la
-réexportation vers des pays tiers.
-
-La liste des essences forestières est arrêtée par l'autorité administrative compétente de l'Etat. Pour les essences figurant
-dans cette liste, la commercialisation des matériels forestiers de reproduction dont il est établi qu'ils sont destinés à des
-expérimentations, à des fins scientifiques, à des travaux de sélection, à des fins de conservation génétique ou à des fins
-autres que forestières est soumise aux conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L551-1 (VT)
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. D153-1 (V)
-	  - Code forestier (nouveau) - art. L153-4 (V)
-	  - Code forestier (nouveau) - art. R153-12 (V)
-
 
 ##### Section 2 : Conditions de commercialisation et de garantie de qualité des matériels forestiers de reproduction et admission des matériels de base
 
@@ -4410,6 +4316,103 @@ et la confiscation des produits ainsi que leur destruction aux frais de l'intér
 	  - Code forestier - art. L555-4 (VT)
 
 
+#### Chapitre III : Ressources génétiques forestières et matériels forestiers de reproduction
+
+##### Section 1 : Principes généraux et champ d'application
+
+###### Article L153-1
+
+Sont soumis au présent chapitre les matériels de reproduction des essences forestières produits pour la commercialisation ou
+commercialisés en tant que plants ou parties de plantes destinés à des fins forestières ou en tant que semences, à
+l'exception des matériels dont il est prouvé qu'ils sont destinés à l'exportation ou à la réexportation vers des pays tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. D153-1 (V)
+	  - Code forestier (nouveau) - art. L153-4 (V)
+	  - Code forestier (nouveau) - art. R153-12 (V)
+
+
+###### Article L153-1-1
+
+Lors de la création ou du renouvellement de bois et de forêts par la plantation de matériels de reproduction commercialisés
+appartenant à des espèces réglementées par le présent code, seuls des matériels forestiers produits et commercialisés dans le
+respect du présent chapitre peuvent être utilisés. Il en est de même pour toute plantation susceptible d'avoir un impact sur
+les ressources génétiques des arbres forestiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+
+###### Article L153-1-2
+
+Sont définies par décret en Conseil d'Etat :
+
+1° Les modalités d'accès aux ressources génétiques forestières et aux connaissances traditionnelles associées, ainsi que les
+conditions d'un partage équitable des avantages découlant de leur utilisation en recherche et développement ;
+
+2° Les conditions dans lesquelles les ressources génétiques forestières peuvent être récoltées sur le territoire français à
+des fins d'expérimentation, à des fins scientifiques ou en vue de travaux de sélection ou de conservation, et peuvent être
+utilisées dans le cadre d'actions de recherche et développement ;
+
+3° Les conditions de récolte, de commercialisation et d'utilisation durable des matériels forestiers de reproduction destinés
+à des expérimentations, à des fins scientifiques, à des travaux de sélection, à des fins de conservation génétique ou à des
+fins autres que forestières.
+
+La liste des essences forestières soumises aux dispositions mentionnées aux 1° et 2° et celle des essences forestières dont
+le commerce des matériels forestiers de reproduction est réglementé par le présent chapitre sont arrêtées par le ministre
+chargé de la forêt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L412-5 (V)
+
+
+##### Section 2 : Conditions de commercialisation et de garantie de qualité des matériels forestiers de reproduction et admission des matériels de base
+
+##### Section 3 : Commerce avec les pays membres de l'Union européenne  et les pays tiers
+
+##### Section 4 : Surveillance et police administrative
+
+#### Chapitre III bis : Desserte des forêts
+
+###### Article L153-8
+
+Le département élabore chaque année un schéma d'accès à la ressource forestière, en concertation avec les communes et les
+établissements publics de coopération intercommunale concernés. Ce schéma prévoit des itinéraires empruntant des routes
+départementales, communales et intercommunales et permettant d'assurer le transport de grumes depuis les chemins forestiers
+jusqu'aux différents points de livraison.
+
+En Corse, le schéma d'accès à la ressource forestière est élaboré par la collectivité territoriale de Corse en concertation
+avec les départements, les communes et les établissements publics de coopération intercommunale concernés, dans le respect du
+plan d'aménagement et de développement durable de Corse. Il inclut les routes territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+
 #### Chapitre IV : Règles applicables au travail  en milieu forestier
 
 ###### Article L154-1
@@ -4451,16 +4454,16 @@ débroussaillement.
 
 Les entreprises qui réalisent des travaux de récolte de bois définis à l'article L. 154-1 dans les forêts d'autrui sont
 responsables de la sécurité et de l'hygiène sur les chantiers. A ce titre, elles s'assurent de la qualification
-professionnelle des personnes y travaillant. 
+professionnelle des personnes y travaillant.
 
-Sont définies par décret en Conseil d'Etat : 
+Sont définies par décret :
 
 1° Les conditions de formation initiale ou continue ou d'expérience professionnelle et les modalités selon lesquelles cette
-qualification professionnelle est reconnue ; 
+qualification professionnelle est reconnue ;
 
 2° Les conditions dans lesquelles toute personne, notamment tout exploitant agricole, qui, à la date de la publication de ce
 décret, exerce effectivement l'une des activités définies au présent article, ou en assure le contrôle, est réputée justifier
-de la qualification requise ; 
+de la qualification requise ;
 
 3° Les modalités d'information des donneurs d'ordre leur permettant de s'assurer que les personnes mentionnées au premier
 alinéa possèdent la qualification professionnelle requise et bénéficient de la levée de présomption de salariat prévue à
@@ -4472,19 +4475,14 @@ l'article L. 722-23 du code rural et de la pêche maritime, notamment par la dé
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cite**:
 
-	  - Code rural - art. L722-23 (V)
-	  - Code forestier (nouveau) - art. L154-1 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L371-2 (VT)
-	  - Code forestier - art. L371-4 (VT)
+	  - Code rural - art. L722-23
+	  - Code forestier (nouveau) - art. L154-1
 
 	**Cité par**:
 
@@ -4652,6 +4650,39 @@ indépendamment de tous autres moyens d'action, se mettre en possession à titre
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. R156-3 (V)
+
+
+##### Section 3 : Fonds stratégique de la forêt et du bois
+
+###### Article L156-4
+
+En application des articles L. 112-1 et L. 121-1 et afin de permettre la valorisation de l'ensemble des fonctions
+économiques, sociales et environnementales des bois et forêts, l'Etat concourt par le fonds stratégique de la forêt et du
+bois au financement de projets d'investissements, prioritairement en forêt, et d'actions de recherche, de développement et
+d'innovation qui s'inscrivent dans le cadre des orientations stratégiques du programme national de la forêt et du bois et des
+priorités arrêtées dans les programmes régionaux de la forêt et du bois. Ces projets et ces actions visent notamment à
+améliorer la gestion durable et multifonctionnelle de la forêt.
+
+Les mécanismes d'abondement du fonds stratégique de la forêt et du bois intègrent les fonctions d'intérêt général de la forêt
+mentionnées à l'article L. 112-1.
+
+Un décret définit les modalités de gouvernance du fonds et les règles d'éligibilité à son financement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. D113-7 (V)
+	  - Code forestier (nouveau) - art. L341-6 (V)
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L112-1
+	  - Code forestier (nouveau) - art. L121-1
 
 
 ### TITRE VI : DISPOSITIONS PÉNALES
@@ -4887,62 +4918,56 @@ dont ils ont la garde.
 ###### Article L161-7
 
 Les agents mentionnés au premier alinéa et au 1° de l'article L. 161-4 peuvent rechercher et constater les infractions
-forestières dans tous les bois et forêts quel que soit leur régime de propriété. 
+forestières dans tous les bois et forêts quel que soit leur régime de propriété.
 
-Les agents mentionnés au 2° de l'article L. 161-4 peuvent rechercher et constater les infractions forestières commises dans
-tous les bois et forêts réputés particulièrement exposés au risque d'incendie mentionnés à l'article L. 133-1 quel que soit
-leur régime de propriété.
+Les agents mentionnés au 2° de l'article L. 161-4 peuvent rechercher et constater les infractions au titre III du présent
+livre et aux réglementations prises pour son application dans tous les bois et forêts, quel que soit leur régime de
+propriété.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
 	**Cité par**:
 
 	  - Décret du 28 juin 1930 - art. 9 (V)
 	  - Code forestier (nouveau) - art. L174-9 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L323-1 (VT), ecqc compétence DFCI.
-	  - Code forestier - art. L342-1 (VT), al 2.
-	  - Code forestier - art. L343-1 (VT), al 1, ecqc poursuites pénales.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 73
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L133-1 (VD)
-	  - Code forestier (nouveau) - art. L161-4 (V)
+	  - Code forestier (nouveau) - art. L161-4
 
 
 ##### Sous-section 2 : Compétence territoriale
 
 ###### Article L161-8
 
-I. ― Sans préjudice des règles de compétence territoriale applicables aux officiers et agents de police judiciaire, les
-agents de l'Etat mentionnés à l'article L. 161-4 exercent leurs compétences sur l'étendue : 
+I. – Sans préjudice des règles de compétence territoriale applicables aux officiers et agents de police judiciaire, les
+agents de l'Etat mentionnés à l'article L. 161-4 exercent leurs compétences sur l'étendue :
 
-1° Du territoire national lorsqu'ils sont affectés à un service de compétence nationale ; 
+1° Du territoire national lorsqu'ils sont affectés à un service de compétence nationale ;
 
-2° De la région dans laquelle se trouve leur résidence administrative lorsqu'ils sont affectés dans un service déconcentré ; 
+2° De la région dans laquelle se trouve leur résidence administrative lorsqu'ils sont affectés dans un service déconcentré ;
 
 3° Du territoire concerné par leur mission, lorsque, affectés à un service déconcentré, ils sont chargés d'une mission
-dépassant les limites territoriales de ce service. 
+dépassant les limites territoriales de ce service.
 
-II. ― Dans les bois et forêts gérés par l'Office national des forêts, les agents de l'établissement habilités à rechercher et
-constater des infractions exercent leurs compétences dans les mêmes conditions que les agents de l'Etat. 
+II. – Dans les bois et forêts relevant du régime forestier ou gérés contractuellement par l'Office national des forêts, les
+agents de l'établissement habilités à rechercher et constater des infractions exercent leurs compétences dans les mêmes
+conditions que les agents de l'Etat.
 
-Il en est de même, dans le domaine national de Chambord, des agents de l'établissement public. 
+Il en est de même, dans le domaine national de Chambord, des agents de l'établissement public.
 
-III. ― Les agents mis temporairement à disposition d'un service autre que celui dans lequel ils sont affectés ont la même
-compétence territoriale que celle des agents du service d'accueil. 
+III. – Les agents mis temporairement à disposition d'un service autre que celui dans lequel ils sont affectés ont la même
+compétence territoriale que celle des agents du service d'accueil.
 
-IV. ― Lorsque les nécessités de l'enquête l'exigent, les agents peuvent se transporter dans les ressorts des tribunaux de
+IV. – Lorsque les nécessités de l'enquête l'exigent, les agents peuvent se transporter dans les ressorts des tribunaux de
 grande instance limitrophes de la région dans laquelle ils sont affectés à l'effet d'y poursuivre les opérations de recherche
 ou de constatation initiées dans leur ressort de compétence. Le procureur de la République du lieu où les opérations sont
 poursuivies en est informé sans délai.
@@ -4953,19 +4978,13 @@ poursuivies en est informé sans délai.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L152-1 (VT), ecqc compétence territoriale.
-	  - Code forestier - art. L341-5 (VT)
-	  - Code forestier - art. L342-1 (VT), al 1.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 73
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L161-4 (V)
+	  - Code forestier (nouveau) - art. L161-4
 
 
 ###### Article L161-9
@@ -5533,7 +5552,7 @@ obligations résultant pour lui de l'acceptation de la transaction.
 
 ###### Article L161-26
 
-Les agents mentionnés à l'article L. 161-21 peuvent, dans les actions et poursuites exercées au nom de l'administration,
+Les agents mentionnés à l'article L. 161-22 peuvent, dans les actions et poursuites exercées au nom de l'administration,
 faire toutes citations et significations, sans pouvoir procéder aux saisies-exécutions. 
 
 L'acte de citation contient une copie du procès-verbal.
@@ -5544,19 +5563,13 @@ L'acte de citation contient une copie du procès-verbal.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L153-3 (VT), al 2.
-	  - Code forestier - art. L153-4 (VT)
-	  - Code forestier - art. L343-2 (VT)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 73
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L161-21 (V)
+	  - Code forestier (nouveau) - art. L161-22 (V)
 
 	**Cité par**:
 
@@ -6386,16 +6399,16 @@ Ne sont pas applicables en Guyane les dispositions :
 
 ###### Article L172-3
 
-Pour son application en Guyane, l'article L. 121-4 est ainsi rédigé : 
+Pour son application en Guyane, l'article L. 121-4 est ainsi rédigé :
 
-" Art. L. 121-4. ― Les documents de politique forestière mentionnés au chapitre Ier du titre II du présent livre traduisent
-de manière adaptée aux spécificités respectives des bois et forêts relevant du régime forestier, appartenant à des
-particuliers ou utilisés par les communautés d'habitants qui en tirent traditionnellement leurs moyens de subsistance, les
-objectifs d'une gestion durable des bois et forêts : 
+" Art. L. 121-4.-Les documents de politique forestière mentionnés à l'article L. 122-2 traduisent de manière adaptée aux
+spécificités respectives des bois et forêts relevant du régime forestier, appartenant à des particuliers ou utilisés par les
+communautés d'habitants qui en tirent traditionnellement leurs moyens de subsistance, les objectifs d'une gestion durable des
+bois et forêts, définis à l'article L. 121-1 :
 
 " 1° Garantir leur diversité biologique, leur productivité, leur capacité de régénération, leur vitalité et leur capacité à
 satisfaire, actuellement et pour l'avenir, leurs fonctions économique, écologique et sociale, pertinentes aux niveaux local,
-national et international, sans causer de préjudice à d'autres écosystèmes ; 
+national et international, sans causer de préjudice à d'autres écosystèmes ;
 
 " 2° Assurer un équilibre sylvo-cynégétique, tel que défini à l'article L. 425-4 du code de l'environnement, permettant la
 régénération des peuplements forestiers dans des conditions économiques satisfaisantes pour le propriétaire. "
@@ -6406,22 +6419,17 @@ régénération des peuplements forestiers dans des conditions économiques sati
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L362-3 (VT)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L425-4 (V)
-	  - Code forestier (nouveau) - art. L121-4 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 87
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. D172-3 (V)
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L121-4 (V)
 
 
 ###### Article L172-4
@@ -7171,7 +7179,7 @@ Pour son application à Mayotte, l'article L. 112-2 est ainsi rédigé :
 " Art. L. 112-2. ― Tout propriétaire exerce sur ses bois et forêts et ses biens agroforestiers tous les droits résultant de
 la propriété dans les limites spécifiées par le présent code et par la loi, afin d'assurer l'équilibre biologique et
 l'approvisionnement en eau douce de l'île de Mayotte, ainsi que la satisfaction des besoins en bois et autres produits
-forestiers ou agroforestiers. 
+forestiers ou agroforestiers conformément aux objectifs d'intérêt général définis à l'article L. 112-1. 
 
 " Il en réalise, suivant la destination forestière ou agroforestière du bien, le boisement, l'aménagement ou l'entretien, en
 vue d'assurer la rentabilité, conformément aux règles d'une sage gestion économique. "
@@ -7182,13 +7190,9 @@ vue d'assurer la rentabilité, conformément aux règles d'une sage gestion éco
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier de Mayotte - art. L211-1 (VT)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
@@ -7228,18 +7232,17 @@ par l'autorité administrative compétente de l'Etat.
 
 ###### Article L175-6
 
-Pour son application à Mayotte, l'article L. 113-2 est ainsi rédigé : 
+Pour son application à Mayotte, l'article L. 113-2 est ainsi rédigé :
 
-" Art. L. 113-2. ― La commission de la forêt et des produits forestiers du Département de Mayotte est chargée notamment de
-donner un avis à l'autorité administrative sur les orientations forestières du Département de Mayotte définies à l'article L.
-122-1 applicable à Mayotte ainsi que sur les directives et schémas mentionnés à l'article L. 122-2 applicable à Mayotte. Elle
-comprend des représentants des collectivités territoriales, des administrations déconcentrées de l'Etat, des établissements
-publics intéressés, des organisations professionnelles, des associations de protection de l'environnement, d'associations
-d'usagers de la forêt ainsi que des personnalités qualifiées. " 
+" Art. L. 113-2. ― La commission de la forêt et du bois du Département de Mayotte est chargée notamment de donner un avis à
+l'autorité administrative sur les directives et schémas mentionnés à l'article L. 122-2 applicable à Mayotte. Elle comprend
+des représentants des collectivités territoriales, des administrations déconcentrées de l'Etat, des établissements publics
+intéressés, des organisations professionnelles, des associations de protection de l'environnement, d'associations d'usagers
+de la forêt ainsi que des personnalités qualifiées. "
 
 Dans toutes les autres dispositions du présent code, pour leur application à Mayotte, la référence à " la commission
-régionale de la forêt et des produits forestiers " est remplacée par la référence à " la commission de la forêt et des
-produits forestiers du Département de Mayotte ".
+régionale de la forêt et du bois " est remplacée par la référence à " la commission de la forêt et du bois du Département de
+Mayotte ".
 
 **Liens relatifs à cet article**
 
@@ -7247,15 +7250,13 @@ produits forestiers du Département de Mayotte ".
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
 	  - Code forestier (nouveau) - art. L113-2 (V)
-	  - Code forestier (nouveau) - art. L122-1 (V)
-	  - Code forestier (nouveau) - art. L122-2 (V)
 
 
 ##### Section 4 : Politique forestière et gestion durable
@@ -7264,12 +7265,22 @@ produits forestiers du Département de Mayotte ".
 
 Pour son application à Mayotte, l'article L. 122-1 est ainsi rédigé : 
 
-" Art. L. 122-1. ― Des orientations forestières du Département de Mayotte traduisent les objectifs définis à l'article L.
-121-1. Elles sont élaborées par la commission de la forêt et des produits forestiers du Département de Mayotte et arrêtées
-par le ministre chargé des forêts, après avis du conseil général. " 
+" Art. L. 122-1.-Le programme de la forêt et du bois du Département de Mayotte adapte les orientations et les objectifs du
+programme national de la forêt et du bois. Il fixe, par massif forestier, les priorités économiques, environnementales et
+sociales et les traduit en objectifs. Il définit des critères de gestion durable et multifonctionnelle et des indicateurs
+associés. Il identifie les massifs forestiers à enjeux prioritaires pour la mobilisation du bois. Il précise les conditions
+nécessaires au renouvellement des peuplements forestiers, notamment au regard de l'équilibre sylvocynégétique. Il définit les
+actions à mettre en œuvre dans le département. 
 
-Dans toutes les autres dispositions du présent code, pour leur application à Mayotte, la référence aux " orientations
-régionales forestières " est remplacée par la référence aux " orientations forestières du Département de Mayotte ".
+" Il est élaboré par la commission de la forêt et du bois du Département de Mayotte, soumis à la participation du public par
+l'autorité administrative compétente de l'Etat dans les conditions prévues aux articles L. 120-1 et L. 120-2 du code de
+l'environnement et arrêté par le ministre chargé des forêts, après avis du président du conseil général. 
+
+" La commission de la forêt et du bois du Département de Mayotte établit un bilan de la mise en œuvre du programme de la
+forêt et du bois et propose, si besoin, les modifications nécessaires. Ce bilan est transmis au ministre chargé des forêts. 
+
+" Dans toutes les autres dispositions du présent code, pour leur application à Mayotte, les mots : " programme régional de la
+forêt et du bois " sont remplacés par les mots : " programme de la forêt et du bois du Département de Mayotte ". "
 
 **Liens relatifs à cet article**
 
@@ -7277,21 +7288,19 @@ régionales forestières " est remplacée par la référence aux " orientations 
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L121-1 (V)
 	  - Code forestier (nouveau) - art. L122-1 (V)
 
 
 ###### Article L175-8
 
 Pour l'application à Mayotte du titre II du présent livre, la référence à la région est remplacée par la référence au
-Département de Mayotte et la référence au " plan pluriannuel régional de développement forestier " par la référence au " plan
-pluriannuel de développement forestier du Département de Mayotte ".
+Département de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -7299,9 +7308,9 @@ pluriannuel de développement forestier du Département de Mayotte ".
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
 ###### Article L175-9
@@ -7524,11 +7533,14 @@ Le fait d'élaguer des arbres en infraction aux dispositions de l'article L. 175
 
 Ne sont pas applicables à Saint-Barthélemy : 
 
-1° Les articles L. 111-3 et L. 111-4 ; 
+1° Les articles L. 111-2, L. 111-3 et L. 111-4 ; 
 
 2° L'article L. 112-3 et L. 112-4 ; 
 
-3° Les articles L. 122-7, L. 122-8, le deuxième alinéa de l'article L. 122-9 et l'article L. 122-15 ; 
+2° bis L'article L. 113-2 ; 
+
+3° Les articles L. 122-1, 
+L. 122-7 et L. 122-8 et le deuxième alinéa de l'article L. 122-9 ; 
 
 4° A l'article L. 131-17, les mots : " établis dans les conditions définies aux articles L. 562-1 et suivants du code de
 l'environnement " ; 
@@ -7543,79 +7555,23 @@ l'environnement " ;
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L111-3 (V)
-	  - Code forestier (nouveau) - art. L112-3 (V)
-	  - Code forestier (nouveau) - art. L122-15 (V)
+	  - Code forestier (nouveau) - art. L111-2 (V)
+	  - Code forestier (nouveau) - art. L111-3
+	  - Code forestier (nouveau) - art. L112-3
+	  - Code forestier (nouveau) - art. L113-2 (V)
+	  - Code forestier (nouveau) - art. L122-1 (V)
 	  - Code forestier (nouveau) - art. L122-7 (V)
-	  - Code forestier (nouveau) - art. L131-17 (V)
-	  - Code forestier (nouveau) - art. L132-2 (V)
-	  - Code forestier (nouveau) - art. L134-6 (V)
-
-
-###### Article L176-2
-
-Pour son application à Saint-Barthélemy, l'article L. 113-2 est ainsi rédigé : 
-
-" Art. L. 113-2. ― La commission territoriale de la forêt et des produits forestiers est chargée notamment d'élaborer les
-orientations territoriales forestières définies à l'article L. 122-1 applicable à Saint-Barthélemy ainsi que de donner un
-avis à l'autorité administrative sur les directives et schémas mentionnés à l'article L. 122-2. Elle comprend des
-représentants de la collectivité, des administrations déconcentrées de l'Etat, des établissements publics intéressés, des
-organisations professionnelles, des associations de protection de l'environnement et d'associations d'usagers de la forêt,
-ainsi que des personnalités qualifiées. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L113-2
-	  - Code forestier (nouveau) - art. L122-1
-	  - Code forestier (nouveau) - art. L122-2
-
-
-###### Article L176-3
-
-Pour son application à Saint-Barthélemy, l'article L. 122-1 est ainsi rédigé : 
-
-" Art. L. 122-1. ― Des orientations territoriales forestières traduisent les objectifs définis à l'article L. 121-1. Elles
-sont élaborées par la commission territoriale de la forêt et des produits forestiers et arrêtées par le ministre chargé des
-forêts, après avis du conseil territorial. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L121-1
-	  - Code forestier (nouveau) - art. L122-1
+	  - Code forestier (nouveau) - art. L122-9 (V)
+	  - Code forestier (nouveau) - art. L131-17
+	  - Code forestier (nouveau) - art. L131-18 (V)
+	  - Code forestier (nouveau) - art. L132-2
+	  - Code forestier (nouveau) - art. L134-6
 
 
 ###### Article L176-4
@@ -7684,21 +7640,20 @@ remplacés par les mots : " disposition de nature législative applicable locale
 
 ###### Article L176-7
 
-Pour l'application du présent code à Saint-Barthélemy : 
+Pour l'application du présent code à Saint-Barthélemy :
 
-1° La référence aux " orientations régionales forestières " est remplacée par la référence aux " orientations territoriales
-forestières " ; 
+1° La référence au " programme régional de la forêt et du bois " est remplacée par la référence au " programme territorial de
+la forêt et du bois " ;
 
-2° La référence à la " commission régionale de la forêt et des produits forestiers " est remplacée par la référence à la "
-commission territoriale de la forêt et des produits forestiers " ; 
+2° La référence à la " commission régionale de la forêt et du bois " est remplacée par la référence à la " commission
+territoriale de la forêt et du bois " ;
 
-3° La référence au " plan pluriannuel régional de développement forestier " est remplacée par la référence au " plan
-pluriannuel territorial de développement forestier " ; 
+3° (Abrogé) ;
 
-4° La référence au conseil régional ou au conseil général est remplacée par la référence au conseil territorial ; 
+4° La référence au conseil régional ou au conseil général est remplacée par la référence au conseil territorial ;
 
 5° La référence au représentant de l'Etat dans la région ou dans le département est remplacée par la référence au
-représentant de l'Etat à Saint-Barthélemy ; 
+représentant de l'Etat à Saint-Barthélemy ;
 
 6° La référence au directeur régional de l'administration chargée des forêts est remplacée par la référence au directeur
 régional de l'administration chargée des forêts en Guadeloupe.
@@ -7709,9 +7664,9 @@ régional de l'administration chargée des forêts en Guadeloupe.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
 #### Chapitre VII : Saint-Martin
@@ -7720,10 +7675,10 @@ régional de l'administration chargée des forêts en Guadeloupe.
 
 Ne sont pas applicables à Saint-Martin : 
 
-1° L'article L. 122-15 ; 
+1° (Abrogé) ; 
 
-2° A l'article L. 131-18, les mots : " mentionnée au titre Ier du livre III et au chapitre II du titre IV du livre IV du code
-de l'urbanisme " ; 
+2° A l'article L. 131-18, les mots : "mentionnée au titre Ier du livre III et au chapitre II du titre IV du livre IV du code
+de l'urbanisme" ; 
 
 3° L'article L. 134-6.
 
@@ -7733,24 +7688,22 @@ de l'urbanisme " ;
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L122-15 (V)
-	  - Code forestier (nouveau) - art. L131-18 (V)
-	  - Code forestier (nouveau) - art. L134-6 (V)
+	  - Code forestier (nouveau) - art. L131-18
+	  - Code forestier (nouveau) - art. L134-6
 
 
 ###### Article L177-2
 
 Pour son application à Saint-Martin, l'article L. 113-2 est ainsi rédigé : 
 
-" Art. L. 113-2. ― La commission territoriale de la forêt et des produits forestiers est chargée notamment de donner un avis
-à l'autorité administrative sur les orientations territoriales forestières définies à l'article L. 122-1 applicable à Saint-
-Martin ainsi que sur les directives et schémas mentionnés à l'article L. 122-2. Elle comprend des représentants de la
+" Art. L. 113-2. ― La commission territoriale de la forêt et du bois est chargée notamment de donner un avis à l'autorité
+administrative sur les directives et schémas mentionnés à l'article L. 122-2. Elle comprend des représentants de la
 collectivité territoriale, des administrations déconcentrées de l'Etat, des établissements publics intéressés, des
 organisations professionnelles, des associations de protection de l'environnement et d'associations d'usagers de la forêt,
 ainsi que des personnalités qualifiées. "
@@ -7761,24 +7714,22 @@ ainsi que des personnalités qualifiées. "
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
 	  - Code forestier (nouveau) - art. L113-2 (V)
-	  - Code forestier (nouveau) - art. L122-1 (V)
-	  - Code forestier (nouveau) - art. L122-2 (V)
 
 
 ###### Article L177-3
 
 Pour son application à Saint-Martin, l'article L. 122-1 est ainsi rédigé : 
 
-" Art. L. 122-1. ― Des orientations territoriales forestières traduisent les objectifs définis à l'article L. 121-1. Elles
-sont élaborées par la commission territoriale de la forêt et des produits forestiers et arrêtées par le ministre chargé des
-forêts, après avis du conseil territorial. "
+" Art. L. 122-1.-Le programme territorial de la forêt et du bois adapte les orientations et les objectifs du programme
+national de la forêt et du bois. Il est élaboré par la commission territoriale de la forêt et du bois et arrêté par le
+ministre chargé des forêts, après avis du président du conseil territorial. "
 
 **Liens relatifs à cet article**
 
@@ -7786,33 +7737,31 @@ forêts, après avis du conseil territorial. "
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L121-1 (V)
 	  - Code forestier (nouveau) - art. L122-1 (V)
 
 
 ###### Article L177-4
 
-Pour l'application du présent code à Saint-Martin : 
+Pour l'application du présent code à Saint-Martin :
 
-1° La référence aux " orientations régionales forestières " est remplacée par la référence aux " orientations territoriales
-forestières " ; 
+1° La référence au "programme régional de la forêt et du bois" est remplacée par la référence au "programme territorial de la
+forêt et du bois" ;
 
-2° La référence à la " commission régionale de la forêt et des produits forestiers " est remplacée par la référence à la "
-commission territoriale de la forêt et des produits forestiers " ; 
+2° La référence à la "commission régionale de la forêt et du bois" est remplacée par la référence à la "commission
+territoriale de la forêt et du bois" ;
 
-3° La référence au " plan pluriannuel régional de développement forestier " est remplacée par la référence au " plan
-pluriannuel territorial de développement forestier " ; 
+3° (Abrogé) ;
 
-4° La référence au conseil régional ou au conseil général est remplacée par la référence au conseil territorial ; 
+4° La référence au conseil régional ou au conseil général est remplacée par la référence au conseil territorial ;
 
 5° La référence au représentant de l'Etat dans la région ou dans le département est remplacée par la référence au
-représentant de l'Etat à Saint-Martin ; 
+représentant de l'Etat à Saint-Martin ;
 
 6° La référence au directeur régional de l'administration chargée des forêts est remplacée par la référence au directeur
 régional de l'administration chargée des forêts en Guadeloupe.
@@ -7823,9 +7772,9 @@ régional de l'administration chargée des forêts en Guadeloupe.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
 #### Chapitre VIII : Saint-Pierre-et-Miquelon
@@ -7834,10 +7783,10 @@ régional de l'administration chargée des forêts en Guadeloupe.
 
 Ne sont pas applicables à Saint-Pierre-et-Miquelon : 
 
-1° L'article L. 122-15 ; 
+1° (Abrogé) ; 
 
-2° A l'article L. 131-18, les mots : " mentionnée au titre Ier du livre III et au chapitre II du titre IV du livre IV du code
-de l'urbanisme " ; 
+2° A l'article L. 131-18, les mots : "mentionnée au titre Ier du livre III et au chapitre II du titre IV du livre IV du code
+de l'urbanisme" ; 
 
 3° L'article L. 134-6.
 
@@ -7847,27 +7796,25 @@ de l'urbanisme " ;
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L122-15 (V)
-	  - Code forestier (nouveau) - art. L131-18 (V)
-	  - Code forestier (nouveau) - art. L134-6 (V)
+	  - Code forestier (nouveau) - art. L131-18
+	  - Code forestier (nouveau) - art. L134-6
 
 
 ###### Article L178-2
 
 Pour son application à Saint-Pierre-et-Miquelon, l'article L. 113-2 est ainsi rédigé : 
 
-" Art. L. 113-2. ― La commission territoriale de la forêt et des produits forestiers est chargée notamment de donner un avis
-à l'autorité administrative sur les orientations territoriales forestières définies à l'article L. 122-1 applicable à Saint-
-Pierre-et-Miquelon ainsi que sur les directives et schémas mentionnés à l'article L. 122-2. Elle comprend des représentants
-des collectivités territoriales, des administrations déconcentrées de l'Etat, des établissements publics intéressés, des
+"Art. L. 113-2. ― La commission territoriale de la forêt et du bois est chargée notamment de donner un avis à l'autorité
+administrative sur les directives et schémas mentionnés à l'article L. 122-2. Elle comprend des représentants des
+collectivités territoriales, des administrations déconcentrées de l'Etat, des établissements publics intéressés, des
 organisations professionnelles, des associations de protection de l'environnement, d'associations d'usagers de la forêt ainsi
-que des personnalités qualifiées. "
+que des personnalités qualifiées."
 
 **Liens relatifs à cet article**
 
@@ -7875,24 +7822,22 @@ que des personnalités qualifiées. "
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L113-2 (V)
-	  - Code forestier (nouveau) - art. L122-1 (V)
-	  - Code forestier (nouveau) - art. L122-2 (V)
+	  - Code forestier (nouveau) - art. L113-2
 
 
 ###### Article L178-3
 
 Pour son application à Saint-Pierre-et-Miquelon, l'article L. 122-1 est ainsi rédigé : 
 
-" Art. L. 122-1. ― Des orientations territoriales forestières traduisent les objectifs définis à l'article L. 121-1. Elles
-sont élaborées par la commission territoriale de la forêt et des produits forestiers et arrêtées par le ministre chargé des
-forêts, après avis du conseil territorial. "
+" Art. L. 122-1.-Le programme territorial de la forêt et du bois adapte les orientations et les objectifs du programme
+national de la forêt et du bois. Il est élaboré par la commission territoriale de la forêt et du bois et arrêté par le
+ministre chargé des forêts, après avis du président du conseil territorial. "
 
 **Liens relatifs à cet article**
 
@@ -7900,33 +7845,31 @@ forêts, après avis du conseil territorial. "
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L121-1 (V)
 	  - Code forestier (nouveau) - art. L122-1 (V)
 
 
 ###### Article L178-4
 
-Pour l'application du présent code à Saint-Pierre-et-Miquelon : 
+Pour l'application du présent code à Saint-Pierre-et-Miquelon :
 
-1° La référence aux " orientations régionales forestières " est remplacée par la référence aux " orientations territoriales
-forestières " ; 
+1° La référence au " programme régional de la forêt et du bois " est remplacée par la référence au " programme territorial de
+la forêt et du bois " ;
 
-2° La référence à la " commission régionale de la forêt et des produits forestiers " est remplacée par la référence à la "
-commission territoriale de la forêt et des produits forestiers " ; 
+2° La référence à la " commission régionale de la forêt et du bois " est remplacée par la référence à la " commission
+territoriale de la forêt et du bois " ;
 
-3° La référence au " plan pluriannuel régional de développement forestier " est remplacée par la référence au " plan
-pluriannuel territorial de développement forestier " ; 
+3° (Abrogé) ;
 
-4° La référence au conseil régional ou au conseil général est remplacée par la référence au conseil territorial ; 
+4° La référence au conseil régional ou au conseil général est remplacée par la référence au conseil territorial ;
 
 5° La référence au représentant de l'Etat dans la région ou dans le département est remplacée par la référence au
-représentant de l'Etat à Saint-Pierre-et-Miquelon ; 
+représentant de l'Etat à Saint-Pierre-et-Miquelon ;
 
 6° La référence au directeur régional de l'administration chargée des forêts est remplacée par la référence au directeur des
 services de l'agriculture.
@@ -7937,12 +7880,14 @@ services de l'agriculture.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
 #### Chapitre IX : Terres australes  et antarctiques françaises
+
+#### Chapitre IX : Polynésie française et Terres australes et antarctiques françaises
 
 ###### Article L179-1
 
@@ -7963,6 +7908,86 @@ Glorieuses, Juan da Nova et Tromelin les dispositions du présent code applicabl
 	**Créé par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+
+
+###### Article L179-2
+
+Sont habilités à rechercher et à constater les infractions pénales aux dispositions légales en vigueur en Polynésie française
+en matière de régime des forêts et des sols, dans les conditions mentionnées aux articles L. 161-12 à L. 161-21 qui sont
+applicables en Polynésie française sous réserve des adaptations prévues à l'article L. 179-3 : 
+
+1° Les agents de la Polynésie française, commissionnés à raison de leur compétence technique par le président de la Polynésie
+française, après avoir été agréés par le haut-commissaire de la République et le procureur de la République, et
+assermentés ; 
+
+2° Les agents de police municipale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L161-12 (V)
+	  - Code forestier (nouveau) - art. L179-3 (V)
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. L179-4 (V)
+
+
+###### Article L179-3
+
+Pour l'application en Polynésie française des articles L. 161-12 à L. 161-21 : 
+
+1° L'article L. 161-12 est ainsi rédigé : 
+
+" Art. L. 161-12.-L'original du procès-verbal dressé pour constater les infractions forestières est transmis, dans les cinq
+jours à dater de sa clôture, par les agents mentionnés à l'article L. 179-2 au procureur de la République. " ; 
+
+2° A la fin du 2°, les mots : " directeur régional de l'administration chargé des forêts " sont remplacés par les mots : "
+chef du service de l'administration territoriale chargé des forêts " ; 
+
+3° A l'article L. 161-19, les mots : " le jour même, ou au plus tard le premier jour ouvré qui suit " sont remplacés par les
+mots : " dans les trois jours qui suivent " ; 
+
+4° A la première phrase du premier alinéa de l'article L. 161-21, le mot : " cinq " est remplacé par le mot : " quinze ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L161-12 (V)
+	  - Code forestier (nouveau) - art. L161-19 (V)
+	  - Code forestier (nouveau) - art. L161-21 (V)
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. L179-2 (V)
+
+
+###### Article L179-4
+
+Le fait de faire obstacle ou d'entraver l'exercice des fonctions des agents mentionnés à l'article L. 179-2 est puni des
+peines prévues à l'article L. 163-1 sous réserve de l'expression du montant de l'amende dans son équivalent applicable en
+monnaie locale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L163-1 (V)
+	  - Code forestier (nouveau) - art. L179-2 (V)
 
 
 ## LIVRE II : BOIS ET FORÊTS  RELEVANT DU RÉGIME FORESTIER
@@ -8111,7 +8136,9 @@ propriété indivis, dont la propriété a été transférée à la collectivit�
 janvier 2002 relative à la Corse et selon des modalités réglées par une convention conclue entre l'Etat, la collectivité
 territoriale de Corse et l'Office national des forêts ;
 
-2° Les bois et forêts remis en dotation au domaine national de Chambord.
+2° Les bois et forêts remis en dotation au domaine national de Chambord ;
+
+3° Les forêts de Chantilly et de Chaalis appartenant à l'Institut de France.
 
 **Liens relatifs à cet article**
 
@@ -8123,13 +8150,9 @@ territoriale de Corse et l'Office national des forêts ;
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L181-1 (VT), al 1 et 2.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cité par**:
 
@@ -8315,11 +8338,7 @@ bois et forêts mentionnés au 2° du I de l'article L. 211-1.
 
 Conformément aux dispositions de l'article L. 3211-5 du code général de la propriété des personnes publiques, les bois et
 forêts de l'Etat ne peuvent être aliénés qu'en vertu d'une loi ou, par dérogation, dans les cas et conditions définis au même
-article. 
-
-Lorsque ces biens relèvent du régime forestier en vertu du 1° du I de l'article L. 211-1, le produit de l'opération est
-encaissé par le Trésor à titre de fonds de concours en vue d'être employé à l'achat par l'Etat de terrains boisés ou à
-boiser.
+article.
 
 **Liens relatifs à cet article**
 
@@ -8327,23 +8346,39 @@ boiser.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code général de la propriété des personnes publ... - art. L3211-5 (M)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
 	  - Code général de la propriété des personnes publ... - art. L3211-5 (V)
-	  - Code forestier (nouveau) - art. L211-1 (VD)
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. L213-3 (M)
 	  - Code forestier (nouveau) - art. L341-6 (VD)
+
+
+###### Article L213-1-1
+
+En cas d'aliénation de biens relevant du régime forestier en vertu du 1° du I de l'article L. 211-1, le produit de
+l'opération est encaissé par le Trésor à titre de fonds de concours en vue d'être employé à l'achat par l'Etat de terrains
+boisés ou à boiser.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L211-1 (V)
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. L213-3 (V)
 
 
 ###### Article L213-2
@@ -8378,7 +8413,7 @@ organique relative aux lois de finances, pour être employées à l'achat de ter
 
 ###### Article L213-3
 
-Les dispositions de l'article L. 213-1 sont applicables aux soultes en argent attribuées à l'Etat dans les échanges
+Les dispositions de l'article L. 213-1-1 sont applicables aux soultes en argent attribuées à l'Etat dans les échanges
 immobiliers intéressant le domaine forestier de l'Etat.
 
 **Liens relatifs à cet article**
@@ -8387,18 +8422,13 @@ immobiliers intéressant le domaine forestier de l'Etat.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L131-1 (VT), phr 2 et 3.
-	  - Code forestier - art. L131-2 (VT)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L213-1 (V)
+	  - Code forestier (nouveau) - art. L213-1-1 (V)
 
 	**Cité par**:
 
@@ -9138,10 +9168,13 @@ sous réserve des dispositions particulières définies au présent chapitre.
 
 Tout changement dans le mode d'exploitation ou l'aménagement des terrains relevant du régime forestier appartenant aux
 collectivités ou personnes morales mentionnées au 2° du I de l'article L. 211-1 fait l'objet d'une décision de l'autorité
-administrative compétente de l'Etat après avis du représentant de la collectivité ou de la personne morale intéressée. 
+administrative compétente de l'Etat après avis du représentant de la collectivité ou de la personne morale intéressée.
 
 L'autorité administrative compétente de l'Etat peut déléguer à des personnels de l'Office national des forêts ses pouvoirs en
 matière d'autorisation de coupes non prévues par un aménagement.
+
+Lorsque l'état d'assiette est partiellement approuvé, l'ajournement des coupes fait l'objet d'une notification motivée à
+l'autorité administrative compétente de l'Etat, dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -9149,9 +9182,9 @@ matière d'autorisation de coupes non prévues par un aménagement.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cité par**:
 
@@ -9159,13 +9192,9 @@ matière d'autorisation de coupes non prévues par un aménagement.
 	  - Code forestier (nouveau) - art. R214-19 (V)
 	  - Code forestier (nouveau) - art. R214-20 (V)
 
-	**Anciens textes**:
-
-	  - Code forestier - art. L143-2 (VT)
-
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L211-1 (VD)
+	  - Code forestier (nouveau) - art. L211-1
 
 
 ##### Section 4 : Ventes des coupes  et produits des coupes
@@ -9435,17 +9464,14 @@ maritime.
 ###### Article L214-13
 
 Les collectivités et autres personnes morales mentionnées au 2° du I de l'article L. 211-1 ne peuvent faire aucun
-défrichement de leurs bois sans autorisation de l'autorité administrative compétente de l'Etat. 
+défrichement dans leurs bois et forêts, qu'ils relèvent ou non du régime forestier, sans autorisation de l'autorité
+administrative compétente de l'Etat.
 
-Les dispositions du premier alinéa de l'article L. 341-1 leur sont applicables.
+Les articles L. 341-1 et L. 341-2 leur sont applicables.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
@@ -9456,27 +9482,47 @@ Les dispositions du premier alinéa de l'article L. 341-1 leur sont applicables.
 	  - Code de l'environnement - art. L181-2 (VD)
 	  - Code de l'urbanisme - art. R*423-29 (M)
 	  - Code du patrimoine - art. R621-96-3 (V)
-	  - Code forestier (nouveau) - art. L214-14 (M)
+	  - Code forestier (nouveau) - art. L214-14 (V)
 	  - Code forestier (nouveau) - art. L261-12 (VD)
 	  - Code forestier (nouveau) - art. L315-2 (V)
 	  - Code forestier (nouveau) - art. R141-33 (V)
 	  - Code forestier (nouveau) - art. R214-30 (V)
 	  - Code forestier (nouveau) - art. R214-31 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code forestier - art. L312-1 (VT)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L211-1 (VD)
-	  - Code forestier (nouveau) - art. L341-1 (VD)
+	  - Code forestier (nouveau) - art. L211-1 (V)
+	  - Code forestier (nouveau) - art. L341-1 (V)
+
+
+###### Article L214-13-1
+
+Dans le cadre d'un schéma communal concerté approuvé par la commission régionale de la forêt et du bois mentionnée à
+l'article L. 113-2 et conforme au programme régional de la forêt et du bois défini à l'article L. 122-1, toute commune
+classée en zone de montagne dont le taux de boisement dépasse 70 % de son territoire peut procéder à du défrichement pour des
+raisons paysagères ou agricoles. Ce défrichement ne peut porter sur des forêts soumises au régime forestier. Il ne peut
+entraîner une réduction du taux de boisement de la commune inférieur à 50 % de son territoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L113-2 (V)
+	  - Code forestier (nouveau) - art. L122-1 (V)
 
 
 ###### Article L214-14
 
-Les dispositions des articles L. 341-5 à L. 341-7 relatives aux conditions du défrichement sont applicables aux décisions
-prises en application de l'article L. 214-13.
+Les dispositions des articles L. 341-3 à L. 341-10 relatives aux conditions du défrichement et celles des 3° et 4° de
+l'article L. 342-1 relatives aux exemptions sont applicables aux décisions prises en application de l'article L. 214-13.
 
 **Liens relatifs à cet article**
 
@@ -9484,18 +9530,15 @@ prises en application de l'article L. 214-13.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L312-2 (VT)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
 	  - Code forestier (nouveau) - art. L214-13 (V)
-	  - Code forestier (nouveau) - art. L341-5 (V)
+	  - Code forestier (nouveau) - art. L341-3 (V)
+	  - Code forestier (nouveau) - art. L342-1 (V)
 
 
 #### Chapitre V : Bois et forêts indivis  relevant du régime forestier
@@ -9641,7 +9684,11 @@ Un contrat pluriannuel passé entre l'Etat et l'Office national des forêts dét
 2° Les obligations de service public procédant de la mise en œuvre du régime forestier ;
 
 3° Les missions d'intérêt général qui lui sont confiées par l'Etat, ainsi que l'évaluation des moyens nécessaires à leur
-accomplissement.
+accomplissement ;
+
+4° Les conditions dans lesquelles l'Office national des forêts contribue à la mise en œuvre, dans les bois et forêts soumis
+au régime forestier, des politiques publiques relatives à la gestion de la forêt et des milieux lorsqu'elle ne relève pas des
+missions définies au présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -9649,13 +9696,9 @@ accomplissement.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L121-1 (VT), al 2 et 3.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 74
 
 	**Cité par**:
 
@@ -9787,8 +9830,8 @@ que dans les cas suivants :
 
 L'Office national des forêts est administré par un conseil d'administration dont la composition est fixée par décret, qui
 comprend des représentants de l'Etat, des collectivités territoriales et des personnels ainsi que des personnalités choisies
-en raison de leur compétence particulière dans le domaine professionnel, technique, économique, scientifique, social ou de la
-protection de la nature.
+en raison de leur compétence particulière dans le domaine professionnel, technique, économique, scientifique, social,
+cynégétique  ou de la protection de la nature.
 
 **Liens relatifs à cet article**
 
@@ -9796,13 +9839,9 @@ protection de la nature.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L122-1 (VT), al 1.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
@@ -13118,39 +13157,6 @@ Les bois et forêts du domaine de l'Etat situés dans la collectivité de Saint-
 	  - Code forestier - art. L171-2 (VT), ecqc Saint Barthélémy.
 
 
-###### Article L276-2
-
-A Saint-Barthélemy, outre les bois et forêts désignés à l'article L. 211-1, relèvent du régime forestier : 
-
-1° Les bois et forêts qui font partie du domaine public maritime et lacustre de l'Etat et ceux qui font partie du domaine de
-la collectivité ; 
-
-2° Les terrains couverts de végétation ligneuse et désignés communément sous le nom de broussailles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R171-1 (VT), ecqc Saint Barthélémy.
-	  - Code forestier - art. R171-3 (VT), ecqc Saint Barthélémy.
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L211-1
-
-
 ###### Article L276-3
 
 Le fait d'occuper sans titre ou de procéder à un empiètement de toute nature entraînant la destruction de l'état boisé dans
@@ -13365,15 +13371,15 @@ ou à des personnes morales de droit privé et qui ne relèvent pas du régime f
 Doivent être gérés conformément à un plan simple de gestion agréé, sous réserve des dispositions de l'article L. 122-5, les
 bois et forêts des particuliers constitués soit d'une parcelle forestière d'un seul tenant d'une surface égale ou supérieure
 à 25 hectares, soit d'un ensemble de parcelles forestières d'une surface totale égale ou supérieure à 25 hectares appartenant
-à un même propriétaire, situées dans une même zone géographique définie par décret. 
+à un même propriétaire, situées dans une même zone géographique définie par décret.
 
 Les parcelles isolées d'une superficie inférieure à un seuil fixé par décret ne sont pas prises en compte pour l'application
-du premier alinéa. Le propriétaire peut toutefois les inclure dans son plan simple de gestion. 
+du premier alinéa. Le propriétaire peut toutefois les inclure dans son plan simple de gestion.
 
 Le ministre chargé des forêts peut, en outre, fixer pour chaque département un seuil de surface inférieur, compris entre 10
 et 25 hectares, sur proposition du conseil d'administration du Centre national de la propriété forestière, en tenant compte
 des potentialités de production, de l'intérêt écologique et social, de la structure foncière des forêts du département et des
-orientations régionales forestières.
+programmes régionaux de la forêt et du bois.
 
 **Liens relatifs à cet article**
 
@@ -13381,9 +13387,9 @@ orientations régionales forestières.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 	**Cité par**:
 
@@ -13401,13 +13407,9 @@ orientations régionales forestières.
 	  - Code forestier (nouveau) - art. R312-6 (V)
 	  - Code général des impôts, CGI. - art. 199 decies H (V)
 
-	**Anciens textes**:
-
-	  - Code forestier - art. L6 (VT), I al 2 et 3.
-
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L122-5 (VD)
+	  - Code forestier (nouveau) - art. L122-5
 
 
 ###### Article L312-2
@@ -13508,7 +13510,7 @@ dans les cinq ans qui suivent l'exploitation, les travaux de reconstitution apr�
 
 ###### Article L312-5
 
-Toute coupe prévue au plan simple de gestion peut être avancée ou retardée de cinq ans au plus.
+Toute coupe prévue au plan simple de gestion peut être avancée ou retardée de quatre ans au plus.
 
 Des coupes extraordinaires, en deçà et au-delà de cette limite, ou non inscrites au programme peuvent être autorisées par le
 centre régional de la propriété forestière.
@@ -13528,13 +13530,9 @@ constaté par arrêté du ministre chargé des forêts, il est dispensé de cett
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L222-2 (VT), al 1, 3 et 4.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cité par**:
 
@@ -14120,8 +14118,9 @@ gestion directe, de maîtrise d'œuvre de travaux ou de commercialisation ;
 4° Elaborer les schémas régionaux de gestion sylvicole des bois et forêts des particuliers et les codes de bonnes pratiques
 sylvicoles ; 
 
-5° Agréer les plans simples de gestion dans les conditions prévues aux articles L. 312-2 à L. 312-10 et approuver les
-règlements types de gestion dans les conditions prévues par l'article L. 313-1 ; 
+5° Agréer les plans simples de gestion, dans les conditions prévues aux articles L. 312-2 à L. 312-10, approuver les
+règlements types de gestion, dans les conditions prévues à l'article L. 313-1, et approuver les programmes des coupes et
+travaux des adhérents aux codes des bonnes pratiques sylvicoles prévus aux articles L. 124-2 et L. 313-3 ; 
 
 6° Concourir au développement durable et à l'aménagement rural, en particulier au développement économique des territoires
 par la valorisation des produits et des services de la forêt des particuliers et de la contribution de ces forêts à la lutte
@@ -14149,20 +14148,18 @@ contribution à l'aménagement rural.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 40
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L214-124
 	  - Code de l'environnement - art. L132-2
-	  - Code forestier (nouveau) - art. L312-2
-	  - Code forestier (nouveau) - art. L313-1
+	  - Code forestier (nouveau) - art. L124-2 (VT)
+	  - Code forestier (nouveau) - art. L312-2 (V)
+	  - Code forestier (nouveau) - art. L313-1 (V)
+	  - Code forestier (nouveau) - art. L313-3 (VT)
 
 	**Cité par**:
 
@@ -14789,6 +14786,59 @@ les statuts le stipulent, par transfert sur les registres de la société.
 	  - Code forestier - art. L241-4 (VT)
 
 
+###### Article L331-4-1
+
+I.-Tout groupement forestier mentionné à l'article L. 331-1 qui lève des capitaux auprès d'investisseurs en vue de les
+investir, dans l'intérêt de ces derniers et conformément à une politique d'investissement que ce groupement ou sa société de
+gestion définit, est un groupement forestier d'investissement. Ce groupement est soumis à l'article L. 214-24 du code
+monétaire et financier. 
+
+II.-L'offre au public de ses parts sociales par un groupement forestier d'investissement est soumise aux articles L. 214-86 à
+L. 214-113 du même code et respecte les conditions suivantes : 
+
+1° A concurrence de 15 % au moins, le capital maximal du groupement, tel que fixé par ses statuts, doit être souscrit par le
+public dans un délai de deux années après la date d'ouverture de la souscription. A défaut, le groupement est dissout et ses
+associés sont remboursés du montant de leur souscription ; 
+
+2° L'assemblée générale des associés approuve les plans simples de gestion des bois et forêts détenus par le groupement
+forestier ; 
+
+3° L'actif du groupement forestier est constitué, d'une part, de bois ou forêts, de terrains nus à boiser et des accessoires
+et dépendances inséparables des bois et forêts et, d'autre part, de liquidités ou valeurs assimilées. 
+
+III.-Le groupement forestier mentionné au II est soumis aux articles L. 231-8 à L. 231-21 du code monétaire et financier. 
+
+IV.-Pour l'application des articles L. 321-1, L. 411-1 à L. 412-1, L. 621-1, 
+L. 621-8 à L. 621-8-3 et du I de l'article L. 621-9 du code monétaire et financier, les parts des groupements forestiers
+d'investissement sont assimilées à des instruments financiers. 
+
+V.-Pour l'application des articles L. 621-5-3, L. 621-5-4 et L. 621-8-4 du code monétaire et financier, les groupements
+forestiers d'investissement sont assimilés à des organismes de placement collectif. 
+
+VI.-Le règlement général de l'Autorité des marchés financiers précise les conditions d'exercice de l'activité de gestion des
+groupements forestiers relevant du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 70
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-24 (V)
+	  - Code monétaire et financier - art. L214-86 (V)
+	  - Code monétaire et financier - art. L231-8 (V)
+	  - Code monétaire et financier - art. L321-1 (V)
+	  - Code monétaire et financier - art. L411-1 (V)
+	  - Code monétaire et financier - art. L621-1 (V)
+	  - Code monétaire et financier - art. L621-5-3 (V)
+	  - Code monétaire et financier - art. L621-8 (V)
+	  - Code monétaire et financier - art. L621-8-4 (V)
+	  - Code monétaire et financier - art. L621-9 (V)
+	  - Code forestier (nouveau) - art. L331-1 (V)
+
+
 ###### Article L331-5
 
 Les parts d'intérêt d'un groupement forestier ne peuvent être cédées à des tiers étrangers à ce groupement qu'après
@@ -15216,24 +15266,27 @@ hectares, les propriétaires d'une parcelle boisée contiguë, tels qu'ils sont 
 bénéficient d'un droit de préférence dans les conditions définies au présent article. Les mêmes dispositions sont applicables
 en cas de cession de droits indivis ou de droits réels de jouissance relatifs à cette propriété. 
 
-Le  vendeur est tenu soit de notifier aux propriétaires des parcelles  boisées contiguës mentionnées au premier alinéa le
-prix et les  conditions de la cession projetée par lettre recommandée avec demande  d'avis de réception ou par remise contre
-récépissé, soit de rendre  publics le prix et les conditions de la cession projetée par voie  d'affichage en mairie durant un
-mois et de publication d'un avis dans un  journal d'annonces légales.
+Le vendeur est tenu de notifier aux propriétaires des parcelles boisées contiguës mentionnées au premier alinéa le prix et
+les conditions de la cession projetée, par lettre recommandée avec demande d'avis de réception, à l'adresse enregistrée au
+cadastre ou par remise contre récépissé. Lorsque le nombre de notifications est égal ou supérieur à dix, le vendeur peut
+rendre publics le prix et les conditions de la cession projetée par voie d'affichage en mairie durant un mois et de
+publication d'un avis dans un journal d'annonces légales. 
 
-Tout propriétaire d'une parcelle boisée  contiguë dispose d'un délai de deux mois à compter de la date  d'affichage en mairie
-ou à compter de la notification pour faire  connaître au vendeur, par lettre recommandée avec demande d'avis de  réception ou
-par remise contre récépissé, qu'il exerce son droit de  préférence aux prix et conditions qui lui sont indiqués par le
-vendeur.
+Tout propriétaire d'une parcelle boisée contiguë dispose d'un délai de deux mois à compter de la date d'affichage en mairie
+ou à compter de la notification pour faire connaître au vendeur, par lettre recommandée avec demande d'avis de réception ou
+par remise contre récépissé, qu'il exerce son droit de préférence aux prix et conditions qui lui sont indiqués par le
+vendeur. 
 
 Lorsque plusieurs propriétaires de parcelles contiguës exercent leur droit de préférence, le vendeur choisit librement celui
 auquel il souhaite céder son bien. 
 
-Le droit de préférence n'est plus opposable au vendeur en l'absence de réalisation de la vente dans un délai de deux mois à
-compter de la réception de la déclaration d'exercice de ce droit dans les conditions mentionnées au quatrième alinéa. 
+Le droit de préférence n'est plus opposable au vendeur en l'absence de réalisation de la vente résultant d'une défaillance de
+l'acheteur dans un délai de quatre mois à compter de la réception de la déclaration d'exercice de ce droit dans les
+conditions mentionnées au troisième alinéa. 
 
-Ce droit de préférence s'exerce sous réserve du droit de préemption prévu par le 6° de l'article L. 143-4 du code rural et de
-la pêche maritime au bénéfice des sociétés d'aménagement foncier et d'établissement rural.
+Ce droit de préférence s'exerce sous réserve du droit de préemption, et de la rétrocession qui en découle, prévu au bénéfice
+de personnes morales chargées d'une mission de service public par le code rural et de la pêche maritime  ou par le  code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -15243,12 +15296,12 @@ la pêche maritime au bénéfice des sociétés d'aménagement foncier et d'éta
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 82
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. L331-20 (V)
-	  - Code forestier (nouveau) - art. L331-21 (M)
+	  - Code forestier (nouveau) - art. L331-21 (V)
 	  - Code forestier (nouveau) - art. L331-22 (V)
 	  - Code forestier (nouveau) - art. L331-23 (V)
 	  - Code forestier (nouveau) - art. L331-24 (V)
@@ -15301,7 +15354,11 @@ l'article L. 331-19 ;
 7° Sur un terrain classé entièrement au cadastre en nature de bois mais dont la partie boisée représente moins de la moitié
 de la surface totale ; 
 
-8° Sur une propriété comportant un terrain classé au cadastre en nature de bois et un ou plusieurs autres biens bâtis ou non.
+8° Sur une propriété comportant une ou plusieurs parcelles classées au cadastre en nature de bois et un ou plusieurs autres
+biens bâtis ou non ;
+
+9° Au profit d'un exploitant de carrières ou d'un propriétaire de terrains à usage de carrières, lorsque la parcelle se situe
+dans ou en contiguïté d'un périmètre d'exploitation déterminé par arrêté préfectoral.
 
 **Liens relatifs à cet article**
 
@@ -15311,7 +15368,7 @@ de la surface totale ;
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 83
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
@@ -15320,6 +15377,99 @@ de la surface totale ;
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. L331-24 (V)
+
+
+##### Section 6 : Prérogatives des communes et de l'Etat
+
+###### Article L331-22
+
+En cas de vente d'une propriété classée au cadastre en nature de bois et forêts et d'une superficie totale inférieure à
+quatre hectares, ou sans limitation de superficie lorsque le vendeur est une personne publique dont les bois et forêts
+relèvent du régime forestier en application du 2° du I de l'article L. 211-1, la commune sur le territoire de laquelle se
+trouve cette propriété et qui possède une parcelle boisée contiguë soumise à un document de gestion mentionné au a du 1° de
+l'article L. 122-3 bénéficie d'un droit de préemption.
+
+Le vendeur est tenu de notifier au maire le prix et les conditions de la vente projetée par lettre recommandée avec demande
+d'avis de réception. Le maire dispose d'un délai de deux mois à compter de la notification pour faire connaître au vendeur
+qu'il exerce le droit de préemption de la commune au prix et aux conditions indiqués.
+
+Le droit de préférence prévu à l'article L. 331-19 n'est pas applicable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L122-3 (VT)
+	  - Code forestier (nouveau) - art. L211-1 (V)
+	  - Code forestier (nouveau) - art. L331-19 (V)
+
+	**Cité par**:
+
+	  - Code rural et de la pêche maritime - art. L143-2-1 (V)
+
+
+###### Article L331-23
+
+En cas de vente d'une propriété classée au cadastre en nature de bois et forêts et d'une superficie totale inférieure à
+quatre hectares, l'Etat bénéficie d'un droit de préemption si une forêt domaniale jouxte la parcelle en vente. L'officier
+public chargé de la vente informe le représentant de l'Etat dans le département. En cas de silence pendant trois mois, l'Etat
+est réputé renoncer à son droit. L'exercice de son droit de préemption par l'Etat prive d'effet les droits de préférence et
+de préemption définis aux articles L. 331-19 à L. 331-22.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L331-19 (V)
+
+	**Cité par**:
+
+	  - Code rural et de la pêche maritime - art. L143-2-1 (V)
+
+
+###### Article L331-24
+
+En cas de vente d'une propriété classée au cadastre en nature de bois et forêts et d'une superficie totale inférieure à
+quatre hectares, la commune sur le territoire de laquelle se trouve cette propriété bénéficie d'un droit de préférence. La
+commune bénéficie du même droit en cas de vente de droits indivis ou de droits réels de jouissance relatifs à cette
+propriété.
+
+Le vendeur est tenu de notifier au maire le prix et les conditions de la vente projetée par lettre recommandée avec demande
+d'avis de réception. Le maire dispose d'un délai de deux mois à compter de la notification pour faire connaître au vendeur
+qu'il exerce le droit de préférence de la commune au prix et aux conditions indiqués.
+
+Lorsqu'un ou plusieurs propriétaires de parcelles contiguës à la propriété exercent concurremment à la commune le droit de
+préférence prévu à l'article L. 331-19, le vendeur choisit librement à qui céder son bien.
+
+Le droit de préférence ne s'applique pas dans les cas énumérés à l'article L. 331-21.
+
+Le droit de préférence n'est plus opposable au vendeur en l'absence de réalisation de la vente dans un délai de deux mois à
+compter de la réception de la déclaration d'exercice de ce droit.
+
+Est nulle toute vente opérée en violation du droit de préférence de la commune. L'action en nullité se prescrit par cinq ans.
+
+Les bois et forêts acquis dans les conditions prévues au présent article sont soumis au régime forestier prévu à l'article L.
+211-1 à l'expiration d'un délai de cinq ans à compter de leur incorporation au domaine communal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L211-1 (V)
+	  - Code forestier (nouveau) - art. L331-19 (V)
+	  - Code forestier (nouveau) - art. L331-21 (V)
 
 
 #### Chapitre II : Regroupement pour la gestion
@@ -15521,6 +15671,91 @@ Son statut juridique et les conditions de son agrément sont fixés par décret.
 	  - Code rural et de la pêche maritime - art. L124-10 (VD)
 
 
+##### Section 4 : Le groupement d'intérêt économique et environnemental forestier
+
+###### Article L332-7
+
+I. – Est reconnu comme groupement d'intérêt économique et environnemental forestier tout regroupement volontaire de
+propriétaires forestiers de bois et forêts relevant de l'article L. 311-1, quelle que soit sa forme juridique, répondant aux
+conditions suivantes : 
+
+1° Les bois et forêts regroupés sont situés dans un territoire géographique cohérent d'un point de vue sylvicole, économique
+et écologique et constituent un ensemble de gestion d'au moins trois cents hectares ou, s'il rassemble au moins vingt
+propriétaires, d'au moins cent hectares. En zone de montagne, le programme régional de la forêt et du bois peut fixer une
+surface minimale différente lorsque l'ensemble de gestion rassemble au moins vingt propriétaires ; 
+
+2° Un document de diagnostic, rédigé par un expert forestier, un gestionnaire forestier professionnel, une société
+coopérative forestière ou tout professionnel compétent en matière d'ingénierie des territoires, dont le contenu minimal est
+défini par décret, justifie de la cohérence du territoire et expose les modalités de gestion retenues et les conditions de
+suivi de l'atteinte des objectifs assignés à cette gestion ; 
+
+3° Les propriétaires concernés doivent avoir adopté un plan simple de gestion, dans les conditions prévues à l'article L.
+122-4, et s'engager à mettre en œuvre des modalités de gestion conformes à celles décrites dans le diagnostic mentionné au 2°
+du présent I. 
+
+II. – Dans le cadre du groupement d'intérêt économique et environnemental forestier, il est proposé aux propriétaires la mise
+en place d'un mandat de gestion avec un gestionnaire forestier, qui peut être un expert forestier, un gestionnaire forestier
+professionnel ou une société coopérative forestière, et des projets de commercialisation de leurs bois, notamment par voie de
+contrats d'approvisionnement reconductibles, annuels ou pluriannuels, pour les produits qui le justifient. 
+
+III. – Quelle que soit la forme juridique du groupement d'intérêt économique et environnemental forestier, lorsqu'une ou
+plusieurs des propriétés le constituant sont gérées par un organisme de gestion et d'exploitation forestière en commun,
+celui-ci formule un avis simple sur le mandat de gestion et sur les projets de commercialisation mentionnés au II. En cas
+d'avis explicitement défavorable, ils ne sont pas proposés aux propriétaires forestiers adhérents à l'organisme. 
+
+IV. – La reconnaissance et le retrait de la qualité de groupement d'intérêt économique et environnemental forestier sont
+décidés par l'autorité administrative compétente de l'Etat, selon des modalités prévues par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+
+	**Cité par**:
+
+	  - Décret n°2015-758 du 24 juin 2015 (V)
+	  - Décret n°2016-734 du 2 juin 2016 (V)
+	  - Code forestier (nouveau) - art. R312-4-1 (V)
+	  - Code forestier (nouveau) - art. R332-13 (V)
+	  - Code général des impôts, CGI. - art. 200 quindecies (V)
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L122-4 (V)
+	  - Code forestier (nouveau) - art. L311-1 (V)
+
+
+###### Article L332-8
+
+Les propriétaires membres du groupement d'intérêt économique et environnemental forestier sont tenus de mettre en œuvre le
+plan simple de gestion ou la partie de plan simple de gestion qui concerne leur propriété et restent personnellement
+responsables de la mise en œuvre de leur gestion. 
+
+Ils peuvent bénéficier de majorations dans l'attribution des aides publiques dont les objectifs correspondent aux finalités
+du plan simple de gestion qui leur est applicable. 
+
+Si le plan simple de gestion n'est pas appliqué pour une surface au moins égale à la moitié de l'ensemble des surfaces
+comprises dans le groupement d'intérêt économique et environnemental forestier, la qualité de groupement d'intérêt économique
+et environnemental forestier peut être retirée. 
+
+L'inclusion de tout ou partie d'une propriété au sein d'un groupement d'intérêt économique et environnemental forestier
+n'ouvre pas droit à celui-ci, au propriétaire ou au détenteur du droit de chasse sur des superficies inférieures aux
+superficies minimales mentionnées à l'article L. 422-13 du code de l'environnement de former opposition au titre du 3° de
+l'article L. 422-10 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L422-10 (V)
+	  - Code de l'environnement - art. L422-13 (V)
+
+
 ### TITRE IV : DÉFRICHEMENTS
 
 #### Chapitre Ier : Régime d'autorisation préalable
@@ -15560,10 +15795,10 @@ reste soumis aux dispositions du présent titre.
 
 ###### Article L341-2
 
-Ne constituent pas un défrichement : 
+I.-Ne constituent pas un défrichement : 
 
-1° Les opérations ayant pour but de remettre en valeur d'anciens terrains de culture ou de pacage envahis par une végétation
-spontanée, ou les terres occupées par les formations telles que garrigues, landes et maquis ; 
+1° Les opérations ayant pour but de remettre en valeur d'anciens terrains de culture, de pacage ou d'alpage envahis par une
+végétation spontanée, ou les terres occupées par les formations telles que garrigues, landes et maquis ; 
 
 2° Les opérations portant sur les noyeraies, oliveraies, plantations de chênes truffiers et vergers à châtaignes ; 
 
@@ -15575,7 +15810,12 @@ valeur et à leur protection, sous réserve que ces équipements ne modifient pa
 l'immeuble bénéficiaire et n'en constituent que les annexes indispensables, y compris les opérations portant sur les terrains
 situés dans les zones délimitées et spécifiquement définies comme devant être défrichées pour la réalisation d'aménagements,
 par un plan de prévention des risques naturels prévisibles établi en application des articles L. 562-1 à L. 562-7 du code de
-l'environnement.
+l'environnement. 
+
+II.-Le défrichement destiné à la réouverture des espaces à vocation pastorale est autorisé après que le représentant de
+l'Etat dans le département a soumis, pour avis, le projet à la commission de la préservation des espaces naturels, agricoles
+et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime. Cet avis est réputé favorable s'il n'est
+pas intervenu dans un délai d'un mois à compter de la saisine de la commission.
 
 **Liens relatifs à cet article**
 
@@ -15583,17 +15823,14 @@ l'environnement.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L315-1 (VT), al 1 à 4.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L562-1 (V)
+	  - Code rural - art. L112-1-1 (V)
+	  - Code de l'environnement - art. L562-1
 
 
 ###### Article L341-3
@@ -15748,30 +15985,27 @@ risques naturels, notamment les incendies et les avalanches.
 
 ###### Article L341-6
 
-L'autorité administrative compétente de l'Etat peut subordonner son autorisation au respect d'une ou plusieurs des conditions
-suivantes : 
+L'autorité administrative compétente de l'Etat subordonne son autorisation à l'une ou plusieurs des conditions suivantes : 
 
-1° La conservation sur le terrain de réserves boisées suffisamment importantes pour remplir les rôles utilitaires définis à
-l'article L. 341-5 ; 
+1° L'exécution, sur d'autres terrains, de travaux de boisement ou reboisement pour une surface correspondant à la surface
+défrichée, assortie, le cas échéant, d'un coefficient multiplicateur compris entre 1 et 5, déterminé en fonction du rôle
+économique, écologique et social des bois et forêts objets du défrichement, ou d'autres travaux d'amélioration sylvicoles
+d'un montant équivalent. Le représentant de l'Etat dans le département peut imposer que le boisement compensateur soit
+réalisé dans un même massif forestier ou dans un secteur écologiquement ou socialement comparable ; 
 
-2° L'exécution de travaux de reboisement sur les terrains en cause ou de boisement ou reboisement sur d'autres terrains, pour
-une surface correspondant à la surface défrichée, assortie le cas échéant d'un coefficient multiplicateur compris entre 2 et
-5, déterminé en fonction du rôle écologique ou social des bois visés par le défrichement. Le représentant de l'Etat dans le
-département pourra imposer que le boisement compensateur soit réalisé dans la même région forestière ou dans un secteur
-écologiquement ou socialement comparable ; 
+2° La remise en état boisé du terrain lorsque le défrichement a pour objet l'exploitation du sous-sol à ciel ouvert ; 
 
-3° La remise en état boisé du terrain lorsque le défrichement a pour objet l'exploitation du sous-sol à ciel ouvert ; 
-
-4° L'exécution de travaux de génie civil ou biologique en vue de la protection contre l'érosion des sols des parcelles
+3° L'exécution de travaux de génie civil ou biologique en vue de la protection contre l'érosion des sols des parcelles
 concernées par le défrichement ; 
 
-5° L'exécution de travaux ou mesures visant à réduire les risques naturels, notamment les incendies et les avalanches. 
+4° L'exécution de travaux ou mesures visant à réduire les risques naturels, notamment les incendies et les avalanches. 
 
-Pour la mise en œuvre de la mesure mentionnée au 2°, le demandeur qui ne souhaite pas réaliser par lui-même des travaux de
-boisement ou de reboisement peut proposer de s'acquitter de ses obligations soit par le versement à l'Etat, dans les
-conditions prévues à l'article L. 213-1, d'une indemnité équivalente en vue de l'achat par l'Etat de terrains boisés ou à
-boiser, soit par la cession à l'Etat ou à une collectivité territoriale de terrains boisés ou à boiser, susceptibles de jouer
-le même rôle écologique et social.
+L'autorité administrative compétente de l'Etat peut également conditionner son autorisation à la conservation sur le terrain
+de réserves boisées suffisamment importantes pour remplir les rôles utilitaires définis à l'article L. 341-5. 
+
+Le demandeur peut s'acquitter d'une obligation mentionnée au 1° du présent article en versant au Fonds stratégique de la
+forêt et du bois une indemnité équivalente, dont le montant est déterminé par l'autorité administrative et lui est notifié en
+même temps que la nature de cette obligation.
 
 **Liens relatifs à cet article**
 
@@ -15779,20 +16013,16 @@ le même rôle écologique et social.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L311-4 (VT)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. D341-7-2 (V)
 	  - Code forestier (nouveau) - art. L341-10 (M)
 	  - Code forestier (nouveau) - art. L341-9 (V)
-	  - Code forestier (nouveau) - art. L342-1 (M)
+	  - Code forestier (nouveau) - art. L342-1 (V)
 	  - Code forestier (nouveau) - art. L363-2 (VD)
 	  - Code forestier (nouveau) - art. L372-4 (V)
 	  - Code forestier (nouveau) - art. L374-3 (V)
@@ -15803,22 +16033,19 @@ le même rôle écologique et social.
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L213-1 (VD)
+	  - Code forestier (nouveau) - art. L341-5 (V)
 
 
 ###### Article L341-7
 
-Lorsque la réalisation d'une opération ou de travaux soumis à une autorisation administrative, à l'exception de celle prévue
-par le titre Ier du livre V du code de l'environnement, nécessite également l'obtention d'une autorisation de défrichement,
-celle-ci doit être obtenue préalablement à la délivrance de cette autorisation administrative.
+Lorsque la réalisation d'une opération ou de travaux soumis à une autorisation administrative, à l'exception de celles
+prévues au titre Ier et au chapitre V du titre V du livre V du code de l'environnement , nécessite également l'obtention
+d'une autorisation de défrichement, celle-ci doit être obtenue préalablement à la délivrance de cette autorisation
+administrative.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
@@ -15831,13 +16058,9 @@ celle-ci doit être obtenue préalablement à la délivrance de cette autorisati
 	  - Code forestier (nouveau) - art. L374-4 (V)
 	  - Code forestier (nouveau) - art. R375-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code forestier - art. L311-5 (VT)
-
-	**Cite**:
-
-	  - titre Ier du livre V du code de l'environnement
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 
 ###### Article L341-8
@@ -15874,6 +16097,13 @@ cette autorité. Ce délai ne peut excéder trois années.
 
 ###### Article L341-9
 
+Lorsque l'autorisation de défrichement est subordonnée à une des conditions mentionnées au 1° de l'article L. 341-6, le
+titulaire de cette autorisation dispose d'un délai maximal d'un an à compter de la notification de l'obligation à laquelle il
+est tenu pour transmettre à l'autorité administrative un acte d'engagement des travaux à réaliser ou verser au Fonds
+stratégique de la forêt et du bois une indemnité équivalente. A défaut, l'indemnité est mise en recouvrement dans les
+conditions prévues pour les créances de l'Etat étrangères à l'impôt et au domaine, sauf s'il renonce au défrichement
+projeté. 
+
 En cas de non-exécution dans un délai maximum de trois ans des travaux imposés en application de l'article L. 341-6, les
 lieux défrichés doivent être rétablis en nature de bois et forêts dans un délai fixé par l'autorité administrative compétente
 de l'Etat. Ce délai ne peut excéder trois années. 
@@ -15887,31 +16117,26 @@ bois des terrains devant être maintenus à l'état de réserves boisées.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
 	**Cité par**:
 
 	  - Décret n°2014-751 du 1er juillet 2014 - art. 21 (VT)
 	  - Code de l'environnement - art. L181-29 (V)
 	  - Code forestier (nouveau) - art. D341-7-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code forestier - art. L313-2 (VT), al 2 et 3.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L341-6 (V)
+	  - Code forestier (nouveau) - art. L341-6
 
 
 ###### Article L341-10
 
-Faute par le propriétaire d'effectuer la plantation ou le semis nécessaire au rétablissement des terrains en nature de bois
-et forêts, prévus par les articles L. 341-6, 
-L. 341-8 et L. 341-9, dans le délai prescrit par la décision administrative, il y est pourvu à ses frais par
-l'administration, qui arrête le mémoire des travaux faits et le rend exécutoire contre le propriétaire.
+L'article L. 171-8 du code de l'environnement est applicable au propriétaire qui n'a pas effectué la plantation ou le semis
+nécessaire au rétablissement des terrains en nature de bois et forêts prévus aux articles L. 341-6, L. 341-8 et L. 341-9 du
+présent code, dans le délai prescrit par la décision administrative.
 
 **Liens relatifs à cet article**
 
@@ -15919,14 +16144,15 @@ l'administration, qui arrête le mémoire des travaux faits et le rend exécutoi
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code forestier - art. L313-2 (VT), al 4.
-	  - Code forestier - art. L313-3 (VT)
+	  - Code de l'environnement - art. L171-8 (V)
+	  - Code forestier (nouveau) - art. L341-6 (V)
+	  - Code forestier (nouveau) - art. L341-8 (V)
 
 	**Cité par**:
 
@@ -15935,33 +16161,28 @@ l'administration, qui arrête le mémoire des travaux faits et le rend exécutoi
 	  - Code forestier (nouveau) - art. L374-5 (V)
 	  - Code forestier (nouveau) - art. L375-7 (V)
 
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L341-6 (V)
-	  - Code forestier (nouveau) - art. L341-8 (V)
-
 
 #### Chapitre II : Exemptions
 
 ###### Article L342-1
 
-Sont exemptés des dispositions de l'article L. 341-3 les défrichements envisagés dans les cas suivants : 
+Sont exemptés des dispositions de l'article L. 341-3 les défrichements envisagés dans les cas suivants :
 
 1° Dans les bois et forêts de superficie inférieure à un seuil compris entre 0,5 et 4 hectares, fixé par département ou
 partie de département par le représentant de l'Etat, sauf s'ils font partie d'un autre bois dont la superficie, ajoutée à la
-leur, atteint ou dépasse ce seuil ; 
+leur, atteint ou dépasse ce seuil ;
 
 2° Dans les parcs ou jardins clos et attenants à une habitation principale, lorsque l'étendue close est inférieure à 10
 hectares. Toutefois, lorsque les défrichements projetés dans ces parcs sont liés à la réalisation d'une opération
 d'aménagement prévue au titre Ier du livre III du code de l'urbanisme ou d'une opération de construction soumise à
 autorisation au titre de ce code, cette surface est abaissée à un seuil compris entre 0,5 et 4 hectares, fixé par département
-ou partie de département par le représentant de l'Etat ; 
+ou partie de département par le représentant de l'Etat ;
 
 3° Dans les zones définies en application du 1° de l'article L. 126-1 du code rural et de la pêche maritime dans lesquelles
 la reconstitution des boisements après coupe rase est interdite ou réglementée, ou ayant pour but une mise en valeur agricole
-et pastorale de bois situés dans une zone agricole définie en application de l'article L. 123-21 du même code ; 
+et pastorale de bois situés dans une zone agricole définie en application de l'article L. 123-21 du même code ;
 
-4° Dans les jeunes bois de moins de vingt ans sauf s'ils ont été conservés à titre de réserves boisées ou plantés à titre de
+4° Dans les jeunes bois de moins de trente ans sauf s'ils ont été conservés à titre de réserves boisées ou plantés à titre de
 compensation en application de l'article L. 341-6 ou bien exécutés dans le cadre de la restauration des terrains en montagne
 ou de la protection des dunes.
 
@@ -15971,21 +16192,16 @@ ou de la protection des dunes.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
-	  - Code rural - art. L123-21 (V)
-	  - Code rural - art. L126-1 (VT)
-	  - Code forestier (nouveau) - art. L341-3 (V)
-	  - Code forestier (nouveau) - art. L341-6 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L311-2 (VT)
-	  - Code forestier - art. L315-1 (VT), al 5 à 7.
+	  - Code rural - art. L123-21
+	  - Code rural - art. L126-1
+	  - Code forestier (nouveau) - art. L341-3
+	  - Code forestier (nouveau) - art. L341-6 (M)
 
 	**Cité par**:
 
@@ -15993,7 +16209,7 @@ ou de la protection des dunes.
 	  - Code forestier (nouveau) - art. L374-6 (V)
 	  - Code forestier (nouveau) - art. L375-8 (V)
 	  - Code rural et de la pêche maritime - art. L121-19 (VD)
-	  - Code rural et de la pêche maritime - art. L143-4 (VD)
+	  - Code rural et de la pêche maritime - art. L143-4 (V)
 
 
 ### TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE
@@ -16600,26 +16816,40 @@ L. 363-4, en ordonnant l'interruption est puni de six mois d'emprisonnement et d
 défrichée est inférieure ou égale à 10 mètres carrés ou de 450 euros par mètre carré défriché lorsque la surface est
 supérieure à 10 mètres carrés.
 
+Ces peines sont également applicables en cas de continuation d'un défrichement nonobstant la décision de la juridiction
+administrative prononçant la suspension ou le sursis à exécution de l'autorisation de défrichement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L313-7 (VT)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L363-4 (V)
+	  - Code forestier (nouveau) - art. L363-4
 
 
 ### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER
+
+#### Chapitre Ier : Guadeloupe
+
+###### Article L371-1
+
+En Guadeloupe, les missions assignées par le présent code au Centre national de la propriété forestière sont exercées par le
+centre régional de la propriété forestière ou, lorsqu'il n'a pas été constitué, par le préfet, après avis de la commission
+régionale de la forêt et du bois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
+
 
 #### Chapitre II : Guyane
 
@@ -16658,7 +16888,8 @@ Ne sont pas applicables en Guyane :
 ###### Article L372-2
 
 En Guyane, les missions assignées par le présent code au Centre national de la propriété forestière sont exercées par le
-préfet, après avis de la commission régionale de la forêt et des produits forestiers.
+centre régional de la propriété forestière ou, lorsqu'il n'a pas été constitué, par le préfet, après avis de la commission
+régionale de la forêt et du bois.
 
 **Liens relatifs à cet article**
 
@@ -16666,14 +16897,9 @@ préfet, après avis de la commission régionale de la forêt et des produits fo
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L14 (VT), al 2.
-	  - Code forestier - art. L252-1 (VT), al 2.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
 ###### Article L372-3
@@ -16734,6 +16960,21 @@ lorsqu'une des neuf fonctions se trouve menacée.
 
 	  - Code forestier (nouveau) - art. L341-5 (VD)
 	  - Code forestier (nouveau) - art. L341-6 (V)
+
+
+#### Chapitre III : Martinique
+
+###### Article L373-1
+
+En Martinique, les missions assignées par le présent code au Centre national de la propriété forestière sont exercées par le
+centre régional de la propriété forestière ou, lorsqu'il n'a pas été constitué, par le préfet, après avis de la commission
+régionale de la forêt et du bois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
 #### Chapitre IV : La Réunion
@@ -17024,6 +17265,21 @@ l'article L. 374-8 est puni d'une amende de 7 500 euros.
 	  - Code forestier (nouveau) - art. L374-8 (V)
 
 
+##### Section 4 : Missions assignées au Centre national de la propriété forestière
+
+###### Article L374-10
+
+A La Réunion, les missions assignées par le présent code au Centre national de la propriété forestière sont exercées par le
+centre régional de la propriété forestière ou, lorsqu'il n'a pas été constitué, par le préfet, après avis de la commission
+régionale de la forêt et du bois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
+
+
 #### Chapitre V : Mayotte
 
 ##### Section 1 : Généralités
@@ -17031,7 +17287,8 @@ l'article L. 374-8 est puni d'une amende de 7 500 euros.
 ###### Article L375-1
 
 A Mayotte, les missions assignées par le présent code au Centre national de la propriété forestière sont exercées par le
-préfet, après avis de la commission de la forêt et des produits forestiers du Département de Mayotte.
+centre régional de la propriété forestière ou, lorsqu'il n'a pas été constitué, par le préfet, après avis de la commission de
+la forêt et du bois du Département de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -17039,9 +17296,9 @@ préfet, après avis de la commission de la forêt et des produits forestiers du
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
 ###### Article L375-2
