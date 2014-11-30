@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2014-12-01
 
 # Partie législative
 
@@ -4137,7 +4137,76 @@ le domaine de la gestion durable des forêts métropolitaines et d'outre-mer.
 	  - Code rural et de la pêche maritime - art. D823-1 (V)
 
 
-#### Chapitre III : Commercialisation des matériels forestiers  de reproduction
+#### Chapitre III : Ressources génétiques forestières et matériels forestiers de reproduction
+
+##### Section 1 : Principes généraux et champ d'application
+
+###### Article L153-1
+
+Sont soumis au présent chapitre les matériels de reproduction des essences forestières produits pour la commercialisation ou
+commercialisés en tant que plants ou parties de plantes destinés à des fins forestières ou en tant que semences, à
+l'exception des matériels dont il est prouvé qu'ils sont destinés à l'exportation ou à la réexportation vers des pays tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. D153-1 (V)
+	  - Code forestier (nouveau) - art. L153-4 (V)
+	  - Code forestier (nouveau) - art. R153-12 (V)
+
+
+###### Article L153-1-1
+
+Lors de la création ou du renouvellement de bois et de forêts par la plantation de matériels de reproduction commercialisés
+appartenant à des espèces réglementées par le présent code, seuls des matériels forestiers produits et commercialisés dans le
+respect du présent chapitre peuvent être utilisés. Il en est de même pour toute plantation susceptible d'avoir un impact sur
+les ressources génétiques des arbres forestiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+
+###### Article L153-1-2
+
+Sont définies par décret en Conseil d'Etat :
+
+1° Les modalités d'accès aux ressources génétiques forestières et aux connaissances traditionnelles associées, ainsi que les
+conditions d'un partage équitable des avantages découlant de leur utilisation en recherche et développement ;
+
+2° Les conditions dans lesquelles les ressources génétiques forestières peuvent être récoltées sur le territoire français à
+des fins d'expérimentation, à des fins scientifiques ou en vue de travaux de sélection ou de conservation, et peuvent être
+utilisées dans le cadre d'actions de recherche et développement ;
+
+3° Les conditions de récolte, de commercialisation et d'utilisation durable des matériels forestiers de reproduction destinés
+à des expérimentations, à des fins scientifiques, à des travaux de sélection, à des fins de conservation génétique ou à des
+fins autres que forestières.
+
+La liste des essences forestières soumises aux dispositions mentionnées aux 1° et 2° et celle des essences forestières dont
+le commerce des matériels forestiers de reproduction est réglementé par le présent chapitre sont arrêtées par le ministre
+chargé de la forêt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L412-5 (V)
+
 
 ##### Section 2 : Conditions de commercialisation et de garantie de qualité des matériels forestiers de reproduction et admission des matériels de base
 
@@ -4315,83 +4384,6 @@ et la confiscation des produits ainsi que leur destruction aux frais de l'intér
 
 	  - Code forestier - art. L555-4 (VT)
 
-
-#### Chapitre III : Ressources génétiques forestières et matériels forestiers de reproduction
-
-##### Section 1 : Principes généraux et champ d'application
-
-###### Article L153-1
-
-Sont soumis au présent chapitre les matériels de reproduction des essences forestières produits pour la commercialisation ou
-commercialisés en tant que plants ou parties de plantes destinés à des fins forestières ou en tant que semences, à
-l'exception des matériels dont il est prouvé qu'ils sont destinés à l'exportation ou à la réexportation vers des pays tiers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Modifié par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. D153-1 (V)
-	  - Code forestier (nouveau) - art. L153-4 (V)
-	  - Code forestier (nouveau) - art. R153-12 (V)
-
-
-###### Article L153-1-1
-
-Lors de la création ou du renouvellement de bois et de forêts par la plantation de matériels de reproduction commercialisés
-appartenant à des espèces réglementées par le présent code, seuls des matériels forestiers produits et commercialisés dans le
-respect du présent chapitre peuvent être utilisés. Il en est de même pour toute plantation susceptible d'avoir un impact sur
-les ressources génétiques des arbres forestiers.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
-
-###### Article L153-1-2
-
-Sont définies par décret en Conseil d'Etat :
-
-1° Les modalités d'accès aux ressources génétiques forestières et aux connaissances traditionnelles associées, ainsi que les
-conditions d'un partage équitable des avantages découlant de leur utilisation en recherche et développement ;
-
-2° Les conditions dans lesquelles les ressources génétiques forestières peuvent être récoltées sur le territoire français à
-des fins d'expérimentation, à des fins scientifiques ou en vue de travaux de sélection ou de conservation, et peuvent être
-utilisées dans le cadre d'actions de recherche et développement ;
-
-3° Les conditions de récolte, de commercialisation et d'utilisation durable des matériels forestiers de reproduction destinés
-à des expérimentations, à des fins scientifiques, à des travaux de sélection, à des fins de conservation génétique ou à des
-fins autres que forestières.
-
-La liste des essences forestières soumises aux dispositions mentionnées aux 1° et 2° et celle des essences forestières dont
-le commerce des matériels forestiers de reproduction est réglementé par le présent chapitre sont arrêtées par le ministre
-chargé de la forêt.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L412-5 (V)
-
-
-##### Section 2 : Conditions de commercialisation et de garantie de qualité des matériels forestiers de reproduction et admission des matériels de base
-
-##### Section 3 : Commerce avec les pays membres de l'Union européenne  et les pays tiers
-
-##### Section 4 : Surveillance et police administrative
 
 #### Chapitre III bis : Desserte des forêts
 
@@ -7884,8 +7876,6 @@ services de l'agriculture.
 
 	  - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
-
-#### Chapitre IX : Terres australes  et antarctiques françaises
 
 #### Chapitre IX : Polynésie française et Terres australes et antarctiques françaises
 
@@ -24771,18 +24761,10 @@ Le commissionnement est prononcé par le directeur général de l'Office nationa
 
 Les agents mentionnés aux articles R. 161-1 et R. 161-2 sont autorisés, sur la décision de l'autorité compétente pour les
 commissionner, à porter, pour leur défense dans l'exercice de leurs fonctions, une arme de catégorie B à l'exception des 3°,
-6° et 7° et une arme classée au b du 2° de la catégorie D, conformément à l'
-article 25 du décret n° 2013-700 du 30 juillet 2013
-portant application de la 
-loi n° 2012-304 du 6 mars 2012
-relative à l'établissement d'un contrôle des armes moderne, simplifié et préventif.
+6° et 7° et une arme classée au b du 2° de la catégorie D, conformément aux articles R. 312-22, R. 312-24 et R. 312-25 du
+code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2012-304 du 6 mars 2012
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 25
 
 	**Codifié par**:
 
@@ -24790,7 +24772,13 @@ relative à l'établissement d'un contrôle des armes moderne, simplifié et pr�
 
 	**Modifié par**:
 
-	  - Décret n°2013-723 du 12 août 2013 - art. 3
+	  - Décret n°2014-1253 du 27 octobre 2014 - art. 7
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. R161-1
+	  - Code de la sécurité intérieure - art. R312-22
+	  - Code de la sécurité intérieure - art. R312-24
 
 
 ###### Article R161-4
