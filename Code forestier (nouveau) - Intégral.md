@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-03-01
 
 # Partie législative
 
@@ -19297,6 +19297,23 @@ chaque cas, le contrat doit être d'une durée au moins égale à dix ans.
 	  - Code forestier (nouveau) - art. L124-1 (V)
 	  - Code forestier (nouveau) - art. L313-2 (V)
 	  - Code forestier (nouveau) - art. L315-1 (V)
+
+
+#### Chapitre V : Protection contre les atteintes à la propriété foncière forestière
+
+###### Article D125-1
+
+Le montant de l'indemnité annuelle d'occupation mentionnée à l'article L. 125-1 est de 20 euros par mètre carré ou linéaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-228 du 27 février 2015 - art. 8
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L125-1
 
 
 ### TITRE III : DÉFENSE ET LUTTE  CONTRE LES INCENDIES DE FORÊTS
