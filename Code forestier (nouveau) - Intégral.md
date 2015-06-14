@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-06-14
+Version Consolidée au 2015-06-15
 
 # Partie législative
 
@@ -18244,9 +18244,70 @@ intéressées par les produits ou groupes de produits visés.
 
 ###### Article D121-1
 
+Le programme national de la forêt et du bois mentionné à l'article L. 121-2-2 est élaboré par le ministre chargé des forêts
+sur la base des contributions des comités spécialisés prévus au troisième alinéa de l'article D. 113-4. En matière d'économie
+de la filière de la forêt et du bois, il s'appuie notamment sur les travaux menés par le Conseil national de l'industrie
+prévue par le décret n° 2010-596 du 3 juin 2010 relatif au Conseil national de l'industrie. En matière environnementale, le
+programme national de la forêt et du bois concourt à la mise en œuvre des objectifs de la stratégie nationale pour la
+biodiversité et du plan national d'adaptation au changement climatique. 
+
+Sur la base d'un état des lieux concerté entre les différents acteurs, il identifie les enjeux de la politique forestière
+notamment en termes de gestion forestière durable, de valorisation des forêts dans les territoires, d'économie de la filière
+forêt-bois, de recherche, de développement et d'innovation, de coopérations européennes et internationales. 
+
+Le programme national de la forêt et du bois planifie les actions stratégiques à l'échelle nationale. Il comporte des
+recommandations sur les outils et les moyens à mobiliser en vue de la réalisation des objectifs mentionnés à l'article L.
+121-2-2. Il fixe les actions prioritaires et hiérarchisées ainsi que les efforts d'amélioration des connaissances à mettre en
+œuvre pour y parvenir. Il fixe également les conditions de suivi et d'évaluation des actions stratégiques. 
+
+Le programme national de la forêt et du bois est compatible avec les orientations nationales pour la préservation et la
+remise en bon état des continuités écologiques prévues à l'article L. 371-2 du code de l'environnement. Il précise les
+mesures permettant d'éviter, de réduire et, le cas échéant, de compenser les atteintes aux continuités écologiques que sa
+mise en œuvre est susceptible d'entraîner.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2010-596 du 3 juin 2010
+	  - Code de l'environnement - art. L371-2
+	  - Code forestier (nouveau) - art. D113-4 (V)
+	  - Code forestier (nouveau) - art. L121-2-2
+
+	**Codifié par**:
+
+	  - Décret n°2012-836 du 29 juin 2012 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-666 du 10 juin 2015 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-155 du 8 février 2017 (V)
+	  - Code forestier (nouveau) - art. D156-8 (V)
+
+
+###### Article D121-2
+
+Le programme national de la forêt et du bois fait l'objet d'une évaluation environnementale réalisée dans les conditions
+prévues à la section 2 du chapitre II du titre II du livre Ier du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-666 du 10 juin 2015 - art. 1
+
+
+###### Article D121-3
+
 Lorsque la finalité des aides publiques est l'élaboration du premier plan simple de gestion, la prévention des risques
 naturels ou d'incendie ou la desserte forestière de plusieurs propriétés, l'attribution de ces aides n'est pas subordonnée
 aux conditions mentionnées au premier alinéa de l'article L. 121-6. 
+
+L'attribution des aides publiques encourage les démarches territoriales et les opérations menées par les propriétaires
+particuliers pour une gestion regroupée de leurs forêts et des produits qui en sont issus. 
 
 Lorsque ces aides publiques sont prévues dans le cadre d'un contrat Natura 2000, seules les propriétés devant être gérées
 conformément à un document d'aménagement arrêté ou à un plan simple de gestion agréé sont soumises à la vérification des
@@ -18262,47 +18323,43 @@ d'exploitation forestière en commun.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
 	**Créé par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2015-666 du 10 juin 2015 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2017-155 du 8 février 2017 (V)
-	  - Code forestier (nouveau) - art. D156-8 (V)
+	  - Décret n°2015-666 du 10 juin 2015 - art. 1
 
 	**Anciens textes**:
 
-	  - Code forestier - art. L7 (Ab), al 2, al 3, al 4
-
-	**Nouveaux textes**:
-
-	  - Code forestier (nouveau) - art. D121-3 (M)
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L121-6 (V)
+	  - Code forestier (nouveau) - art. D121-1 (T)
 
 
 #### Chapitre II : Instruments et mise en œuvre  de la politique forestière
 
 ##### Section 1 : Documents d'orientation et de gestion
 
-##### Sous-section 1 : Orientations régionales forestières
+##### Sous-section 1 : Programme régional de la forêt et du bois
 
 ###### Article D122-1
 
-Les orientations régionales forestières comportent, outre les données mentionnées à l'article L. 122-1, les éléments et
-caractéristiques nécessaires à la prévention des incendies de forêts, en cohérence avec les plans départementaux ou
-interdépartementaux de protection des forêts contre les incendies, mentionnés à l'article R. 133-1.
+Le programme régional de la forêt et du bois est élaboré pour une durée maximale de dix ans. 
+
+Il fixe les orientations de gestion forestière durable dont celles relatives aux itinéraires sylvicoles dans lesquelles
+s'inscrivent les directives, schémas et documents de gestion des bois et forêts. Il détermine également les conditions
+nécessaires au renouvellement des peuplements forestiers, notamment au regard de l'équilibre sylvo-cynégétique. 
+
+En matière d'enjeux environnementaux et sociaux, il définit l'ensemble des orientations à prendre en compte dans la gestion
+forestière à l'échelle régionale et interrégionale, notamment celles visant à assurer la compatibilité de cette politique
+avec les orientations nationales pour la préservation et la remise en bon état des continuités écologiques prévues à
+l'article L. 371-2 du code de l'environnement, avec le schéma régional de cohérence écologique prévu à l'article L. 371-3 de
+ce code ainsi qu'avec les orientations prévues dans les déclinaisons régionales de la stratégie nationale pour la
+biodiversité et du plan national d'adaptation au changement climatique. 
+
+En matière d'économie de la filière forêt-bois, il indique notamment les éléments et caractéristiques pertinents de
+structuration du marché à l'échelle régionale et interrégionale afin d'adapter les objectifs de développement et de
+commercialisation des produits issus de la forêt et du bois ainsi que les besoins de desserte pour la mobilisation du bois. 
+
+Il indique également les éléments et caractéristiques nécessaires à la prévention de l'ensemble des risques naturels, en
+cohérence avec les plans départementaux ou interdépartementaux prévus aux articles L. 562-1 du code de l'environnement et L.
+133-2 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -18310,14 +18367,43 @@ interdépartementaux de protection des forêts contre les incendies, mentionnés
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2015-666 du 10 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L211-1 (V)
-	  - Code forestier (nouveau) - art. R133-1 (V)
+	  - Code de l'environnement - art. L371-2
+	  - Code de l'environnement - art. L371-3 (V)
+	  - Code de l'environnement - art. L562-1
+	  - Code forestier (nouveau) - art. L133-2
+
+
+###### Article D122-1-1
+
+L'autorité administrative compétente de l'Etat mentionnée au deuxième alinéa de l'article L. 122-1 est le préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-666 du 10 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L122-1
+
+
+###### Article D122-1-2
+
+Le programme régional de la forêt et du bois fait l'objet d'une évaluation environnementale réalisée dans les conditions
+prévues à la section 2 du chapitre II du titre II du livre Ier du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-666 du 10 juin 2015 - art. 2
 
 
 ##### Sous-section 2 : Directives régionales d'aménagement
@@ -18326,18 +18412,18 @@ interdépartementaux de protection des forêts contre les incendies, mentionnés
 
 La directive régionale d'aménagement précise les objectifs et la stratégie de gestion durable des bois et forêts relevant du
 1° du I de l'article L. 211-1 situés dans son ressort. Elle comprend une analyse des caractéristiques de ces bois et forêts
-et des recommandations techniques, en fonction des orientations régionales forestières et de l'objectif de compétitivité de
-la filière de production. 
+et des recommandations techniques, en fonction du programme régional de la forêt et du bois et de l'objectif de compétitivité
+de la filière de production. 
 
 Elle identifie les grandes unités de gestion cynégétique adaptées à chacune des espèces de gibier faisant l'objet d'un plan
-de chasse en application de l'article L. 425-2 du code de l'environnement ; pour chacune de ces unités, elle évalue l'état
-d'équilibre entre les populations d'animaux et les habitats forestiers, son évolution prévisible au regard de chaque grande
-option sylvicole régionale et identifie les périmètres les plus exposés aux dégâts de gibier. Elle définit, le cas échéant,
-les modalités de mise en place d'un observatoire du renouvellement des peuplements. 
+de chasse en application de l'article L. 425-2 du code de l'environnement, en prenant en compte le programme d'actions
+mentionné au deuxième alinéa de l'article L. 113-2 s'il existe ou le programme régional de la forêt et du bois ; pour chacune
+de ces unités, elle évalue l'état d'équilibre entre les populations d'animaux et les habitats forestiers, son évolution
+prévisible au regard de chaque grande option sylvicole régionale et identifie les périmètres les plus exposés aux dégâts de
+gibier. 
 
-La directive est présentée selon une déclinaison par territoire ou groupe de territoires définis par les orientations
-régionales forestières, ou par région ou groupe de régions naturelles forestières définies par l'Inventaire forestier
-national.
+La directive est présentée selon une déclinaison par territoire ou groupe de territoires définis par le programme régional de
+la forêt et du bois, ou par région ou groupe de régions naturelles forestières définies par l'Inventaire forestier national.
 
 **Liens relatifs à cet article**
 
@@ -18345,18 +18431,15 @@ national.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R133-1 (Ab), sauf phr 1 et 3 alinéa 1
+	  - Décret n°2015-666 du 10 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L425-2 (V)
-	  - Code forestier (nouveau) - art. L211-1 (V)
+	  - Code de l'environnement - art. L425-2
+	  - Code forestier (nouveau) - art. L113-2
+	  - Code forestier (nouveau) - art. L211-1
 
 	**Cité par**:
 
@@ -18365,8 +18448,8 @@ national.
 
 ###### Article D122-3
 
-La directive régionale d'aménagement fait l'objet d'une évaluation environnementale réalisée dans les conditions énoncées aux
-articles L. 122-6 à L. 122-10 et R. 122-20 à R. 122-24 du code de l'environnement.
+La directive régionale d'aménagement fait l'objet d'une évaluation environnementale réalisée dans les conditions prévues à la
+section 2 du chapitre II du titre II du livre Ier du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -18374,18 +18457,13 @@ articles L. 122-6 à L. 122-10 et R. 122-20 à R. 122-24 du code de l'environnem
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R133-1 (Ab), al 1 phr 3
+	  - Décret n°2015-666 du 10 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L122-6 (V)
-	  - Code de l'environnement - art. R122-20 (VT)
+	  - Code de l'environnement -  Section 2 : Evaluation de certains plans et doc... (V)
 
 	**Cité par**:
 
@@ -18420,13 +18498,13 @@ mentionné à l'article L. 122-6 du code de l'environnement, sont préparés par
 ###### Article D122-5
 
 Le projet de directive et le rapport environnemental sont transmis pour avis au préfet de région, qui consulte la commission
-régionale de la forêt et des produits forestiers. A défaut d'avis rendu dans un délai de trois mois, ils sont réputés ne pas
-avoir d'observation à formuler. 
+régionale de la forêt et du bois. A défaut d'avis rendu dans un délai de trois mois, ils sont réputés ne pas avoir
+d'observation à formuler.
 
 L'Office national des forêts adresse au ministre chargé des forêts le projet de directive accompagné du rapport
 environnemental, de l'avis du préfet de région, de l'avis de l'autorité compétente de l'Etat en matière d'environnement
 mentionnée à l'article L. 122-7 du code de l'environnement et de l'avis de l'établissement public du parc national s'il y a
-lieu. 
+lieu.
 
 L'arrêté approuvant la directive est publié dans deux journaux diffusés dans les départements intéressés. Il mentionne les
 modalités selon lesquelles le dossier est mis à disposition du public.
@@ -18437,13 +18515,13 @@ modalités selon lesquelles le dossier est mis à disposition du public.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2015-666 du 10 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L122-7 (V)
+	  - Code de l'environnement - art. L122-7
 
 
 ##### Sous-section 3 : Schémas régionaux d'aménagement
@@ -18452,17 +18530,17 @@ modalités selon lesquelles le dossier est mis à disposition du public.
 
 Le schéma régional d'aménagement des bois et forêts relevant du 2° du I de l'article L. 211-1 comprend les éléments
 d'analyse, les critères de décision et les recommandations techniques communs aux bois et forêts ou à l'ensemble des bois et
-forêts auxquels il s'applique. Il précise, compte tenu des orientations régionales forestières, des éléments de stratégie de
-gestion durable de ces bois et forêts. 
+forêts auxquels il s'applique. Il précise, compte tenu du programme régional de la forêt et du bois, des éléments de
+stratégie de gestion durable de ces bois et forêts.
 
 Il identifie les grandes unités de gestion cynégétique adaptées à chacune des espèces de gibier faisant l'objet d'un plan de
-chasse en application de l'article L. 425-2 du code de l'environnement ; pour chacune de ces unités, il évalue l'état
-d'équilibre entre les populations d'animaux et les habitats forestiers, son évolution prévisible au regard de chaque grande
-option sylvicole régionale et identifie les périmètres les plus exposés aux dégâts de gibier. Il définit, le cas échéant, les
-modalités de mise en place d'un observatoire du renouvellement des peuplements. 
+chasse en application de l'article L. 425-2 du code de l'environnement, en prenant en compte le programme d'actions mentionné
+au deuxième alinéa de l'article L. 113-2 s'il existe ou le programme régional de la forêt et du bois ; pour chacune de ces
+unités, il évalue l'état d'équilibre entre les populations d'animaux et les habitats forestiers, son évolution prévisible au
+regard de chaque grande option sylvicole régionale et identifie les périmètres les plus exposés aux dégâts de gibier.
 
-Le schéma est présenté selon une déclinaison par territoire ou groupe de territoires définis par les orientations régionales
-forestières, ou par région ou groupe de régions naturelles forestières définies par l'Inventaire forestier national.
+Le schéma est présenté selon une déclinaison par territoire ou groupe de territoires définis par le programme régional de la
+forêt et du bois, ou par région ou groupe de régions naturelles forestières définies par l'Inventaire forestier national.
 
 **Liens relatifs à cet article**
 
@@ -18470,18 +18548,15 @@ forestières, ou par région ou groupe de régions naturelles forestières défi
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. D143-1 (Ab), sauf phr 1 et phr 3 alinéa 1
+	  - Décret n°2015-666 du 10 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L425-2 (V)
-	  - Code forestier (nouveau) - art. L211-1 (V)
+	  - Code de l'environnement - art. L425-2
+	  - Code forestier (nouveau) - art. L113-2
+	  - Code forestier (nouveau) - art. L211-1
 
 
 ###### Article D122-7
@@ -18513,23 +18588,23 @@ et adoptés selon les modalités prévues pour les directives régionales d'amé
 ###### Article D122-8
 
 Le schéma régional de gestion sylvicole des bois et forêts des particuliers, mentionné au 3° de l'article L. 122-2, comprend
-par région ou groupe de régions naturelles : 
+par région ou groupe de régions naturelles :
 
 1° L'étude des aptitudes forestières, la description des types de bois et forêts existants et l'analyse des principaux
 éléments à prendre en compte pour leur gestion, notamment celle de leur production actuelle de biens et de services et de
-leurs débouchés ; 
+leurs débouchés ;
 
 2° L'indication des objectifs de gestion et de production durable de biens et services dans le cadre de l'économie régionale
 et de ses perspectives de développement, ainsi que l'exposé des méthodes de gestion préconisées pour les différents types de
-bois et forêts ; 
+bois et forêts ;
 
-3° L'indication des essences recommandées, le cas échéant, par grand type de milieu. 
+3° L'indication des essences recommandées, le cas échéant, par grand type de milieu.
 
 Il identifie les grandes unités de gestion cynégétique adaptées à chacune des espèces de gibier faisant l'objet d'un plan de
-chasse en application de l'article L. 425-2 du code de l'environnement ; pour chacune de ces unités, il évalue l'état
-d'équilibre entre les populations d'animaux et les habitats forestiers, son évolution prévisible au regard de chaque grande
-option sylvicole régionale et identifie les périmètres les plus exposés aux dégâts de gibier. Il définit, le cas échéant, les
-modalités de mise en place d'un observatoire du renouvellement des peuplements.
+chasse en application de l'article L. 425-2 du code de l'environnement, en prenant en compte le programme d'actions mentionné
+au deuxième alinéa de l'article L. 113-2 s'il existe ou le programme régional de la forêt et du bois ; pour chacune de ces
+unités, il évalue l'état d'équilibre entre les populations d'animaux et les habitats forestiers, son évolution prévisible au
+regard de chaque grande option sylvicole régionale et identifie les périmètres les plus exposés aux dégâts de gibier.
 
 **Liens relatifs à cet article**
 
@@ -18537,24 +18612,21 @@ modalités de mise en place d'un observatoire du renouvellement des peuplements.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R222-1 (Ab), al 2, al 3, al 4, al 5, al 6, al 7
+	  - Décret n°2015-666 du 10 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L425-2 (V)
-	  - Code forestier (nouveau) - art. L122-2 (V)
+	  - Code de l'environnement - art. L425-2
+	  - Code forestier (nouveau) - art. L113-2
+	  - Code forestier (nouveau) - art. L122-2
 
 
 ###### Article D122-9
 
-Le schéma régional de gestion sylvicole fait l'objet d'une évaluation environnementale réalisée dans les conditions prévues
-aux articles L. 122-6 à L. 122-10 et R. 122-20 à R. 122-24 du code de l'environnement. 
+Le schéma régional de gestion sylvicole fait l'objet d'une évaluation environnementale réalisée dans les conditions prévues à
+la section 2 du chapitre II du titre II du livre Ier du code de l'environnement. 
 
 Le projet de schéma régional de gestion sylvicole, ainsi que le rapport environnemental mentionné à l'article L. 122-6 du
 même code, sont élaborés par le centre régional de la propriété forestière.
@@ -18565,18 +18637,14 @@ même code, sont élaborés par le centre régional de la propriété forestièr
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R222-1 (Ab), al 1, al 8
+	  - Décret n°2015-666 du 10 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L122-6 (V)
-	  - Code de l'environnement - art. R122-20 (VT)
+	  - Code de l'environnement -  Section 2 : Evaluation de certains plans et doc... (V)
+	  - Code forestier (nouveau) - art. L122-6
 
 	**Cité par**:
 
@@ -19110,57 +19178,6 @@ L'avis est réputé favorable en l'absence de réponse dans un délai de trois m
 	  - Code forestier (nouveau) - art. L122-8 (V)
 
 
-##### Section 3 : Plan pluriannuel régional de développement forestier
-
-###### Article D122-26
-
-Le délai mentionné au troisième alinéa de l'article L. 122-13 est de cinq ans à compter de la publication de l'arrêté
-approuvant ce plan.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-666 du 10 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L122-13 (V)
-
-
-###### Article D122-27
-
-Le plan pluriannuel régional de développement forestier fait l'objet d'une évaluation environnementale réalisée dans les
-conditions prévues aux articles L. 122-6 à L. 122-10 et R. 122-20 à R. 122-24 du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-666 du 10 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L122-6 (V)
-	  - Code de l'environnement - art. R122-20 (VT)
-
-
 #### Chapitre III : Stratégies locales de développement forestier
 
 ###### Article D123-1
@@ -19171,7 +19188,8 @@ forestière.
 
 Les stratégies locales de développement forestier sont soumises à l'évaluation environnementale si, dans les conditions
 prévues à l'article R. 122-17 du code de l'environnement, le préfet l'estime nécessaire. Dans ce cas, elle est réalisée dans
-les conditions prévues aux articles L. 122-6 à L. 122-10 et R. 122-20 à R. 122-24 du même code.
+les conditions prévues 
+à la section 2 du chapitre II du titre II du livre Ier du même code.
 
 **Liens relatifs à cet article**
 
@@ -19179,20 +19197,16 @@ les conditions prévues aux articles L. 122-6 à L. 122-10 et R. 122-20 à R. 12
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L2 (Ab), phrase 2
+	  - Décret n°2015-666 du 10 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L122-6 (V)
-	  - Code de l'environnement - art. R122-17 (VT)
-	  - Code de l'environnement - art. R122-20 (VT)
-	  - Code forestier (nouveau) - art. L123-3 (V)
+	  - Code de l'environnement - art. L122-6
+	  - Code de l'environnement - art. R122-17
+	  - Code de l'environnement - art. R122-20
+	  - Code forestier (nouveau) - art. L123-3
 
 
 ###### Article D123-2
