@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-06-19
+Version Consolidée au 2015-06-27
 
 # Partie législative
 
@@ -39923,6 +39923,174 @@ administratifs de la préfecture du département du siège de l'organisme. Une c
 	**Cite**:
 
 	  - Code forestier (nouveau) - art. D332-2 (V)
+
+
+##### Section 3 : Le groupement d'intérêt économique et environnemental forestier 
+
+
+###### Article D332-14
+
+Le dossier de demande de reconnaissance de la qualité de groupement d'intérêt économique et environnemental forestier
+comprend les documents suivants : 
+
+1° La composition du groupement, ses statuts ou sa convention constitutive ; 
+
+2° Le document de diagnostic dont le contenu est précisé à l'article D. 332-15 ; 
+
+3° Le plan simple de gestion concerté mentionné à l'article L. 122-4, agréé par le centre régional de la propriété forestière
+dans le ressort duquel se situe la majorité des surfaces du projet. 
+
+Le dossier est déposé par le groupement demandeur auprès du préfet de la région où se situe la majorité des superficies
+concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. D332-15
+	  - Code forestier (nouveau) - art. L122-4
+
+
+###### Article D332-15
+
+Le document de diagnostic mentionné au 2° de l'article D. 332-14 démontre que les objectifs, éventuellement chiffrés, et les
+modalités de gestion du peuplement sont conformes aux orientations du schéma régional de gestion sylvicole et du programme
+régional de la forêt et du bois, que le territoire en cause est cohérent d'un point de vue sylvicole, économique et
+écologique avec ces objectifs et que les indicateurs mentionnés au 5° en permettent le suivi. Il comporte : 
+
+1° La présentation, au regard du territoire dans lequel ils sont situés, des bois et forêts des propriétaires, tels que
+décrits dans le plan simple de gestion ; 
+
+2° Une description qualitative et quantitative des objectifs assignés à la gestion des peuplements et visant une amélioration
+de la performance économique et environnementale ; cette description s'appuie sur une analyse sylvicole, économique,
+environnementale et sociale du territoire dans lequel s'inscrit le groupement ; elle peut notamment intégrer une description
+des travaux menés dans le cadre de stratégies locales de développement forestier au sens de l'article L. 123-1 ; 
+
+3° Une description des modalités de gestion mises en œuvre pour atteindre les objectifs assignés à la gestion des peuplements
+ainsi que la présentation du mandat de gestion proposé aux propriétaires ; 
+
+4° Une description des modalités de mise en marché concertée des coupes, ainsi que des travaux qui lui sont liés, notamment
+les travaux de desserte et d'équipement ; 
+
+5° Les indicateurs de suivi des orientations de gestion et des objectifs suivants : 
+
+a) Le taux annuel de réalisation des opérations de coupes et de travaux prévues dans le plan simple de gestion ; 
+
+b) Le volume de bois récolté annuellement, en distinguant bois d'œuvre, bois d'industrie et bois d'énergie ; 
+
+c) Le volume de bois commercialisé annuellement au travers de contrats d'approvisionnement reconductibles ; 
+
+d) Le nombre de contrats Natura 2000 signés ; 
+
+e) Le nombre de tiges à l'hectare désignées comme devant être conservées au titre de la biodiversité lors des passages en
+coupe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. D332-14 (V)
+	  - Code forestier (nouveau) - art. D332-16 (V)
+	  - Code forestier (nouveau) - art. D332-17 (V)
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L123-1
+
+
+###### Article D332-16
+
+Le suivi de la mise en œuvre du plan simple de gestion est assuré par le centre régional de la propriété forestière sur la
+base des bilans réalisés par le groupement d'intérêt économique et environnemental forestier, notamment au regard des
+indicateurs prévus au 5° de l'article D. 332-15. 
+
+Le groupement établit un bilan au moins tous les cinq ans à compter de la date de publication de l'arrêté lui reconnaissant
+la qualité de groupement d'intérêt économique et environnemental forestier. Il l'adresse au centre régional de la propriété
+forestière au plus tard le 31 mars de l'année qui suit la période en cause. Avant la fin de la même année, après délibération
+de son conseil, le centre régional de la propriété forestière transmet le bilan accompagné de son analyse et de ses
+propositions au préfet de région. 
+
+Au terme du plan simple de gestion, le groupement réalise un bilan final qui est transmis dans les mêmes conditions que le
+bilan périodique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. D332-15
+
+
+###### Article D332-17
+
+Toute organisation de producteurs du secteur forestier reconnue en application des articles D. 551-99 et D. 551-100 du code
+rural et de la pêche maritime qui souhaite se voir reconnaître la qualité de groupement d'intérêt économique et
+environnemental forestier dépose auprès du préfet de la région dans laquelle se situe son siège social un dossier de demande
+comprenant : 
+
+1° Le dossier de reconnaissance comme organisation de producteurs ; 
+
+2° Une analyse économique, environnementale et sociale du territoire concerné ; 
+
+3° Les indicateurs de suivi mentionnés au 5° de l'article D. 332-15 ; 
+
+4° La description des modalités de desserte et d'équipements nécessaires à l'activité du groupement ; 
+
+5° Le plan simple de gestion concerté prévu à l'article L. 122-4 agréé par le centre régional de la propriété forestière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code rural - art. D551-99
+	  - Code forestier (nouveau) - art. D332-15
+	  - Code forestier (nouveau) - art. L122-4
+
+
+###### Article D332-18
+
+La qualité de groupement d'intérêt économique et environnemental forestier peut être retirée si les conditions de sa
+reconnaissance ne sont plus remplies ou, sur la base du rapport transmis par le centre régional de la propriété forestière,
+si les objectifs prévus n'ont pas été atteints ou si le plan simple de gestion n'a pas été appliqué sur au moins la moitié de
+la surface du groupement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+
+###### Article D332-19
+
+Le préfet de région établit chaque année un rapport de présentation des groupements d'intérêt économique et environnemental
+forestiers reconnus au cours de l'année précédente. Ce document est transmis à la commission régionale de la forêt et du
+bois. 
+
+Le centre régional de la propriété forestière élabore chaque année une synthèse des bilans établis l'année précédente par les
+groupements d'intérêt économique et environnemental forestiers existants. Cette synthèse est transmise à la commission
+régionale de la forêt et du bois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-728 du 24 juin 2015 - art. 1
 
 
 ### TITRE IV : DÉFRICHEMENTS
