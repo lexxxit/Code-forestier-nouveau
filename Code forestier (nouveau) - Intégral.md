@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-06-29
+Version Consolidée au 2015-07-01
 
 # Partie législative
 
@@ -17813,22 +17813,22 @@ forestière, du bois et des produits forestiers.
 	  - Code forestier - art. L3 (Ab), al 3
 
 
-##### Sous-section 2 : Comité de politique forestière
+##### Sous-section 2 : Comité de gouvernance du fonds stratégique de la forêt et du bois
 
 ###### Article D113-7
 
-Le Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois comporte un comité de politique
-forestière, composé de vingt membres au plus. Ce comité conseille le ministre chargé des forêts, conformément aux
-délibérations dudit Conseil, dans le suivi de la mise en œuvre de la stratégie forestière française ainsi que dans la mise en
-œuvre des textes législatifs et réglementaires et du budget de la forêt.
+Le Conseil supérieur de la forêt et du bois comprend un comité chargé de la gouvernance du fonds mentionné à l'article L.
+156-4. 
 
-Ses membres sont désignés par arrêté du ministre chargé des forêts pour une durée de cinq ans renouvelable.
+Le comité est consulté sur les axes stratégiques et les priorités d'utilisation du fonds stratégique de la forêt et du bois ;
+il peut proposer des priorités d'utilisation du fonds. 
 
-Ils exercent leurs fonctions à titre gratuit.
+Il s'assure de la cohérence des financements dédiés au secteur de la forêt et du bois en tenant compte en particulier des
+politiques menées par les régions. 
 
-Le comité de politique forestière se réunit au moins trois fois par an.
-
-Son secrétariat est assuré par les services du ministre chargé des forêts.
+Il assure le suivi des crédits du fonds stratégique de la forêt et du bois et notamment de leur répartition régionale. Il est
+consulté sur les critères déterminant cette répartition. Il rend compte de ce suivi au Conseil supérieur de la forêt et du
+bois.
 
 **Liens relatifs à cet article**
 
@@ -17836,73 +17836,103 @@ Son secrétariat est assuré par les services du ministre chargé des forêts.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L3 (Ab), al 4
-	  - Code forestier - art. R3-8 (Ab), al 1, al 4
-	  - Code forestier - art. R3-9 (Ab), al 1 phrase 3, al 4
+	  - Décret n°2015-776 du 29 juin 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. D156-13 (V)
 	  - Code forestier (nouveau) - art. D156-14 (V)
 
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L156-4
+
 
 ###### Article D113-8
 
-Sont membres du comité de politique forestière :
+Le comité de gouvernance du fonds stratégique de la forêt et du bois comprend, outre le ministre chargé des forêts qui en
+assure la présidence : 
 
-1° Le vice-président du Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois, qui assure la
-présidence du comité ;
+1° Le président de la Fédération nationale des syndicats de forestiers privés ; 
 
-2° Un député, un sénateur et un représentant des conseils régionaux ;
+2° Le président de l'Interprofession nationale de la filière forêt bois ; 
 
-3° Trois représentants des propriétaires et gestionnaires de bois et forêts ;
+3° Le président de la Fédération nationale du bois ; 
 
-4° Trois représentants des prestataires de services forestiers ;
+4° Le président de France bois industries entreprises, ainsi que deux délégués désignés par lui ; 
 
-5° Trois représentants des industries du bois ;
+5° Le président de la Fédération nationale des entrepreneurs des territoires ; 
 
-6° Un représentant des usagers de la forêt ;
+6° Le président du Syndicat national des pépiniéristes forestiers ; 
 
-7° Un représentant des associations de protection de l'environnement agréées ;
+7° Le président du Syndicat des sylviculteurs du Sud-Ouest ; 
 
-8° Un représentant du ministre chargé des forêts ;
+8° Le président de la Compagnie nationale des ingénieurs et experts forestiers et des experts bois ; 
 
-9° Un représentant du ministre chargé de l'environnement ;
+9° Le président de l'Union de la coopération forestière française ; 
 
-10° Un représentant du ministre chargé de l'économie ;
+10° Le président de France Nature Environnement ; 
 
-11° Un représentant des salariés de la forêt et des professions du bois ;
+11° Le président de l'Union internationale pour la conservation de la nature ; 
 
-12° Une personnalité qualifiée.
+12° Le président de la Fédération nationale des communes forestières ; 
+
+13° Le président de l'Association des régions de France ; 
+
+14° Le président de l'Assemblée permanente des chambres d'agriculture ; 
+
+15° Le directeur général de l'Office national des forêts ; 
+
+16° Le directeur général du Centre national de la propriété forestière ; 
+
+17° Le directeur général de l'Agence de l'environnement et de la maîtrise de l'énergie ; 
+
+18° Le directeur général de la Banque publique d'investissement ; 
+
+19° Le directeur général de la performance économique et environnementale des entreprises ; 
+
+20° Le directeur général de l'énergie et du climat ; 
+
+21° Le directeur général de l'aménagement, du logement et de la nature ; 
+
+22° Le directeur général des entreprises ; 
+
+23° Le directeur général des finances publiques ; 
+
+24° Le directeur du budget ; 
+
+25° Un représentant des directions régionales de l'alimentation, de l'agriculture et de la forêt ; 
+
+26° Un représentant des directions départementales des territoires et des directions départementales des territoires et de la
+mer. 
+
+Les membres mentionnés aux 25° et 26° ainsi que leurs suppléants sont désignés par arrêté du ministre chargé des forêts. 
+
+Le président du comité et les membres mentionnés aux 1° à 24° peuvent se faire représenter dans les conditions prévues par
+l'article 3 du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et au fonctionnement de commissions
+administratives à caractère consultatif.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 3
 
 	**Codifié par**:
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R3-7 (Ab)
+	  - Décret n°2015-776 du 29 juin 2015 - art. 1
 
 
 ###### Article D113-9
 
-Le comité de politique forestière est tenu régulièrement informé des travaux des commissions régionales de la forêt et des
-produits forestiers mentionnées à l'article D. 113-11. 
-
-Il est informé semestriellement de l'évolution des dotations budgétaires et des dépenses de l'Etat consacrées au secteur de
-la forêt.
+Le comité de gouvernance du fonds stratégique de la forêt et du bois se réunit au moins deux fois par an. Ses règles de
+fonctionnement sont identiques à celles du conseil mentionné à l'article D. 113-1.
 
 **Liens relatifs à cet article**
 
@@ -17910,17 +17940,13 @@ la forêt.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R3-10 (Ab), al 1, al 2
+	  - Décret n°2015-776 du 29 juin 2015 - art. 1
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. D113-11 (V)
+	  - Code forestier (nouveau) - art. D113-1
 
 
 ##### Sous-section 3 : Dispositions communes
@@ -17951,38 +17977,47 @@ consultatif.
 
 ##### Sous-section 1 : Commissions régionales de la forêt  et des produits forestiers
 
+##### Section 2 : Commissions régionales de la forêt et du bois
+
+##### Sous-section 1
+
 ###### Article D113-11
 
-La commission régionale de la forêt et des produits forestiers concourt à l'élaboration et à la mise en œuvre dans la région
-des orientations de la politique forestière dans le respect des objectifs définis à l'article L. 121-4. 
+La commission régionale de la forêt et du bois concourt à l'élaboration et à la mise en œuvre dans la région des orientations
+de la politique forestière définies à l'article L. 121-1 et précisées dans le programme national de la forêt et du bois en
+prenant en compte les fonctions économiques, environnementales et sociales de la forêt. A cette fin, elle est informée des
+financements publics affectés à des actions conduites dans les secteurs de la forêt et de la transformation du bois. 
 
 Elle est notamment chargée : 
 
-1° D'élaborer les orientations régionales forestières, qu'elle soumet pour avis, lorsqu'il y a lieu, à l'établissement public
-du parc national ; 
+1° D'élaborer le programme régional de la forêt et du bois, qu'elle soumet pour avis, lorsqu'il y a lieu, aux établissements
+publics des parcs nationaux et aux syndicats mixtes d'aménagement et de gestion des parcs naturels régionaux intéressés, et
+de le mettre en œuvre ; 
 
-2° D'émettre un avis sur les orientations du projet de contrat entre l'Etat et la région dans le secteur de la forêt et du
+2° D'élaborer, le cas échéant, le contrat de la filière bois au niveau régional et de le mettre en œuvre ; 
+
+3° D'identifier les besoins et les contraintes de la filière de la forêt et du bois afin notamment de faciliter
+l'approvisionnement en bois des industries de cette filière ; 
+
+4° D'adapter et de mettre en œuvre en région, en cohérence avec les politiques régionales de la forêt et du bois et avec le
+contrat de la filière bois au niveau régional le cas échéant, les actions inscrites dans le contrat national de filière du
+comité stratégique de la filière bois ; 
+
+5° D'assurer la cohérence entre le programme régional de la forêt et du bois et les politiques publiques régionales,
+nationales ou communautaires ainsi que les programmes d'investissement et d'aides publiques ayant une incidence sur la forêt,
+ses produits et ses services ; 
+
+6° De faire toute proposition visant à organiser le dialogue entre les acteurs intervenant dans le domaine de la forêt et du
 bois ; 
 
-3° D'émettre un avis sur les projets de directives régionales d'aménagement des forêts et de schémas régionaux d'aménagement
+7° D'émettre un avis sur les projets de directives régionales d'aménagement des forêts et de schémas régionaux d'aménagement
 des forêts relevant du régime forestier, ainsi que sur les projets de schémas régionaux de gestion sylvicole des bois et
 forêts des particuliers ; 
 
-4° De formuler toute observation relative à l'application, dans la région, de la politique forestière ou de toute autre
-politique régionale, nationale ou communautaire ayant une incidence sur la forêt, ses produits et ses services ; 
+8° D'assurer le suivi du programme régional de la forêt et du bois et d'en réaliser un bilan annuel qui est adressé au
+conseil supérieur de la forêt et du bois. 
 
-5° De faire toute proposition visant à : 
-
-a) Améliorer l'efficacité des programmes annuels d'investissement bénéficiant d'aides publiques et leur cohérence avec les
-orientations régionales forestières ; 
-
-b) Favoriser le développement de l'interprofessionnalité. 
-
-La liste mentionnée à l'article D. 122-13 est portée annuellement à sa connaissance. 
-
-Elle est informée des dotations, tant nationales que communautaires, affectées à des actions conduites dans les secteurs de
-la forêt et de la transformation du bois et de l'application de contrats d'engagement pluriannuels passés entre l'Etat et la
-région en tant qu'ils concernent la forêt et le bois.
+La liste mentionnée à l'article D. 122-13 est portée annuellement à sa connaissance.
 
 **Liens relatifs à cet article**
 
@@ -17990,63 +18025,104 @@ région en tant qu'ils concernent la forêt et le bois.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R4-1 (Ab), al 1 phr 1, al 2, al 3, al 4, al 5
+	  - Décret n°2015-778 du 29 juin 2015 - art. 1
 
 	**Cité par**:
 
-	  - Code forestier (nouveau) - art. D113-14 (M)
+	  - Code forestier (nouveau) - art. D113-14 (V)
 	  - Code forestier (nouveau) - art. D113-9 (M)
 	  - Code forestier (nouveau) - art. D175-3 (V)
 
 	**Cite**:
 
 	  - Code forestier (nouveau) - art. D122-13 (V)
-	  - Code forestier (nouveau) - art. L121-4 (V)
+	  - Code forestier (nouveau) - art. L121-1 (V)
 
 
 ###### Article D113-12
 
-La commission régionale de la forêt et des produits forestiers est présidée par le préfet de région et comprend : 
+La commission régionale de la forêt et du bois est présidée conjointement par le préfet de région et le président du conseil
+régional. Elle comprend : 
 
-1° Le directeur régional de l'alimentation, de l'agriculture et de la forêt ; 
+1° Le directeur régional des services de l'Etat compétents en matière de forêt ; 
 
-2° Le directeur régional de l'environnement, de l'aménagement et du logement ; 
+2° Le directeur régional des services de l'Etat compétents en matière d'environnement ; 
 
-3° Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ; 
+3° Le directeur régional des services de l'Etat compétents en matière de construction ; 
 
-4° Des représentants du conseil régional et des conseils généraux ; 
+4° Le directeur régional des services de l'Etat compétents en matière de transport ; 
 
-5° Des représentants de la propriété forestière des particuliers ; 
+5° Le directeur régional des services de l'Etat compétents en matière d'entreprises, de concurrence, de consommation, du
+travail et de l'emploi ; 
 
-6° Des représentants de la propriété forestière des bois et forêts relevant du 2° du I de l'article L. 211-1 ; 
+6° Un représentant du conseil régional ; 
 
-7° Des représentants de l'Office national des forêts ; 
+7° Des représentants des conseils départementaux de la région ; 
 
-8° Des représentants de l'industrie du bois ; 
+8° Un représentant des maires des communes de la région désigné par la Fédération nationale des communes forestières de
+France ou sa structure régionale lorsqu'elle existe ; 
 
-9° Des représentants des prestataires de services dans le secteur de la forêt et du bois ; 
+9° Le cas échéant, un représentant des parcs naturels régionaux situés dans la région ; 
 
-10° Des représentants des structures interprofessionnelles régionales dans le secteur de la forêt et du bois ; 
+10° Le président du centre régional de la propriété forestière ; 
 
-11° Des représentants d'associations d'usagers de la forêt, de protection de l'environnement agréées et de gestionnaires
-d'espaces naturels, dont au moins un représentant des fédérations départementales des chasseurs ; 
+11° Un représentant de l'Office national des forêts ; 
 
-12° Des représentants de la chambre régionale d'agriculture, de la chambre régionale de commerce et d'industrie et de la
-conférence régionale des métiers ; 
+12° Un représentant de l'Office national de chasse et de la faune sauvage ; 
 
-13° Des personnalités qualifiées. 
+13° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ; 
 
-Les représentants du conseil régional et des conseils généraux sont désignés par le conseil régional et les conseils généraux
-ou, si la région comporte plus de quatre départements, par l'Assemblée des départements de France. 
+14° Un représentant de la chambre régionale d'agriculture, un représentant de la chambre de commerce et d'industrie de région
+et un représentant de la chambre régionale des métiers et de l'artisanat ; 
 
-Le nombre de membres de la commission nommés au titre du 5°, du 6° et du 7° est fonction des surfaces respectives de chacun
-des régimes de propriété forestière dans la région.
+15° Deux représentants de la propriété forestière des particuliers ; 
+
+16° Un membre du conseil du centre régional de la propriété forestière ; 
+
+17° Un représentant de la propriété forestière des bois et forêts relevant du 2° du I de l'article L. 211-1 ; 
+
+18° Un représentant des coopératives forestières ; 
+
+19° Un représentant des entreprises de travaux forestiers ; 
+
+20° Un représentant des experts forestiers ; 
+
+21° Un représentant des producteurs de plans forestiers ; 
+
+22° Cinq représentants des industries du bois ; 
+
+23° Le président de la structure interprofessionnelle régionale du secteur de la forêt et du bois ; 
+
+24° Un représentant du secteur de la production d'énergie renouvelable ; 
+
+25° Trois représentants des salariés de la forêt et des professions du bois ; 
+
+26° Un représentant d'associations d'usagers de la forêt ; 
+
+27° Deux représentants d'associations de protection de l'environnement agréées ; 
+
+28° Un représentant des gestionnaires d'espaces naturels ; 
+
+29° Un représentant des fédérations départementales des chasseurs ; 
+
+30° Des personnalités qualifiées, dans la limite de cinq, nommées sur proposition conjointe du préfet de région et du
+président du conseil régional. 
+
+Le préfet de région et le président du conseil régional peuvent inviter des experts désignés en raison de leurs compétences
+notamment en matière scientifique ou environnementale à leur initiative conjointe ou à la demande d'un des membres de la
+commission régionale de la forêt et du bois. Ces experts n'ont pas voix délibérative. 
+
+Les nombre des représentants mentionnés au 7° est fixé, dans la limite de cinq, par le président du conseil régional en
+fonction du nombre de départements qui composent la région. 
+
+Les règles de fonctionnement de la commission régionale de la forêt et du bois, notamment les modalités de prise de décision
+sont prévues par son règlement intérieur. 
+
+Les membres de la commission régionale de la forêt et du bois autres que ceux mentionnés aux 1° à 5°, au 10° et au 23° sont
+nommés par arrêté du préfet de région après avis du président du conseil régional. Leur mandat est de cinq ans, renouvelable
+une fois.
 
 **Liens relatifs à cet article**
 
@@ -18054,13 +18130,9 @@ des régimes de propriété forestière dans la région.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R4-2 (Ab)
+	  - Décret n°2015-778 du 29 juin 2015 - art. 1
 
 	**Cité par**:
 
@@ -18071,14 +18143,19 @@ des régimes de propriété forestière dans la région.
 	  - Code forestier (nouveau) - art. D177-3 (V)
 	  - Code forestier (nouveau) - art. D178-1 (V)
 
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L211-1 (V)
-
 
 ###### Article D113-13
 
-Le mandat des membres de la commission régionale de la forêt et des produits forestiers est de cinq ans. Il est renouvelable.
+Le comité mentionné au deuxième alinéa de l'article L. 113-2 est chargé d'élaborer le programme d'action permettant de
+favoriser l'établissement et le maintien d'un équilibre sylvo-cynégétique, après évaluation des dégâts de gibier réalisée en
+concertation avec les commissions départementales de la chasse et de la faune sauvage mentionnée à l'article R. 421-19 du
+code de l'environnement. Il exerce ses attributions dans le cadre des orientations fixées par la commission régionale de la
+forêt et du bois. Il est également chargé de lui faire toute proposition pour atteindre et maintenir cet équilibre et lui
+rend compte de son évolution. 
+
+Il est composé paritairement de représentants des propriétaires forestiers et des chasseurs. Il est présidé conjointement par
+le préfet de région et le président du conseil régional. Il comprend, au maximum, vingt membres qui sont nommés par arrêté du
+préfet de région après avis du président du conseil régional. Leur mandat est de cinq ans, renouvelable une fois.
 
 **Liens relatifs à cet article**
 
@@ -18086,20 +18163,20 @@ Le mandat des membres de la commission régionale de la forêt et des produits f
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2015-778 du 29 juin 2015 - art. 1
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code forestier - art. R4-4 (Ab)
+	  - Code de l'environnement - art. R421-19
 
 
 ###### Article D113-14
 
-La commission régionale de la forêt et des produits forestiers peut siéger en formation restreinte pour exercer les
-attributions mentionnées au septième à dixième alinéas de l'article D. 113-11 dans les conditions prévues par son règlement
-intérieur.
+La commission régionale de la forêt et du bois peut créer en son sein des comités spécialisés auxquels elle confie la
+préparation de certains de ses travaux dans les conditions prévues par son règlement intérieur. Ces comités peuvent
+s'adjoindre des experts extérieurs à la commission, qui ne peuvent avoir qu'un rôle consultatif.
 
 **Liens relatifs à cet article**
 
@@ -18107,13 +18184,9 @@ intérieur.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R4-5 (Ab)
+	  - Décret n°2015-778 du 29 juin 2015 - art. 1
 
 	**Cite**:
 
@@ -18168,74 +18241,6 @@ commissions administratives.
 	**Anciens textes**:
 
 	  - Code forestier - art. R4-1 (Ab), al 1 phrase 2
-
-
-##### Sous-section 2 : Comités de filière
-
-###### Article D113-17
-
-Dans le cadre de la commission régionale de la forêt et des produits forestiers et pour la mise en œuvre des orientations
-régionales forestières, les représentants des organisations professionnelles les plus représentatives de la production
-forestière et, selon les cas, de la transformation et de la commercialisation, peuvent se réunir en un ou plusieurs comités
-spécialisés dits « comités de filière », lorsqu'il apparaît nécessaire d'élaborer et de mettre en œuvre des mesures tendant
-à :
-
-1° Améliorer la connaissance de l'offre et de la demande par produits ou groupes de produits ;
-
-2° Permettre l'établissement de normes techniques et de programmes de recherche appliquée ;
-
-3° Contribuer à la promotion des produits sur les marchés intérieur et extérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-1273 du 4 décembre 1985 - art. 16 (Ab), al 1, al 2, al 3, al 4
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-778 du 29 juin 2015 - art. 1
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. D113-18 (V)
-
-
-###### Article D113-18
-
-Les comités de filière peuvent, sur proposition des professions représentées, demander au ministre chargé des forêts
-d'approuver tout ou partie des mesures mentionnées à l'article D. 113-17 et de les rendre obligatoires pour les entreprises
-intéressées par les produits ou groupes de produits visés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-1273 du 4 décembre 1985 - art. 16 (Ab), al 5
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-778 du 29 juin 2015 - art. 1
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. D113-17 (V)
 
 
 ### TITRE II : POLITIQUE FORESTIÈRE ET GESTION DURABLE
@@ -18654,21 +18659,21 @@ même code, sont élaborés par le centre régional de la propriété forestièr
 ###### Article D122-10
 
 Le projet de schéma ainsi que le rapport environnemental sont soumis pour avis au préfet de région, qui consulte la
-commission régionale de la forêt et des produits forestiers. A défaut d'avis rendu dans un délai de trois mois, ils sont
-réputés ne pas avoir d'observation à formuler. 
+commission régionale de la forêt et du bois. A défaut d'avis rendu dans un délai de trois mois, ils sont réputés ne pas avoir
+d'observation à formuler.
 
 Le centre régional de la propriété forestière adresse au ministre chargé des forêts le projet de schéma régional accompagné
 du rapport environnemental, de l'avis du préfet de région, de l'avis de l'autorité compétente de l'Etat en matière
 d'environnement mentionnée à l'article L. 122-7 du code de l'environnement et de l'avis de l'établissement public du parc
-national s'il y a lieu. 
+national s'il y a lieu.
 
-Après avoir recueilli l'avis de la commission régionale de la forêt et des produits forestiers et du Centre national de la
-propriété forestière et demandé au centre régional, le cas échéant, de lui apporter les modifications nécessaires dans le
-délai d'un an, le ministre approuve le projet. 
+Après avoir recueilli l'avis de la commission régionale de la forêt et du bois du Centre national de la propriété forestière
+et demandé au centre régional, le cas échéant, de lui apporter les modifications nécessaires dans le délai d'un an, le
+ministre approuve le projet.
 
 Si le centre régional n'a pas établi ou rectifié un projet de schéma régional dans le délai prescrit à l'alinéa précédent, le
 ministre chargé des forêts, après une mise en demeure restée quatre mois sans effet, arrête ce projet après avis de la
-commission régionale de la forêt et des produits forestiers et du Centre national de la propriété forestière. 
+commission régionale de la forêt et du bois et du Centre national de la propriété forestière.
 
 L'arrêté approuvant le schéma régional de gestion sylvicole est publié dans deux journaux diffusés dans les départements sur
 le territoire desquels s'applique le schéma. Il mentionne les modalités selon lesquelles le dossier est mis à disposition du
@@ -18680,17 +18685,13 @@ public.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R222-2 (Ab)
+	  - Décret n°2015-778 du 29 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L122-7 (V)
+	  - Code de l'environnement - art. L122-7
 
 	**Cité par**:
 
@@ -18752,13 +18753,13 @@ le site internet des préfectures et dans les sous-préfectures de la région.
 
 Dans les bois et forêts, les périmètres, monuments, sites ou zones concernés par les législations énoncées à l'article L.
 122-8 et par toute autre législation de protection et de classement, les habitats d'espèces de la faune ou de la flore sont
-recensés sur une liste mise à jour annuellement. 
+recensés sur une liste mise à jour annuellement.
 
 Cette liste comporte également le recensement des annexes comportant les dispositions particulières résultant des
-dispositions de l'article D. 122-14. 
+dispositions de l'article D. 122-14.
 
-Le préfet de région élabore ce document et le porte à la connaissance de la commission régionale de la forêt et des produits
-forestiers, de l'Office national des forêts et du Centre national de la propriété forestière.
+Le préfet de région élabore ce document et le porte à la connaissance de la commission régionale de la forêt et du bois, de
+l'Office national des forêts et du Centre national de la propriété forestière.
 
 **Liens relatifs à cet article**
 
@@ -18766,14 +18767,9 @@ forestiers, de l'Office national des forêts et du Centre national de la propri�
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L11 (Ab), al 11
-	  - Code forestier - art. R4-1 (Ab), al 4
+	  - Décret n°2015-778 du 29 juin 2015 - art. 2
 
 	**Cité par**:
 
@@ -18781,8 +18777,8 @@ forestiers, de l'Office national des forêts et du Centre national de la propri�
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. D122-14 (V)
-	  - Code forestier (nouveau) - art. L122-8 (V)
+	  - Code forestier (nouveau) - art. D122-14
+	  - Code forestier (nouveau) - art. L122-8
 
 
 ###### Article D122-14
@@ -24606,6 +24602,66 @@ e) Fixation des dunes côtières.
 	  - Code forestier (nouveau) - art. D156-7 (V)
 
 
+##### Section 3 : Fonds stratégique de la forêt et du bois 
+
+
+###### Article D156-12
+
+Sont éligibles au financement du fonds stratégique de la forêt et du bois, dans les conditions prévues à la section 2, les
+mesures qui sont conformes aux orientations et aux objectifs nationaux du programme national de la forêt et du bois et, pour
+les mesures mises en œuvre au niveau régional, aux objectifs des programmes régionaux de la forêt et du bois. Ces mesures
+permettent, notamment, d'atteindre les objectifs fixés pour chacune des actions inscrites dans le programme national de la
+forêt et du bois, dans la limite des enveloppes budgétaires allouées au fonds.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-776 du 29 juin 2015 - art. 2
+
+
+###### Article D156-13
+
+Le ministre chargé des forêts présente au comité mentionné à l'article D. 113-7 les axes stratégiques et les priorités
+d'utilisation du fonds stratégique de la forêt et du bois, qui sont conformes aux orientations du programme national de la
+forêt et du bois. Le ministre consulte le comité sur les critères utilisés pour répartir entre les services déconcentrés
+régionaux ceux des crédits qui leur sont délégués.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-776 du 29 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. D113-7
+
+
+###### Article D156-14
+
+Un rapport financier, budgétaire et technique relatif à l'activité du fonds stratégique de la forêt et du bois, établi par
+les services du ministre chargé des forêts, est présenté chaque année au comité mentionné à l'article D. 113-7. Ce rapport
+précise notamment le montant des crédits engagés par le fonds, leur répartition régionale et l'échéancier des restes à payer
+à échoir au cours des exercices suivants.
+
+Il comporte une description des conditions de financement de la filière forêt-bois par le fonds stratégique de la forêt et du
+bois et par les autres opérateurs de l'Etat, les fonds structurels et d'investissement européens, les collectivités
+territoriales et les organismes privés.
+
+Ce rapport est communiqué au Conseil supérieur de la forêt et du bois et au comité mentionné à l'article D. 113-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-776 du 29 juin 2015 - art. 2
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. D113-7
+
+
 ### TITRE VI : DISPOSITIONS PÉNALES
 
 #### Chapitre Ier : Règles de procédure pénale  applicables aux infractions forestières
@@ -26357,8 +26413,8 @@ verbal de réception des travaux.
 
 ###### Article D175-3
 
-La commission de la forêt et des produits forestiers du Département de Mayotte exerce pour ce département les mêmes
-attributions que la commission définie à l'article D. 113-11 pour les régions de métropole. 
+La commission de la forêt et du bois du Département de Mayotte exerce pour ce département les mêmes attributions que la
+commission définie à l'article D. 113-11 pour les régions de métropole.
 
 Elle peut être consultée et formuler des propositions sur toute question liée aux conditions d'application à Mayotte de
 directives nationales tenant, notamment, au maintien des équilibres naturels en milieu forestier, au développement de
@@ -26370,17 +26426,13 @@ l'économie du bois et au rôle social de la forêt.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier de Mayotte - art. R021 (Ab)
+	  - Décret n°2015-778 du 29 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. D113-11 (V)
+	  - Code forestier (nouveau) - art. D113-11
 
 
 ###### Article D175-4
@@ -26569,60 +26621,6 @@ forestiers de reproduction n'est pas applicable.
 
 
 #### Chapitre VI : Saint-Barthélemy
-
-###### Article D176-3
-
-Pour son application à Saint-Barthélemy, l'article D. 113-12 est ainsi rédigé : 
-
-" Art. D. 113-12.-La commission territoriale de la forêt et des produits forestiers est présidée par le représentant de
-l'Etat à Saint-Barthélemy et comprend : 
-
-" 1° Le directeur des services de l'Etat compétents en matière de forêts ; 
-
-" 2° Le directeur des services de l'Etat compétents en matière d'entreprises, de concurrence et de consommation, de travail
-et d'emploi ; 
-
-" 3° Des représentants du conseil territorial ; 
-
-" 4° Des représentants de la propriété forestière des particuliers ; 
-
-" 5° Des représentants de la propriété forestière des bois et forêts relevant du 2° du I de l'article L. 211-1 ; 
-
-" 6° Des représentants de l'Office national des forêts ; 
-
-" 7° Des représentants des structures interprofessionnelles, de l'industrie et des prestataires de services dans le secteur
-de la forêt et du bois ; 
-
-" 8° Des représentants d'associations d'usagers de la forêt, de protection de l'environnement et de gestionnaires d'espaces
-naturels ; 
-
-" 9° Des représentants de la chambre économique multiprofessionnelle ; 
-
-" 10° Des personnalités qualifiées. 
-
-" Le nombre de membres de la commission nommés au titre du 4°, du 5° et du 6° est fonction des surfaces respectives de chacun
-des régimes de propriété forestière dans la collectivité. 
-
-" L'absence de représentants d'une catégorie ne fait pas obstacle à la constitution de la commission. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-778 du 29 juin 2015 - art. 2
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L211-1
-
 
 ###### Article R176-1
 
@@ -35611,9 +35609,8 @@ antérieurement, jusqu'à leur expiration.
 ###### Article D313-8
 
 Le projet de code des bonnes pratiques sylvicoles mentionné à l'article L. 313-3 est adressé par le centre régional de la
-propriété forestière au préfet de région. Celui-ci recueille l'avis de la commission régionale de la forêt et des produits
-forestiers, qui se prononce dans un délai de six mois à compter de la réception du projet ; à défaut, l'avis est réputé
-favorable. 
+propriété forestière au préfet de région. Celui-ci recueille l'avis de la commission régionale de la forêt et du bois, qui se
+prononce dans un délai de six mois à compter de la réception du projet ; à défaut, l'avis est réputé favorable. 
 
 Le préfet de région fait connaître sa décision sur le projet du code des bonnes pratiques sylvicoles dans le délai d'un mois
 à compter de l'avis exprès ou tacite de la commission. 
@@ -35627,18 +35624,14 @@ l'article R. 312-8.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R222-27 (Ab)
+	  - Décret n°2015-778 du 29 juin 2015 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L313-3 (V)
-	  - Code forestier (nouveau) - art. R312-8 (V)
+	  - Code forestier (nouveau) - art. L313-3
+	  - Code forestier (nouveau) - art. R312-8
 
 
 ###### Article D313-9
