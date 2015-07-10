@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-07-01
+Version Consolidée au 2015-07-11
 
 # Partie législative
 
@@ -17972,10 +17972,6 @@ consultatif.
 
 	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
 
-
-##### Section 2 : Institutions régionales
-
-##### Sous-section 1 : Commissions régionales de la forêt  et des produits forestiers
 
 ##### Section 2 : Commissions régionales de la forêt et du bois
 
@@ -40313,9 +40309,9 @@ conformément au dernier alinéa de l'article L. 341-6. Ces travaux sont choisis
 arrêté. 
 
 Lorsque le préfet estime, compte tenu des éléments du dossier, qu'une reconnaissance de la situation et de l'état des
-terrains est nécessaire, il porte le délai d'instruction à six mois et en informe le demandeur dans les deux mois suivant la
-réception du dossier complet. Il peut, par une décision motivée, proroger ce délai d'une durée complémentaire de trois mois,
-notamment lorsque les conditions climatiques ont rendu la reconnaissance impossible.
+terrains est nécessaire, il porte le délai d'instruction à quatre mois et en informe le demandeur dans les deux mois suivant
+la réception du dossier complet. Il peut, par une décision motivée, proroger ce délai d'une durée complémentaire de trois
+mois, notamment lorsque les conditions climatiques ont rendu la reconnaissance impossible.
 
 **Liens relatifs à cet article**
 
@@ -40325,12 +40321,12 @@ notamment lorsque les conditions climatiques ont rendu la reconnaissance impossi
 
 	**Modifié par**:
 
-	  - Décret n°2015-656 du 10 juin 2015 - art. 3
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 6
 
 	**Cite**:
 
 	  - Code forestier (nouveau) - art. L341-3
-	  - Code forestier (nouveau) - art. L341-6 (V)
+	  - Code forestier (nouveau) - art. L341-6
 	  - Code forestier (nouveau) - art. R341-6
 
 	**Cité par**:
@@ -40408,7 +40404,7 @@ concernés et des défrichements envisagés.
 ###### Article R341-7
 
 La demande d'autorisation de défrichement mentionnée au premier alinéa de l'article R. 341-6 est réputée rejetée à défaut de
-décision du préfet notifiée dans le délai de huit mois à compter de la réception du dossier complet.
+décision du préfet notifiée dans le délai de six mois à compter de la réception du dossier complet.
 
 **Liens relatifs à cet article**
 
@@ -40418,7 +40414,7 @@ décision du préfet notifiée dans le délai de huit mois à compter de la réc
 
 	**Modifié par**:
 
-	  - Décret n°2015-656 du 10 juin 2015 - art. 3
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 6
 
 	**Cité par**:
 
