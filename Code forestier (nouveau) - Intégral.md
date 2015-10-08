@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-09-13
+Version Consolidée au 2015-10-09
 
 # Partie législative
 
@@ -9791,6 +9791,22 @@ que dans les cas suivants :
 	**Créé par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+
+
+###### Article L221-8
+
+L'Office national des forêts participe à la surveillance des dangers sanitaires que peuvent présenter les végétaux dans les
+bois et forêts relevant du régime forestier mentionné à l'article L. 211-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1242 du 7 octobre 2015 - art. 5
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L211-1
 
 
 #### Chapitre II : Organisation
