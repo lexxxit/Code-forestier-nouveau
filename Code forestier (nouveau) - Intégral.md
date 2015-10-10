@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-10-09
+Version Consolidée au 2015-10-11
 
 # Partie législative
 
@@ -17580,104 +17580,131 @@ l'article L. 362-1.
 
 ##### Section 1 : Institutions nationales
 
-##### Sous-section 1 : Conseil supérieur de la forêt, des produits forestiers  et de la transformation du bois
+##### Sous-section 1 : Conseil supérieur de la forêt et du bois
 
 ###### Article D113-1
 
-Le Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois comprend, outre le ministre chargé
-des forêts, ou son représentant, qui le préside :
+Le Conseil supérieur de la forêt et du bois comprend, outre le ministre chargé des forêts, ou son représentant, qui le
+préside : 
 
-1° Deux députés et deux sénateurs ;
+A.-Des représentants de l'Etat : 
 
-2° Deux représentants des conseils régionaux et deux représentants des conseils généraux désignés respectivement par
-l'Association des régions de France et l'Assemblée des départements de France ;
+1° Le directeur général de la performance économique et environnementale des entreprises au ministère chargé des forêts ; 
 
-3° Deux représentants des communes dont un désigné par l'Association des maires de France et un désigné par la Fédération
-nationale des communes forestières de France ;
+2° Le directeur général des finances publiques ; 
 
-4° Un représentant du ministre chargé des forêts ;
+3° Le directeur de l'eau et de la biodiversité ; 
 
-5° Un représentant du ministre chargé de l'agriculture ;
+4° Le directeur de l'énergie ; 
 
-6° Un représentant du ministre chargé de l'économie ;
+5° Le directeur général des collectivités locales ; 
 
-7° Un représentant du ministre chargé de l'environnement ;
+6° Le directeur de l'habitat, de l'urbanisme et des paysages ; 
 
-8° Un représentant du ministre de l'intérieur ;
+7° Le directeur général des infrastructures, des transports et de la mer ; 
 
-9° Un représentant du ministre chargé de l'urbanisme et du logement ;
+8° Le directeur général des entreprises ; 
 
-10° Un représentant du ministre chargé des transports ;
+9° Le directeur général de la recherche et de l'innovation ; 
 
-11° Un représentant du ministre chargé de l'industrie ;
+10° Le directeur général des outre-mer ; 
 
-12° Un représentant du ministre chargé de la recherche ;
+11° Le commissaire général à l'égalité des territoires ; 
 
-13° Un représentant du ministre chargé de la jeunesse et des sports ;
+12° Le vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ; 
 
-14° Un représentant du ministre chargé de l'outre-mer ;
+B.-Un collège d'élus comprenant : 
 
-15° Un représentant du ministre chargé de l'aménagement du territoire.
+13° Deux députés et deux sénateurs ; 
 
-16° Le président du Centre national de la propriété forestière ;
+14° Deux représentants des conseils régionaux et deux représentants des conseils départementaux désignés respectivement par
+l'Association des régions de France et l'Assemblée des départements de France ; 
 
-17° Le président de l'Assemblée permanente des chambres d'agriculture ;
+15° Deux représentants des communes dont un désigné par l'Association des maires de France et un désigné par la Fédération
+nationale des communes forestières de France ; 
 
-18° Le directeur général de l'Office national des forêts ;
+16° Le président de la Fédération des parcs naturels régionaux ; 
 
-19° Le président de l'Institut national de la recherche agronomique ;
+C.-Un collège de représentants d'établissements publics et d'institutions comprenant : 
 
-20° Le directeur général de l'Institut national de recherche en sciences et technologies pour l'environnement et
-l'agriculture ;
+17° Le président du conseil d'administration du Centre national de la propriété forestière ; 
 
-21° Quatre représentants des propriétaires forestiers particuliers ;
+18° Le président du conseil d'administration de l'Office national des forêts ; 
 
-22° Un représentant de l'Association des sociétés et groupements fonciers et forestiers ;
+19° Le président du conseil d'administration de l'Office national de la chasse et de la faune sauvage ; 
 
-23° Un représentant des organismes de gestion et d'exploitation forestière en commun ;
+20° Le président du conseil d'administration de l'Institut national de l'information géographique et forestière ; 
 
-24° Un représentant des experts forestiers ;
+21° Le président du conseil d'administration de l'Institut technologique forêt, cellulose, bois-construction et
+ameublement ; 
 
-25° Un représentant des producteurs de plants forestiers ;
+22° Le président du conseil d'administration du Centre technique du papier ; 
 
-26° Un représentant des entrepreneurs de reboisement ;
+23° Le président du conseil d'administration de l'Agence de l'environnement et de la maîtrise de l'énergie ; 
 
-27° Un représentant des entrepreneurs de travaux forestiers ;
+24° Le président de l'Institut national de la recherche agronomique ; 
 
-28° Deux représentants des exploitants forestiers et scieurs ;
+25° Le président de l'interprofession nationale de la filière forêt bois France Bois Forêt ; 
 
-29° Trois représentants des industries du bois et de l'ameublement ;
+26° Le président de l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture ; 
 
-30° Un représentant des producteurs de pâtes pour papiers et textiles artificiels ;
+27° Le président de l'Assemblée permanente des chambres d'agriculture ; 
 
-31° Un représentant des architectes ;
+28° En application du troisième alinéa de l'article L. 113-1, un représentant du Conseil supérieur d'orientation et de
+coordination de l'économie agricole et alimentaire, lorsque les questions abordées ont une incidence sur les productions
+agricoles ; 
 
-32° Un représentant des professionnels de la construction ;
+D.-Un collège de représentants de l'amont de la filière forêt bois comprenant : 
 
-33° Un représentant des organisations interprofessionnelles de la forêt et du bois ;
+29° Quatre représentants des propriétaires forestiers particuliers ; 
 
-34° Trois représentants des associations d'usagers de la forêt ;
+30° Le président de l'Association des sociétés et groupements fonciers et forestiers ; 
 
-35° Trois représentants des salariés de la forêt et des professions du bois ;
+31° Un représentant des coopératives forestières ; 
 
-36° Quatre représentants des associations de protection de l'environnement agréées ;
+32° Un représentant des experts forestiers ; 
 
-37° Un représentant de la Fédération des parcs naturels régionaux ;
+33° Un représentant des producteurs de plants forestiers ; 
 
-38° Un représentant de la Fédération nationale des chasseurs ;
+34° Un représentant des entrepreneurs de travaux forestiers ; 
 
-39° Un représentant de l'Union nationale pour la pêche en France et la protection du milieu aquatique ;
+35° Un représentant des exploitants forestiers ; 
 
-40° Cinq personnalités qualifiées désignées par le ministre chargé des forêts en raison de leur compétence technique,
-économique, sociale ou juridique.
+E.-Un collège de représentants de l'aval de la filière forêt bois comprenant : 
 
-Les membres cités du 21° au 35° sont nommés par le ministre chargé des forêts sur proposition, le cas échéant, des
-organisations représentatives du secteur concerné.
+36° Un représentant des scieurs ; 
 
-Les membres cités du 36° au 39° sont nommés par le ministre chargé des forêts, sur proposition du ministre chargé de
+37° Trois représentants des industries du bois et de l'ameublement ; 
+
+38° Un représentant des producteurs de pâtes pour papiers et textiles artificiels ; 
+
+39° Le président de France Bois Industrie Entreprises ; 
+
+40° Un représentant du commerce du bois ; 
+
+41° Un représentant des architectes ; 
+
+42° Un représentant des professionnels de la construction ; 
+
+43° Le président du Syndicat des énergies renouvelables ; 
+
+F.-Un collège des représentants des autres parties intéressées comprenant : 
+
+44° Trois représentants des salariés de la forêt et des professions du bois ; 
+
+45° Deux représentants des associations d'usagers de la forêt ; 
+
+46° Quatre représentants des associations de protection de l'environnement agréées ; 
+
+47° Le président de la Fédération nationale des chasseurs ; 
+
+48° Le président de l'Assemblée générale du groupement d'intérêt public " ECOFOR ". 
+
+Les membres mentionnés aux 29°, 31° à 38°, 40° à 42°, 44° et 45° sont nommés par le ministre chargé des forêts sur
+proposition des organisations représentatives du secteur concerné. 
+
+Les membres mentionnés aux 16° et 46° sont nommés par le ministre chargé des forêts sur proposition du ministre chargé de
 l'environnement.
-
-Le ministre chargé des forêts désigne un vice-président parmi les membres du conseil.
 
 **Liens relatifs à cet article**
 
@@ -17685,24 +17712,24 @@ Le ministre chargé des forêts désigne un vice-président parmi les membres du
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R3-1 (Ab)
+	  - Décret n°2015-1256 du 8 octobre 2015 - art. 1
 
 	**Cité par**:
 
-	  - Code forestier (nouveau) - art. D113-2 (M)
+	  - Code forestier (nouveau) - art. D113-2 (V)
 	  - Code forestier (nouveau) - art. D113-9 (V)
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L113-1
 
 
 ###### Article D113-2
 
-La durée du mandat des membres du Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois,
-autres que ceux cités du 4° au 20° de l'article D. 113-1, est de cinq ans renouvelable. 
+La durée du mandat des membres du Conseil supérieur de la forêt et du bois autres que ceux mentionnés aux 1° à 12°, 17° à
+27°, 30°, 39°, 43°, 47° et 48° de l'article D. 113-1 est de cinq ans renouvelable une fois.
 
 Les membres du conseil exercent leurs fonctions à titre gratuit.
 
@@ -17712,13 +17739,9 @@ Les membres du conseil exercent leurs fonctions à titre gratuit.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R3-2 (Ab), al 1, al 5
+	  - Décret n°2015-1256 du 8 octobre 2015 - art. 1
 
 	**Cite**:
 
@@ -17727,7 +17750,7 @@ Les membres du conseil exercent leurs fonctions à titre gratuit.
 
 ###### Article D113-3
 
-Le Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois est réuni au moins une fois par an.
+Le Conseil supérieur de la forêt et du bois est réuni au moins une fois par an.
 
 Son secrétariat est assuré par les services du ministre chargé des forêts.
 
@@ -17737,31 +17760,30 @@ Son secrétariat est assuré par les services du ministre chargé des forêts.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R3-3 (Ab), al 1 phr 1
-	  - Code forestier - art. R3-4 (Ab),  al 2
+	  - Décret n°2015-1256 du 8 octobre 2015 - art. 1
 
 
 ###### Article D113-4
 
-Le Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois peut être consulté par le ministre
-chargé des forêts et formuler des propositions sur toute question relative au secteur de la forêt et du bois. A sa demande ou
-à celle d'un autre ministre, il examine l'incidence des autres politiques nationales ou européennes d'intérêt général sur la
-forêt, ses produits et ses services, et formule un avis transmis au ministre demandeur, au Premier ministre, au président du
-Sénat et à celui de l'Assemblée nationale.
+Le Conseil supérieur de la forêt et du bois peut être consulté par le ministre chargé des forêts et formuler des propositions
+sur toute question relative au secteur de la forêt et du bois. A sa demande ou à celle d'un autre ministre, il examine
+l'incidence des autres politiques nationales ou européennes d'intérêt général sur la forêt, ses produits et ses services, et
+formule un avis transmis au ministre demandeur, au Premier ministre, au président du Sénat et à celui de l'Assemblée
+nationale.
 
 Il est tenu informé de l'évolution des dotations budgétaires provenant du budget de l'Etat ou de l'Union européenne,
 affectées à des actions menées dans le secteur de la forêt et du bois, et de leur emploi. Il formule des recommandations sur
 la politique de contractualisation entre l'Etat et les régions, et est informé du contenu et de la mise en œuvre des contrats
-Etat-régions signés pour autant qu'ils comportent une partie relative à la forêt et aux industries du bois.
+Etat-régions signés pour autant qu'ils comportent une partie relative à la forêt et aux industries du bois. Les travaux du
+Conseil national de l'industrie relatifs à la filière bois lui sont régulièrement présentés. Il est associé à l'élaboration,
+au suivi et à l'évaluation du programme national de la forêt et du bois.
 
-Le règlement intérieur du conseil énonce celles de ses attributions qui peuvent être déléguées au comité de politique
-forestière.
+Certains de ses travaux peuvent être confiés, par arrêté du ministre chargé des forêts, à des comités spécialisés constitués
+en son sein qui lui en rendent compte régulièrement. L'arrêté prévoit également les règles de fonctionnement de ces comités
+spécialisés. Ces comités peuvent s'adjoindre des experts extérieurs au conseil et qui ne peuvent avoir qu'un rôle
+consultatif.
 
 **Liens relatifs à cet article**
 
@@ -17769,14 +17791,9 @@ forestière.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R3-10 (Ab), al 3
-	  - Code forestier - art. R3-5 (Ab)
+	  - Décret n°2015-1256 du 8 octobre 2015 - art. 1
 
 	**Cité par**:
 
@@ -17785,9 +17802,9 @@ forestière.
 
 ###### Article D113-5
 
-Le Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois est tenu informé des travaux des
-commissions régionales de la forêt et des produits forestiers. Il émet un avis sur les projets d'orientations régionales
-forestières.
+Le Conseil supérieur de la forêt et du bois est tenu informé des travaux des commissions régionales de la forêt et du bois.
+Il est informé des projets de programmes régionaux de la forêt et du bois lors de leur élaboration et du suivi de leur mise
+en œuvre.
 
 **Liens relatifs à cet article**
 
@@ -17795,38 +17812,9 @@ forestières.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R3-6 (Ab)
-
-
-###### Article D113-6
-
-Le Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois remet au Gouvernement, qui le
-dépose sur le bureau des assemblées, un rapport annuel sur le bilan économique et social de la filière de la production
-forestière, du bois et des produits forestiers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2015-1256 du 8 octobre 2015 - art. 1
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L3 (Ab), al 3
 
 
 ##### Sous-section 2 : Comité de gouvernance du fonds stratégique de la forêt et du bois
