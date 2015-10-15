@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-10-11
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -24363,29 +24363,32 @@ les collectivités et personnes morales propriétaires s'y sont engagées par d�
 ###### Article D156-7
 
 Les subventions que l'Etat peut accorder en matière d'investissement forestier sont destinées à permettre la réalisation des
-opérations suivantes : 
+opérations suivantes :
 
-1° Les travaux de boisement, reboisement et régénération de peuplement ; 
+1° Les travaux de boisement, reboisement et régénération de peuplement ;
 
-2° Les travaux d'amélioration des forêts ; 
+2° Les travaux d'amélioration des forêts y compris de leur résilience, de leur valeur environnementale, de leur adaptation
+aux évolutions du climat et de leur capacité d'atténuation du changement climatique ;
 
-3° Les travaux de desserte forestière ; 
+3° Les travaux de desserte forestière ;
 
 4° Les travaux de protection de la forêt y compris les travaux de restauration des terrains en montagne, les opérations
-d'investissement de prévention et de défense des forêts contre les incendies et de fixation des dunes côtières ; 
+d'investissement de prévention et de défense des forêts contre les incendies et de fixation des dunes côtières ;
 
 5° Les travaux de nettoyage, reconstitution et lutte phytosanitaire dans les peuplements forestiers sinistrés par des
-phénomènes naturels exceptionnels ; 
+phénomènes naturels exceptionnels ;
 
-6° Les travaux de protection ou restauration de la biodiversité. 
+6° Les travaux de protection ou restauration de la biodiversité.
+
+Un arrêté du préfet de région précise les travaux éligibles pour chacune des opérations mentionnées au 1° à 6°.
 
 Les durées maximales autorisées pour commencer et réaliser les travaux sont fixées à l'article D. 156-11.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2007-951 du 15 mai 2007 - art. 1 (Ab)
+	  - Décret n°2012-836 du 29 juin 2012 (V)
 
 	**Cité par**:
 
@@ -24398,151 +24401,135 @@ Les durées maximales autorisées pour commencer et réaliser les travaux sont f
 	  - Code forestier (nouveau) - art. D156-8 (M)
 	  - Code forestier (nouveau) - art. D156-9 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2015-1282 du 13 octobre 2015 - art. 1
 
 
 ###### Article D156-8
 
-Le bénéfice des subventions mentionnées à l'article D. 156-7 est accordé aux titulaires de droits réels et personnels sur les
-immeubles sur lesquels sont exécutées les opérations, ou à leurs représentants légaux. 
+Le bénéfice des subventions est accordé aux titulaires de droits réels et personnels sur les immeubles sur lesquels sont
+exécutées les opérations justifiant les aides de l'Etat ou à leurs représentants légaux. Peuvent également bénéficier des
+aides les personnes morales de droit public ou leurs groupements, les personnes morales reconnues en qualité de groupements
+d'intérêt économique et environnemental forestiers et leurs unions, les coopératives forestières et leurs unions, les
+associations syndicales libres, autorisées ou constituées d'office, ainsi que leurs unions ou fédérations, ne détenant pas de
+droit de propriété sur les immeubles en cause, lorsqu'elles réalisent des opérations justifiant l'aide de l'Etat.
 
-Peuvent également bénéficier des aides les personnes morales de droit public ou leurs groupements, les associations
-syndicales autorisées ou constituées d'office ainsi que leurs unions ou fédérations ne détenant pas de droit de propriété sur
-les immeubles en cause, lorsqu'elles réalisent des opérations justifiant l'aide de l'Etat. 
-
-Sans préjudice des dispositions des articles L. 121-6 et L. 124-1 relatives à la garantie ou à la présomption de gestion
-durable, le bénéfice des aides est subordonné au respect des conditions fixées dans les arrêtés du préfet de région. 
-
-Ces dispositions s'appliquent pendant une durée de cinq ans à compter de la notification de la décision attributive de
-l'aide.
+L'octroi des aides est subordonné au respect des dispositions des articles L. 121-6 et D. 121-1 et au respect des conditions
+fixées dans les arrêtés du préfet de région mentionnés dans la présente section.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-951 du 15 mai 2007 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2015-1282 du 13 octobre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. D156-7 (V)
-	  - Code forestier (nouveau) - art. L121-6 (V)
-	  - Code forestier (nouveau) - art. L124-1 (V)
+	  - Code forestier (nouveau) - art. D121-1
+	  - Code forestier (nouveau) - art. L121-6
 
 
 ###### Article D156-9
 
-Les subventions sont accordées sur la base d'un devis estimatif et descriptif, conformément aux règles générales applicables
-aux subventions de l'Etat pour des projets d'investissement. 
+Les subventions sont accordées sur la base d'un devis estimatif et descriptif hors taxes, conformément aux règles générales
+applicables aux subventions de l'Etat pour des projets d'investissement. 
 
 Toutefois, les montants des subventions pour les opérations mentionnées au 5° de l'article D. 156-7 peuvent être établis sur
 la base de barèmes régionaux arrêtés par les préfets de région, dans les conditions prévues à l'article D. 156-10. 
 
-Des arrêtés conjoints du ministre chargé des forêts et du ministre chargé du budget fixent les conditions d'attribution et
-les montants des aides à l'investissement sur devis et sur barème réglementé.
+Pour les opérations prévues aux 1°, 2° et 3° de l'article D. 156-7, les subventions sont imputées sur les crédits du fonds
+stratégique de la forêt et du bois mis en œuvre par l'établissement mentionné à l'article L. 313-1 du code rural et de la
+pêche maritime ou, en Corse, par l'établissement mentionné à l'article L. 112-11 du même code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-951 du 15 mai 2007 - art. 3 (Ab)
-	  - Décret n°2007-951 du 15 mai 2007 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2015-1282 du 13 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code rural - art. L112-11 (V)
+	  - Code rural - art. L313-1 (V)
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. D156-10 (V)
 
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. D156-7 (V)
-
 
 ###### Article D156-10
 
-Les barèmes prévus à l'article D. 156-9 sont établis par le préfet de région conformément aux principes suivants : 
+Les barèmes prévus à l'article D. 156-9 sont établis par le préfet de région conformément aux principes suivants :
 
-1° Catégories de travaux autorisés sur barème : 
+1° Catégories de travaux autorisés sur barème :
 
-a) Travaux de nettoyage ; 
+a) Travaux de nettoyage ;
 
-b) Travaux de reconstitution ; 
+b) Travaux de reconstitution ;
 
-c) Travaux d'entretien ; 
+c) Travaux d'entretien ;
 
-2° Nombre de barèmes autorisés selon le type de travaux : 
+2° Nombre de barèmes autorisés selon le type de travaux :
 
-a) Travaux de nettoyage : 3. 
+a) Travaux de nettoyage : 3.
 
-Chaque niveau de barème peut être décliné en trois tranches de surfaces maximum ; 
+Chaque niveau de barème peut être décliné en trois tranches de surfaces maximum ;
 
 b) Travaux de reconstitution par régénération artificielle : 5, dont 2 pour les techniques de semis et 3 pour les techniques
-de plantation. 
+de plantation.
 
-Quatre options sont possibles : 
+Quatre options sont possibles :
 
-― une option assistance technique ; 
+– une option maîtrise d'œuvre ;
 
-― une option étude écologique ou paysagère ; 
+– une option étude écologique ou paysagère ;
 
-― une option de protection contre le gibier ; 
+– une option de protection contre le gibier ;
 
-― une option technique laissée à l'appréciation du préfet lorsque celle-ci est justifiée par l'adaptation aux spécificités
-locales ; 
+– une option technique laissée à l'appréciation du préfet lorsque celle-ci est justifiée par l'adaptation aux spécificités
+locales ;
 
-c) Travaux de régénération naturelle : 3. Chaque niveau de barème peut être décliné en trois tranches de surfaces maximum. 
+c) Travaux de reconstitution par régénération naturelle : 3. Chaque niveau de barème peut être décliné en trois tranches de
+surfaces maximum.
 
-Cinq options sont possibles : 
+Cinq options sont possibles :
 
-― une option assistance technique ; 
+– une option maîtrise d'œuvre ;
 
-― une option étude écologique ou paysagère ; 
+– une option étude écologique ou paysagère ;
 
-― une option de protection contre le gibier ; 
+– une option de protection contre le gibier ;
 
-― une option spécifique à la régénération naturelle sur la base d'un enrichissement par plantation d'un nombre de feuillus
-précieux à l'hectare, protégés individuellement contre le gibier ; 
+– une option spécifique à la régénération naturelle sur la base d'un enrichissement par plantation d'un nombre de plants à
+l'hectare, protégés individuellement contre le gibier ;
 
-― une option technique laissée à l'appréciation du préfet lorsque celle-ci est justifiée par l'adaptation aux spécificités
-locales ; 
+– une option technique laissée à l'appréciation du préfet lorsque celle-ci est justifiée par l'adaptation aux spécificités
+locales ;
 
-d) Travaux d'entretien : 1. 
+d) Travaux d'entretien : 1.
 
-Une seule option est possible : assistance technique.
+Un seul niveau de barème est autorisé.
+
+Une seule option est possible : maîtrise d'œuvre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-951 du 15 mai 2007 - art. ANNEXE 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2015-1282 du 13 octobre 2015 - art. 4
 
 	**Cité par**:
 
@@ -24552,52 +24539,46 @@ Une seule option est possible : assistance technique.
 ###### Article D156-11
 
 Pour tous les travaux énumérés à l'article D. 156-7, le délai pour commencer l'exécution est fixé à un an maximum à compter
-de la notification de la subvention. 
+de la notification de la subvention.
 
 Le délai qui court à compter de la date de déclaration du début d'exécution et au terme duquel le bénéficiaire doit avoir
-déclaré l'achèvement du projet est de : 
+déclaré l'achèvement du projet est de :
 
-1° Deux ans maximum pour les opérations de : 
+1° Deux ans maximum pour les opérations de :
 
-a) Boisement, reboisement ; 
+a) Desserte forestière ;
 
-b) Amélioration des peuplements ; 
+b) Nettoyage des peuplements sinistrés ;
 
-c) Desserte forestière ; 
+c) Protection ou restauration de la biodiversité. ;
 
-d) Nettoyage des peuplements sinistrés ; 
+2° Quatre ans maximum pour les opérations de :
 
-e) Reconstitution des peuplements sinistrés par plantation ou par semis ; 
+a) Régénération naturelle des peuplements ;
 
-f) Protection ou restauration de la biodiversité ; 
+b) Reconstitution des peuplements sinistrés par régénération naturelle ou artificielle ;
 
-2° Quatre ans maximum pour les opérations de : 
+c) Protection de la forêt et restauration des terrains en montagne ;
 
-a) Régénération naturelle des peuplements ; 
+d) Défense des forêts contre l'incendie ;
 
-b) Reconstitution des peuplements sinistrés par régénération naturelle ; 
+e) Fixation des dunes côtières ;
 
-c) Protection de la forêt et restauration des terrains en montagne ; 
+f) Boisement, reboisement ;
 
-d) Défense des forêts contre l'incendie ; 
-
-e) Fixation des dunes côtières.
+g) Amélioration des peuplements.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-951 du 15 mai 2007 - art. ANNEXE 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2015-1282 du 13 octobre 2015 - art. 5
 
-	**Cite**:
+	**Cité par**:
 
 	  - Code forestier (nouveau) - art. D156-7 (V)
 
