@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-12-07
+Version Consolidée au 2015-12-18
 
 # Partie législative
 
@@ -6368,6 +6368,44 @@ Ne sont pas applicables en Guyane les dispositions :
 	**Cite**:
 
 	  - Code forestier (nouveau) - art. L131-1 (V)
+
+
+###### Article L172-2
+
+Pour leur application en Guyane, à l'article L. 122-1, les mots : " des conseils régionaux et des conseils généraux " et aux
+articles L. 132-1, L. 133-10 et L. 142-7, les mots : " du conseil général " sont remplacés par les mots : " de l'Assemblée de
+Guyane ".
+
+**Nota:**
+
+Ordonnance n° 2012-92 du 26 janvier 2012, article 8 : l'article L172-2 entre en vigueur à la date mentionnée à l'article 21
+de la loi n° 2011-884 du 27 juillet 2011 qui prévoit pour la Guyane, une entrée en vigueur à compter de la première réunion
+de l'assemblée de Guyane suivant sa première élection en décembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 8 (V)
+
+	**Anciens textes**:
+
+	  - Code forestier - art. L14 (VT), al 7.
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L122-1 (V)
+	  - Code forestier (nouveau) - art. L132-1 (V)
+	  - Code forestier (nouveau) - art. L133-10 (V)
+	  - Code forestier (nouveau) - art. L142-7 (V)
 
 
 ###### Article L172-3
