@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-03-19
 
 # Partie législative
 
@@ -17912,22 +17912,17 @@ mer.
 Les membres mentionnés aux 25° et 26° ainsi que leurs suppléants sont désignés par arrêté du ministre chargé des forêts. 
 
 Le président du comité et les membres mentionnés aux 1° à 24° peuvent se faire représenter dans les conditions prévues par
-l'article 3 du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et au fonctionnement de commissions
-administratives à caractère consultatif.
+l'article R. 133-3 du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°2006-672 du 8 juin 2006 - art. 3
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2015-776 du 29 juin 2015 - art. 1
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'adminis... - art. R133-3 (V)
 
 
 ###### Article D113-9
@@ -17955,23 +17950,18 @@ fonctionnement sont identiques à celles du conseil mentionné à l'article D. 1
 ###### Article R113-10
 
 Les règles de fonctionnement du Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois et du
-comité de politique forestière, autres que celles énoncées à la présente section, sont fixées par le décret n° 2006-672 du 8
-juin 2006 relatif à la création, à la composition et au fonctionnement de commissions administratives à caractère
-consultatif.
+comité de politique forestière, autres que celles énoncées à la présente section, sont fixées par les articles R. 133-1 à R.
+133-15 du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
 	**Cite**:
 
-	  - Décret n°2006-672 du 8 juin 2006 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Code des relations entre le public et l'adminis... - art. R*133-1 (V)
 
 
 ##### Section 2 : Commissions régionales de la forêt et du bois
@@ -18215,29 +18205,20 @@ Les représentants de la région sont ceux de la collectivité de Corse désign�
 ###### Article R113-16
 
 Les règles de fonctionnement de la commission régionale de la forêt et des produits forestiers, autres que celles énoncées à
-la présente section, sont fixées par le décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et au
-fonctionnement de commissions administratives à caractère consultatif ainsi que par les dispositions des articles 8 et 9 du
-décret n° 2006-665 du 7 juin 2006 relatif à la réduction du nombre et à la simplification de la composition de diverses
-commissions administratives.
+la présente section, sont fixées par les articles R. 133-1 à R. 133-15 du code des relations entre le public et
+l'administration ainsi que par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006 relatif à la
+réduction du nombre et à la simplification de la composition de diverses commissions administratives.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°2006-665 du 7 juin 2006 (V)
-	  - Décret n°2006-672 du 8 juin 2006 (V)
+	  - Code des relations entre le public et l'adminis... - art. R*133-1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R4-1 (Ab), al 1 phrase 2
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
 
 
 ### TITRE II : POLITIQUE FORESTIÈRE ET GESTION DURABLE
@@ -20666,8 +20647,7 @@ Le préfet prend l'avis du conseil municipal des communes intéressées et celui
 sécurité et d'accessibilité ; à défaut de réponse dans un délai de deux mois, cet avis est réputé favorable. 
 
 L'arrêté est précédé d'une enquête publique dans les cas prévus à l'article L. 134-2. Cette enquête est réalisée dans les
-conditions prévues pour les enquêtes publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause d'utilité
-publique régies par le titre Ier du livre Ier du même code. 
+conditions prévues par le chapitre IV du titre III du livre Ier du code des relations entre le public et l'administration. 
 
 Pour la détermination de l'emprise de la servitude, il est tenu compte de l'espace de retournement nécessaire aux engins de
 surveillance et de lutte.
@@ -20680,12 +20660,12 @@ surveillance et de lutte.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+	  - Décret n°2016-308 du 17 mars 2016 - art. 6
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-1
 	  - Code forestier (nouveau) - art. L134-2
+	  - Code des relations entre le public et l'adminis... -  Chapitre IV : Enquêtes publiques (V)
 
 	**Cité par**:
 
@@ -22157,8 +22137,8 @@ La décision prononçant la mise en défens en application de l'article L. 142-1
 ###### Article R142-4
 
 Le préfet ouvre, dans chacune des communes intéressées, l'enquête mentionnée au 1° de l'article R. 142-3 dans les conditions
-prévues pour les enquêtes publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause d'utilité publique
-régies par le titre Ier du livre Ier du même code et dans celles précisées à la présente section. 
+prévues                                    par le chapitre IV du titre III du livre Ier du code des relations entre le public
+et l'administration et dans celles précisées à la présente section. 
 
 Le commissaire enquêteur désigné reçoit, à la mairie, les observations des habitants et propriétaires sur l'intérêt de la
 mise en défens pendant au moins trois journées.
@@ -22171,11 +22151,10 @@ mise en défens pendant au moins trois journées.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+	  - Décret n°2016-308 du 17 mars 2016 - art. 6
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-1
 	  - Code forestier (nouveau) - art. R142-3
 
 
@@ -26488,22 +26467,18 @@ est renouvelable.
 ###### Article R175-6
 
 Les règles de composition et de fonctionnement de la commission de la forêt et des produits forestiers du Département de
-Mayotte, autres que celles énoncées au présent chapitre, sont fixées par le décret n° 2006-672 du 8 juin 2006 relatif à la
-création, à la composition et au fonctionnement de commissions administratives à caractère consultatif.
+Mayotte, autres que celles énoncées au présent chapitre, sont fixées par les articles R. 133-1 à R. 133-15 du code des
+relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
 	**Cite**:
 
-	  - Décret n°2006-672 du 8 juin 2006 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Code des relations entre le public et l'adminis... - art. R*133-1 (V)
 
 
 ##### Section 4 : Rôle des forêts de protection
@@ -30646,6 +30621,30 @@ modalités de fonctionnement de ce conseil sont définies par un règlement int�
 	**Anciens textes**:
 
 	  - Code forestier - art. R122-25 (Ab)
+
+
+##### Section 5 : Publicité des délibérations, décisions et avis
+
+###### Article D222-19
+
+Les délibérations, décisions et avis du conseil d'administration et du directeur général de l'Office national des forêts sont
+publiés dans un bulletin officiel dématérialisé accessible au public depuis son site internet.
+
+Les actes mentionnés au précédent alinéa sont accessibles pendant une durée minimale de deux mois à compter de la date de
+leur première mise en ligne, puis sont archivés.
+
+Les avis relatifs aux procédures d'adjudication, d'appels d'offres, de mise en concurrence lors de ventes de bois, de
+location du droit de chasse ou de pêche sont également publiés dans ce bulletin.
+
+Le directeur général de l'Office national des forêts arrête les modalités de gestion du bulletin officiel dématérialisé de
+manière à garantir l'authenticité des dates de mise ligne et à sécuriser l'archivage des publications. Il s'assure de la
+conservation de la version papier des documents publiés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-319 du 16 mars 2016 - art. 1
 
 
 #### Chapitre III : Dispositions financières
@@ -40516,23 +40515,18 @@ ou personne qualifiée non membre du comité.
 
 Les membres du comité sont nommés pour trois ans par arrêté des ministres chargés des forêts, de l'économie et du budget.
 Pour chacun des membres titulaires, un suppléant est nommé dans les mêmes conditions. Les membres du comité peuvent se faire
-suppléer et sont remplacés en cas de vacance, dans les conditions prévues par les articles 3 et 4 du décret n° 2006-672 du 8
-juin 2006 relatif à la création, à la composition et au fonctionnement de commissions administratives à caractère
-consultatif.
+suppléer et sont remplacés en cas de vacance, dans les conditions prévues par les articles R. 133-3 et R. 133-4 du code des
+relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
 	**Cite**:
 
-	  - Décret n°2006-672 du 8 juin 2006 - art. 3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Code des relations entre le public et l'adminis... - art. R133-3 (V)
 
 
 ###### Article D351-3
@@ -40540,25 +40534,21 @@ consultatif.
 Le Comité national de la gestion des risques en forêt se réunit sur convocation de son président ou à la demande du ministre
 chargé de la forêt ou du ministre chargé de l'économie. 
 
-Il fonctionne dans les conditions prévues par les articles 5 à 15 du décret n° 2006-672 du 8 juin 2006 relatif à la création,
-à la composition et au fonctionnement de commissions administratives à caractère consultatif. 
+Il fonctionne dans les conditions prévues par les articles R. 133-5 à R. 133-14 du code des relations entre le public et
+l'administration. 
 
 Le secrétariat du comité est assuré par le ministère chargé des forêts. Le secrétariat organise les travaux du comité sous
 l'autorité du président.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
 	**Cite**:
 
-	  - Décret n°2006-672 du 8 juin 2006 - art. 5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Code des relations entre le public et l'adminis... - art. R133-5 (V)
 
 
 ### TITRE VI : DISPOSITIONS PÉNALES
