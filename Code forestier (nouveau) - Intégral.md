@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-04-08
 
 # Partie législative
 
@@ -30054,26 +30054,42 @@ forêts. Cette liste fait l'objet d'une mise à jour annuelle.
 
 ###### Article D222-1
 
-Le conseil d'administration de l'Office national des forêts comprend vingt-huit membres :
+Le conseil d'administration de l'Office national des forêts comprend trente membres :
 
 1° Un représentant du Premier ministre ;
 
 2° Deux personnalités choisies parmi les membres du Conseil d'Etat, de la Cour des comptes et de l'inspection générale des
 finances ;
 
-3° Trois représentants du ministre chargé des forêts ;
+3° Trois représentants du ministre chargé des forêts :
 
-4° Un représentant du ministre chargé de l'économie ;
+a) Le secrétaire général ou son représentant ;
 
-5° Un représentant du ministre chargé du budget ;
+b) Deux représentants de la direction générale de la performance économique et environnementale des entreprises :
 
-6° Un représentant du ministre chargé de l'industrie ;
+- le directeur général ou son représentant ;
 
-7° Deux représentants du ministre chargé de l'environnement ;
+- le sous-directeur chargé de la forêt ou son représentant ;
 
-8° Un représentant du ministre chargé de l'aménagement du territoire ;
+4° Deux représentants du ministre chargé du budget :
 
-9° Un représentant du ministre de l'intérieur ;
+a) Le directeur général des finances publiques ou son représentant ;
+
+b) Le directeur du budget ou son représentant ;
+
+5° Le directeur général des entreprises au ministère chargé de l'industrie ou son représentant ;
+
+6° Deux représentants du ministre chargé de l'environnement :
+
+a) Le directeur de l'eau et de la biodiversité ou son représentant ;
+
+b) Le directeur général de la prévention des risques ou son représentant ;
+
+7° Le directeur du développement des territoires au Commissariat général à l'égalité des territoires ou son représentant ;
+
+8° Le directeur de la modernisation et de l'action territoriale au ministère de l'intérieur ou son représentant ;
+
+9° Le directeur général des outre-mer au ministère des outre-mer ou son représentant ;
 
 10° Quatre représentants des personnes publiques autres que l'Etat, propriétaires de forêts relevant du régime forestier ;
 
@@ -30085,9 +30101,9 @@ finances ;
 
 14° Un représentant des personnels d'encadrement employés par l'établissement ;
 
-15° Trois personnalités choisies en raison de leur compétence particulière dans les domaines professionnel, technique,
-économique, scientifique, social ou de la protection de la nature, dont une au titre de la protection de la nature. L'une
-d'entre elles peut être un parlementaire.
+15° Quatre personnalités choisies en raison de leur compétence particulière dans les domaines professionnel, technique,
+économique, scientifique, social, cynégétique ou de la protection de la nature, dont une au titre de la protection de la
+nature. L'une d'entre elles peut être un parlementaire.
 
 Ne peuvent être membres du conseil d'administration que des personnes ressortissantes de pays membres de l'Union européenne
 et jouissant de leurs droits civiques.
@@ -30098,13 +30114,9 @@ et jouissant de leurs droits civiques.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R122-1 (Ab), al. 1 à 10, al. 11 phr 1, al. 12 phr 1, al. 13 phr 1, al. 14 et 15
+	  - Décret n°2016-408 du 5 avril 2016 - art. 1
 
 	**Cité par**:
 
@@ -30113,23 +30125,23 @@ et jouissant de leurs droits civiques.
 
 ###### Article D222-2
 
-Les membres du conseil d'administration autres que les représentants des ministres sont nommés pour trois ans par décret pris
-sur proposition des ministres chargés des forêts et de l'environnement. Le représentant du Premier ministre et les
-représentants des ministres sont nommés pour trois ans par arrêté. 
+Les membres du conseil d'administration autres que ceux mentionnés aux 3° à 9° de l'article D. 222-1 sont nommés pour cinq
+ans par arrêté des ministres chargés des forêts et de l'environnement. Le représentant du Premier ministre est nommé pour
+cinq ans par arrêté.
 
 Les représentants des personnels de droit privé sont désignés par les organisations syndicales représentatives, à partir des
 résultats obtenus aux dernières élections aux comités régionaux d'établissement, selon la méthode de la représentation
-proportionnelle au plus fort reste. 
+proportionnelle au plus fort reste.
 
 Les représentants des personnels de droit public sont désignés par les organisations syndicales représentatives, à partir des
 résultats obtenus aux dernières élections aux commissions administratives paritaires, selon la méthode de la représentation
-proportionnelle au plus fort reste. 
+proportionnelle au plus fort reste.
 
 Le représentant des personnels d'encadrement est désigné par l'organisation syndicale ayant recueilli le plus de suffrages
-lors des élections aux commissions administratives paritaires des personnels d'encadrement 
+lors des élections aux commissions administratives paritaires des personnels d'encadrement
 
 S'ils cessent d'exercer leurs fonctions pour quelque cause que ce soit, il est pourvu à leur remplacement pour la période
-restant à courir jusqu'à l'expiration de leur mandat. Le mandat des membres sortants peut être renouvelé. 
+restant à courir jusqu'à l'expiration de leur mandat. Le mandat des membres sortants peut être renouvelé.
 
 Le mandat des membres du conseil d'administration est personnel ; toutefois, chacun des membres du conseil, à l'exception de
 ceux mentionnés aux 2° et 15° de l'article D. 222-1 peut se faire représenter par un suppléant désigné dans les mêmes
@@ -30141,18 +30153,13 @@ conditions.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R122-1 (Ab), phr 2 al. 11, al. 12, al. 13
-	  - Code forestier - art. R122-2 (Ab), al. 1, al. 2, al. 3
+	  - Décret n°2016-408 du 5 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. D222-1 (V)
+	  - Code forestier (nouveau) - art. D222-1
 
 
 ###### Article D222-3
