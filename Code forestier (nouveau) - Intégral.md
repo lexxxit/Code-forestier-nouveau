@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-04-08
+Version Consolidée au 2016-04-17
 
 # Partie législative
 
@@ -34856,8 +34856,8 @@ répondant aux conditions énoncées au présent article, celles-ci seront inclu
 ###### Article R312-7
 
 Le projet de plan simple de gestion est adressé par le propriétaire au centre régional de la propriété forestière dont il
-relève. Celui-ci le transmet au commissaire du Gouvernement, deux mois au moins avant la séance du conseil d'administration
-au cours de laquelle il sera examiné.
+relève. Celui-ci le transmet au commissaire du Gouvernement, deux mois au moins avant la séance du conseil   au cours de
+laquelle il sera examiné.
 
 **Liens relatifs à cet article**
 
@@ -34865,18 +34865,14 @@ au cours de laquelle il sera examiné.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
 	**Cité par**:
 
 	  - Décret n°2014-1296 du 23 octobre 2014 - art. (VD)
 	  - Code forestier (nouveau) - art. D313-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code forestier - art. R222-8 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 1
 
 
 ###### Article R312-8
@@ -37589,22 +37585,9 @@ prévus au premier alinéa de l'article R. 321-43.
 
 ###### Article R321-46
 
-La liste électorale prévue à l'article R. 321-44 est établie pour chaque département par une commission régionale constituée
-par arrêté du préfet de région où le centre a son siège, publié au recueil des actes administratifs de la préfecture de
-région, et qui comprend : 
-
-1° Le préfet de région ou son représentant, président ; 
-
-2° Le directeur régional de l'alimentation, de l'agriculture et de la forêt ou son représentant ; 
-
-3° Le directeur régional des finances publiques ou son représentant ; 
-
-4° Un conseiller du centre régional de la propriété forestière désigné par le conseil du centre régional ; 
-
-5° Le directeur du centre régional ou son représentant, qui assure en outre le secrétariat de la commission. 
-
-Celle-ci se réunit sur convocation de son président dans les conditions fixées par l'arrêté qui la constitue. Elle peut
-entendre toute personne dont l'audition lui paraît nécessaire.
+La liste électorale prévue à l'article R. 321-44 est établie, pour chaque département, par le centre régional de la propriété
+forestière, à partir du fichier cadastral et des documents de gestion mentionnés à l'article L. 122-3. Le centre adresse
+copie de cette liste au préfet de région.
 
 **Liens relatifs à cet article**
 
@@ -37612,57 +37595,31 @@ entendre toute personne dont l'audition lui paraît nécessaire.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-11 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-44 (V)
+	  - Code forestier (nouveau) - art. L122-3
+	  - Code forestier (nouveau) - art. R321-44
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. R321-47 (V)
-	  - Code forestier (nouveau) - art. R321-51 (M)
+	  - Code forestier (nouveau) - art. R321-51 (V)
 
 
 ###### Article R321-47
 
-Le centre régional de la propriété forestière prépare les listes électorales départementales en fonction des informations
-dont il dispose et les transmet à la commission régionale prévue à l'article R. 321-46 avant le 1er janvier de l'année
-précédant les élections. 
+Avant le 31 mai de l'année précédant les élections, le centre régional de la propriété forestière informe les propriétaires
+forestiers concernés de l'établissement de la liste électorale et tient le projet de liste de chaque département à leur
+disposition. 
 
-Avant le 31 janvier : 
+Les demandes formées en application de l'article R. 321-49 doivent être adressées au centre au plus tard le 30 juin. 
 
-1° Le centre régional met le projet de liste électorale de chaque département à la disposition des électeurs dans ses locaux
-et sur son site internet ; 
-
-2° La commission régionale fait également mettre à disposition des électeurs chaque projet de liste électorale départementale
-à la préfecture, dans les sous-préfectures et à la chambre d'agriculture du département concerné ; 
-
-3° La commission régionale fait établir un avis informant de l'ouverture et du déroulement de la procédure d'établissement de
-la liste électorale départementale pour l'élection des conseillers du centre régional de la propriété forestière, qui précise
-les lieux où le projet de liste peut être consulté, la période et les modalités de dépôt des demandes d'inscription et de
-rectification ; elle le fait afficher dans tous les lieux énumérés ci-dessus où le projet de liste est mis à disposition du
-public, ainsi que dans chaque mairie du département concerné. 
-
-Avant le 31 mars, les demandes d'inscription et de rectification prévues à l'article R. 321-49 doivent parvenir à la
-commission régionale, qui dresse sans délai un projet rectifié de liste électorale pour chaque département, après examen des
-demandes d'inscription reçues et des rectifications proposées, en modifiant en conséquence le projet initial. Elle rectifie
-notamment les inscriptions multiples d'une même personne sur la liste électorale lorsqu'elles sont contraires aux
-dispositions de l'article R. 321-43. 
-
-Avant le 20 avril, la commission régionale notifie aux auteurs des demandes d'inscription ou de rectification les décisions
-qu'elle a prises en réponse. Chaque projet rectifié de liste électorale est mis à disposition du public aux mêmes lieux et
-dans les mêmes conditions que le projet de liste initial. 
-
-Jusqu'au 10 juin, d'éventuelles réclamations tendant à la modification des projets rectifiés des listes électorales ou des
-décisions de la commission peuvent, dans les conditions mentionnées à l'article R. 321-48, être adressées au préfet de région
-par tout moyen permettant d'établir date certaine.
+Le centre régional de la propriété forestière informe le préfet de région de la mise en œuvre de la procédure d'établissement
+des listes électorales prévue au présent article.
 
 **Liens relatifs à cet article**
 
@@ -37670,50 +37627,48 @@ par tout moyen permettant d'établir date certaine.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-12 (Ab), al. 1 à al. 8
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-43 (V)
-	  - Code forestier (nouveau) - art. R321-46 (V)
+	  - Code forestier (nouveau) - art. R321-43
+	  - Code forestier (nouveau) - art. R321-46
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. R321-48 (V)
 	  - Code forestier (nouveau) - art. R321-49 (V)
-	  - Code forestier (nouveau) - art. R321-51 (M)
+	  - Code forestier (nouveau) - art. R321-51 (V)
 
 
 ###### Article R321-48
 
-Après la date mentionnée au huitième alinéa de l'article R. 321-47, toute personne remplissant les conditions d'inscription
-sur la liste électorale ou habilitée à représenter une personne morale ou une indivision remplissant ces conditions dans le
-département peut faire une demande ou une réclamation tendant à inscrire un électeur omis, à radier un électeur inscrit à
-tort ou à rectifier d'autres erreurs des projets de liste électorale. Les demandes d'inscription comportent les indications
-et sont accompagnées des documents prévus à l'article R. 321-49. 
+Après le 30 juin, toute personne remplissant les conditions d'inscription sur la liste électorale ou habilitée à représenter
+une personne morale ou une indivision remplissant ces conditions dans le département peut faire une réclamation tendant à
+inscrire un électeur omis, à radier un électeur inscrit à tort ou à rectifier d'autres erreurs des projets de liste
+électorale. Les demandes d'inscription comportent les indications et sont accompagnées des documents prévus à l'article R.
+321-49. 
 
-La commission peut exiger des intéressés toute pièce de nature à justifier de leur qualité pour être inscrit sur la liste
-électorale et peut également, de sa propre initiative, modifier la liste électorale. 
+Le centre régional de la propriété forestière peut exiger des intéressés toute pièce de nature à justifier de leur qualité
+pour être inscrit sur la liste électorale et peut également, de sa propre initiative, modifier la liste électorale. Il en
+informe le préfet de région. 
 
-Lorsque, par suite d'une demande, d'une réclamation ou d'office, elle refuse d'inscrire ou radie un propriétaire ou le
-représentant d'une personne morale ou d'une indivision pour d'autres causes que le décès, cette décision est notifiée dans
-les quatre jours à l'intéressé par tout moyen permettant d'établir date certaine. Cette notification précise les motifs de la
-décision et informe l'intéressé, si la décision est relative à une modification du projet de liste initial, qu'il peut faire
-une réclamation au préfet de région jusqu'au 10 juin ou, si elle est relative au projet de liste rectifié, qu'il a quatre
-jours pour présenter ses observations. 
+Dans le cas où le centre régional refuse d'inscrire ou radie un propriétaire ou le représentant d'une personne morale ou
+d'une indivision pour d'autres causes que le décès, cette décision motivée est notifiée dans les meilleurs délais à
+l'intéressé par tout moyen permettant d'établir date certaine. L'intéressé peut faire une réclamation auprès du centre
+régional jusqu'au 10 septembre. Le centre régional en informe le préfet de région.
 
-Avant le 30 juin, après examen des réclamations, notification à leur auteur de la réponse apportée et examen des éventuelles
-observations des réclamants, la commission arrête la liste électorale de chaque département qui est déposée, à la diligence
-du préfet de région, au bureau des élections de chaque préfecture et aux sièges respectifs du centre régional de la propriété
-forestière et de la chambre départementale d'agriculture. L'accomplissement de cette formalité est annoncé par affiches
-apposées à la préfecture, dans les sous-préfectures, dans chaque mairie, au siège du centre régional de la propriété
-forestière et au siège de la chambre départementale d'agriculture. 
+Avant le 30 septembre, après examen des réclamations, notification à leur auteur de la réponse apportée et examen des
+éventuelles observations des réclamants, le centre régional de la propriété forestière établit la liste électorale de chaque
+département et l'envoie au préfet de région qui arrête la liste électorale de chaque département avant le 30 octobre. Cette
+liste est déposée aux sièges respectifs de la direction régionale de l'alimentation, de l'agriculture et de la forêt, du
+centre régional de la propriété forestière et de la chambre départementale d'agriculture. Le préfet de région informe les
+électeurs du dépôt des listes électorales, par voie d'affiches apposées aux sièges de la direction régionale de
+l'alimentation, de l'agriculture et de la forêt, du centre régional de la propriété forestière et de la chambre
+départementale de l'agriculture, par mise en ligne sur le site internet du Centre national de la propriété forestière et, le
+cas échéant, par tout autre moyen. 
 
 La liste électorale peut être consultée sans frais, dans les lieux où elle a été déposée en application de l'alinéa
 précédent, par tout intéressé qui peut en prendre copie, à ses frais, à condition de s'engager à ne pas en faire un usage
@@ -37725,17 +37680,13 @@ commercial, conformément aux dispositions de l'article R. 16 du code électoral
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code électoral - art. R16 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-12 (Ab), al. 9 à al. 13
+	  - Code électoral - art. R*16
 
 	**Cité par**:
 
@@ -37754,7 +37705,7 @@ I. ― Toute personne qui sollicite :
 2° Soit la mention de son nom sur la liste électorale en tant que représentant d'une indivision ou en tant que représentant
 d'une personne morale dont il n'est pas le représentant légal, 
 
-adresse une demande écrite, dans le délai mentionné au sixième alinéa de l'article R. 321-47, au service désigné par le
+adresse une demande écrite, dans le délai mentionné au deuxième alinéa de l'article R. 321-47, au service désigné par le
 préfet de région et mentionné dans l'avis prévu au cinquième alinéa du même article. 
 
 II. ― L'intéressé indique dans cette demande datée et signée : 
@@ -37802,46 +37753,33 @@ de liste électorale peuvent être faites par message électronique si l'avis me
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-13 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. R321-47 (V)
-
-	**Cite**:
-
 	  - Code forestier (nouveau) - art. R321-48 (V)
 
 
 ###### Article R321-50
 
-Dans les dix jours qui suivent l'affichage prévu au quatrième alinéa de l'article R. 321-48, le préfet, les réclamants et les
-personnes intéressées par les décisions de la commission régionale peuvent saisir le tribunal d'instance dans le ressort
-duquel la commission a son siège. 
+Jusqu'au 10 novembre de l'année précédent le scrutin, les réclamants et les personnes intéressées peuvent saisir le tribunal
+d'instance dans le ressort duquel la direction régionale de l'alimentation, de l'agriculture et de la forêt a son siège. 
 
-Le tribunal d'instance statue dans les dix jours de sa saisine sans forme de procédure, après convocation des intéressés par
-simple lettre du secrétaire-greffier. 
+Le tribunal d'instance est saisi par déclaration faite, remise ou adressée au greffe. Il statue sans frais ni forme et sur
+avertissement donné trois jours à l'avance à toutes les parties intéressées, dans les dix jours du recours. 
 
-Toutefois, si la demande soumise au tribunal d'instance pose une question préjudicielle, le tribunal renvoie les parties à se
-pourvoir devant le tribunal compétent, conformément aux dispositions du code de procédure civile. 
+La décision prise par le tribunal d'instance est notifiée dans les trois jours par le greffe aux personnes intéressées et au
+préfet de région, par lettre recommandée avec demande d'avis de réception. Le préfet de région en informe le centre régional
+de la propriété forestière. 
 
-Le secrétaire-greffier du tribunal d'instance adresse, dans les deux jours, copie de la décision au président de la
-commission régionale et, par tout moyen permettant d'établir date certaine, aux parties. 
+La décision du tribunal d'instance n'est pas susceptible d'appel, ni d'opposition. 
 
-La décision du tribunal d'instance n'est susceptible ni d'opposition ni d'appel, mais elle peut être déférée à la Cour de
-cassation. 
-
-Le pourvoi est soumis aux dispositions des articles 999 à 1008 du code de procédure civile. 
-
-Le greffier de la Cour de cassation transmet copie de l'arrêt au président de la commission régionale. 
-
-La liste électorale est rectifiée, s'il y a lieu, en application des décisions de l'autorité judiciaire.
+Le pourvoi en cassation est formé, instruit et jugé dans les conditions prévues par les articles 999 à 1008 du code de
+procédure civile. Le greffe de la Cour de cassation transmet copie de l'arrêt au préfet de région, qui en informe le centre
+régional de la propriété forestière.
 
 **Liens relatifs à cet article**
 
@@ -37849,38 +37787,21 @@ La liste électorale est rectifiée, s'il y a lieu, en application des décision
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 999 (V)
-	  - Code forestier (nouveau) - art. R321-48 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-14 (Ab)
-	  - Code forestier - art. R221-15 (Ab)
+	  - Code de procédure civile - art. 999
+	  - Code forestier (nouveau) - art. R321-48
 
 
 ###### Article R321-51
 
-Par dérogation aux dispositions des articles R. 321-43, R. 321-44, R. 321-47, R. 321-48 et R. 321-57, les propriétaires
-forestiers des départements des Yvelines, de l'Essonne, des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et du
-Val-d'Oise forment ensemble un seul collège électoral, qui est assimilé à un collège départemental pour tout ce qui concerne
-l'élection des conseillers du centre régional de la propriété forestière d'Ile-de-France-Centre. Dans ces départements : 
-
-1° La commission mentionnée à l'article R. 321-46 établit une liste électorale unique pour l'ensemble de ces départements.
-Cette liste interdépartementale est assimilée à une liste départementale, notamment pour l'application des trois derniers
-alinéas de l'article R. 321-65. Le projet de liste électorale est mis à la disposition des électeurs à la préfecture et dans
-les sous-préfectures de chacun de ces départements et à la chambre interdépartementale d'agriculture d'Ile-de-France ; 
-
-2° Les votes sont adressés à la préfecture des Yvelines. Pour le dépouillement du scrutin, la commission prévue à l'article
-R. 321-57 est remplacée par une commission composée du préfet et du directeur des services déconcentrés du ministère chargé
-des forêts dans le département des Yvelines, ou de leurs représentants, et de deux membres, désignés par le préfet des
-Yvelines, parmi les propriétaires forestiers ou représentants des personnes morales et indivisions membres du collège
-interdépartemental, autres que les candidats.
+Par dérogation aux dispositions des articles R. 321-43 et R. 321-44, les propriétaires forestiers des départements des
+Yvelines, de l'Essonne, des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et du Val-d'Oise constituent un seul
+collège électoral départemental. Cette liste interdépartementale est assimilée à une liste départementale.
 
 **Liens relatifs à cet article**
 
@@ -37888,21 +37809,17 @@ interdépartemental, autres que les candidats.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-23 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-43 (V)
-	  - Code forestier (nouveau) - art. R321-44 (V)
+	  - Code forestier (nouveau) - art. R321-43
+	  - Code forestier (nouveau) - art. R321-44
 	  - Code forestier (nouveau) - art. R321-46 (V)
 	  - Code forestier (nouveau) - art. R321-47 (V)
-	  - Code forestier (nouveau) - art. R321-48 (V)
+	  - Code forestier (nouveau) - art. R321-48
 	  - Code forestier (nouveau) - art. R321-57 (V)
 	  - Code forestier (nouveau) - art. R321-65 (V)
 
@@ -37916,15 +37833,16 @@ interdépartemental, autres que les candidats.
 
 ###### Article R321-52
 
-Les collèges départementaux élisent les administrateurs au scrutin uninominal majoritaire à un tour, dans le courant des six
+Les collèges départementaux élisent les conseillers au scrutin uninominal majoritaire à un tour, dans le courant des six
 premiers mois de l'année du renouvellement général des conseils des centres régionaux, à une date fixée par arrêté du
 ministre chargé des forêts.
 
-En même temps que chaque administrateur titulaire et dans les mêmes conditions est élu un suppléant, appelé à le remplacer,
-en cas d'empêchement, et à lui succéder dans le cas où il cesserait d'exercer ses fonctions par suite de décès ou de
-démission volontaire ou d'office, survenant avant l'expiration normale de son mandat.
+En même temps que chaque conseiller titulaire et dans les mêmes conditions est élu un suppléant, appelé à le remplacer, en
+cas d'empêchement, et à lui succéder dans le cas où il cesserait d'exercer ses fonctions par suite de décès ou de démission
+volontaire ou d'office, survenant avant l'expiration normale de son mandat.
 
-Le vote a lieu par correspondance adressée au préfet suivant des modalités fixées par arrêté du ministre chargé des forêts.
+Le vote a lieu par correspondance adressée au préfet de région suivant des modalités fixées par arrêté du ministre chargé des
+forêts.
 
 **Liens relatifs à cet article**
 
@@ -37932,13 +37850,9 @@ Le vote a lieu par correspondance adressée au préfet suivant des modalités fi
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-16 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cité par**:
 
@@ -37948,13 +37862,12 @@ Le vote a lieu par correspondance adressée au préfet suivant des modalités fi
 
 ###### Article R321-53
 
-Les fonctions d'administrateur titulaire ou suppléant d'un centre régional élu par le collège départemental sont
-incompatibles : 
+Les fonctions de conseiller titulaire ou suppléant d'un centre régional élu par le collège départemental sont incompatibles :
 
 1° Dans le ressort de ce centre, avec les fonctions de membre d'une chambre d'agriculture élu en application des 1 à 5 de
-l'article R. 511-6 du code rural et de la pêche maritime ; 
+l'article R. 511-6 du code rural et de la pêche maritime ;
 
-2° Avec les fonctions d'administrateur titulaire ou suppléant d'un autre centre régional.
+2° Avec les fonctions de conseiller titulaire ou suppléant d'un autre centre régional.
 
 **Liens relatifs à cet article**
 
@@ -37962,17 +37875,13 @@ l'article R. 511-6 du code rural et de la pêche maritime ;
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code rural - art. R511-6 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-18 (Ab), al. 1, al. 2, al. 3
+	  - Code rural - art. R*511-6
 
 	**Cité par**:
 
@@ -38028,17 +37937,17 @@ Les suppléants doivent remplir les mêmes conditions que les candidats.
 
 ###### Article R321-55
 
-Tout candidat à un mandat d'administrateur établit une déclaration mentionnant : 
+Tout candidat à un mandat de conseiller établit une déclaration mentionnant :
 
-1° Ses nom et prénoms ; 
+1° Ses nom et prénoms ;
 
-2° Ses date et lieu de naissance ; 
+2° Ses date et lieu de naissance ;
 
-3° Sa profession et son adresse ; 
+3° Sa profession et son adresse ;
 
-4° Le cas échéant, les propriétaires indivis ou la personne morale dont il est le représentant ; 
+4° Le cas échéant, les propriétaires indivis ou la personne morale dont il est le représentant ;
 
-5° La catégorie mentionnée au a du 1° de l'article L. 321-7 au titre de laquelle il présente sa candidature. 
+5° La catégorie mentionnée au a du 1° de l'article L. 321-7 au titre de laquelle il présente sa candidature.
 
 Le candidat affirme sur l'honneur qu'il satisfait aux conditions énoncées aux 1°, 2°, 4° ou 5° de l'article R. 321-54. 
 
@@ -38061,23 +37970,15 @@ qualité de titulaire ou de suppléant.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2012-836 du 29 juin 2012 - art., v. init.
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-19 (Ab), sauf al. 4
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L122-3 (V)
-	  - Code forestier (nouveau) - art. L321-7 (V)
-	  - Code forestier (nouveau) - art. R321-54 (V)
+	  - Code forestier (nouveau) - art. L122-3
+	  - Code forestier (nouveau) - art. L321-7
+	  - Code forestier (nouveau) - art. R321-54
 
 	**Cité par**:
 
@@ -38088,12 +37989,12 @@ qualité de titulaire ou de suppléant.
 
 Les déclarations de candidature sont déposées à la préfecture de région où le centre à son siège au moins soixante jours
 avant la date de l'élection. Lorsque ce délai se termine un dimanche ou un jour férié, il est prolongé jusqu'au premier jour
-ouvrable suivant. 
+ouvrable suivant.
 
 Il est donné au déposant un reçu de déclaration n'impliquant pas que celle-ci est réglementairement recevable. 
 
 Le préfet de région rejette les déclarations déposées hors délai ou non conformes aux dispositions des articles R. 321-54 et
-R. 321-55 dans un délai de cinq jours. Il transmet alors aux préfets des départements la liste des déclarations recevables.
+R. 321-55 dans un délai de cinq jours.
 
 **Liens relatifs à cet article**
 
@@ -38101,21 +38002,13 @@ R. 321-55 dans un délai de cinq jours. Il transmet alors aux préfets des dépa
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2012-836 du 29 juin 2012 - art., v. init.
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-20 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-54 (V)
+	  - Code forestier (nouveau) - art. R321-54
 
 	**Cité par**:
 
@@ -38125,16 +38018,8 @@ R. 321-55 dans un délai de cinq jours. Il transmet alors aux préfets des dépa
 ###### Article R321-57
 
 A la date fixée par l'arrêté ministériel prévu à l'article R. 321-52, il est procédé publiquement au dépouillement des
-bulletins de vote par une commission de recensement des votes instituée par arrêté du préfet, et comprenant : 
-
-1° Le préfet ou son représentant, président ; 
-
-2° Le directeur départemental des territoires ou son représentant ; 
-
-3° Deux membres désignés par le préfet parmi les propriétaires forestiers ou représentants des personnes morales et
-indivisions, membres du collège départemental, autres que les candidats. 
-
-La commission désigne des scrutateurs parmi les électeurs présents.
+bulletins de vote par le préfet de région ou son représentant, le président du centre régional de la propriété forestière ou
+son représentant et des scrutateurs désignés par le préfet de région ou son représentant, parmi les électeurs présents.
 
 **Liens relatifs à cet article**
 
@@ -38142,31 +38027,26 @@ La commission désigne des scrutateurs parmi les électeurs présents.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-21 (Ab), al. 1 à al. 4, al. 5 phr 1
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cité par**:
 
-	  - Code forestier (nouveau) - art. R321-51 (M)
+	  - Code forestier (nouveau) - art. R321-51 (V)
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-52 (V)
+	  - Code forestier (nouveau) - art. R321-52
 
 
 ###### Article R321-58
 
 L'élection d'un candidat aux fonctions de conseiller a lieu à la majorité relative des suffrages exprimés. En cas d'égalité
-de suffrages, le candidat le plus âgé est déclaré élu.
+de suffrages, le candidat le plus jeune est déclaré élu. 
 
-Le président de la commission de recensement des votes proclame les résultats du scrutin, dresse en double exemplaire le
-procès-verbal des opérations et le fait signer par les scrutateurs. Le préfet en adresse un exemplaire au ministre chargé des
-forêts.
+Le préfet de région proclame les résultats du scrutin, dresse en double exemplaire le procès-verbal des opérations et le fait
+signer par les scrutateurs. Le préfet en adresse un exemplaire au ministre chargé des forêts.
 
 **Liens relatifs à cet article**
 
@@ -38174,13 +38054,9 @@ forêts.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-22 (Ab), al. 1, al. 3
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 
 ###### Article R321-59
@@ -38226,20 +38102,21 @@ fait appel à son suppléant pour siéger au conseil d'administration de ce cent
 ###### Article R321-60
 
 Tout électeur peut contester devant la juridiction administrative la régularité des opérations électorales du département
-dans lequel il est inscrit. 
+dans lequel il est inscrit.
 
 Les réclamations doivent, à peine de nullité, être formées dans les cinq jours de la proclamation des résultats du scrutin.
-Elles peuvent être adressées au préfet qui les transmet, après délivrance d'un récépissé, au tribunal administratif. 
+Elles peuvent être adressées au préfet de région qui les transmet, après délivrance d'un récépissé, au tribunal
+administratif.
 
 Si le préfet estime que les formes et conditions légalement prescrites n'ont pas été respectées, il peut également, dans les
-quinze jours de l'élection, déférer les opérations électorales au tribunal administratif. 
+quinze jours de l'élection, déférer les opérations électorales au tribunal administratif.
 
-Le tribunal administratif statue d'urgence. 
+Le tribunal administratif statue d'urgence.
 
-Dans les départements mentionnés à l'article R. 321-51, pour l'application du présent article : 
+Dans les départements mentionnés à l'article R. 321-51, pour l'application du présent article :
 
 1° Tout électeur inscrit sur la liste électorale interdépartementale peut contester la régularité des opérations électorales
-de cette circonscription interdépartementale ; 
+de cette circonscription interdépartementale ;
 
 2° Le tribunal administratif compétent est celui de Versailles.
 
@@ -38249,17 +38126,13 @@ de cette circonscription interdépartementale ;
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-24 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-51 (V)
+	  - Code forestier (nouveau) - art. R321-51
 
 	**Cité par**:
 
@@ -38331,32 +38204,22 @@ Ces organisations doivent :
 
 ###### Article R321-63
 
-Au cours de l'année précédant celle de l'élection : 
+Au cours de l'année précédant celle de l'élection :
 
-1° Est constituée, avant le 1er septembre, par le préfet de région où le centre régional a son siège, une commission qui
-comprend : 
-
-a) Le préfet de région ou son représentant, président ; 
-
-b) Deux conseillers du centre régional désignés par le préfet de région sur proposition du conseil du centre. Le directeur du
-centre assure le secrétariat de la commission. Dès que celle-ci est constituée, sa composition est affichée à la préfecture
-de région où le centre régional a son siège ; 
-
-2° Avant le 1er octobre, chaque organisation désirant participer au scrutin adresse à la commission une demande
-d'inscription. Cette demande précise la nature et le champ d'action de l'organisation, la date de sa fondation, la
-composition de son conseil d'administration ou de l'organe qui en tient lieu, le nombre de ses adhérents ayant payé leur
-cotisation pour l'année précédente et la surface totale des bois et forêts appartenant à ces adhérents. Elle est accompagnée
-du texte des statuts, de l'extrait des comptes des deux dernières années civiles et de l'indication du taux et du montant des
-cotisations effectivement encaissées pendant cette période. 
+1° Avant le 1er octobre, chaque organisation désirant participer au scrutin adresse au préfet de région où le centre régional
+a son siège une demande d'inscription. Cette demande précise la nature et le champ d'action de l'organisation, la date de sa
+fondation, la composition de son conseil d'administration ou de l'organe qui en tient lieu, le nombre de ses adhérents ayant
+payé leur cotisation pour l'année précédente et la surface totale des bois et forêts appartenant à ces adhérents. Elle est
+accompagnée du texte des statuts, de l'extrait des comptes des deux dernières années civiles et de l'indication du taux et du
+montant des cotisations effectivement encaissées pendant cette période.
 
 Si l'organisation comprend des collectivités locales et des personnes morales mentionnées à l'article L. 211-1, les
 renseignements relatifs au nombre de ces adhérents, aux cotisations qu'ils ont versées et aux surfaces qu'ils possèdent sont
 distingués de ceux concernant les propriétaires particuliers ; 
 
-3° Avant le 15 octobre, la commission dresse la liste des organisations admises à prendre part à l'élection et fixe le nombre
-de voix attribuées à chacune d'elles en application de l'article R. 321-64. Le préfet de région du siège du centre fait
-immédiatement afficher la liste ainsi établie et notifie à chaque organisation ayant présenté une demande d'inscription la
-décision à son égard.
+2 ° Avant le 15 octobre, le préfet de région dresse la liste des organisations admises à prendre part à l'élection et fixe le
+nombre de voix attribuées à chacune d'elles en application de l'article R. 321-64. Il fait immédiatement afficher la liste
+ainsi établie et notifie à chaque organisation ayant présenté une demande d'inscription la décision à son égard.
 
 **Liens relatifs à cet article**
 
@@ -38364,24 +38227,20 @@ décision à son égard.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 19 mai 2016 - art. 5 (V)
 	  - Arrêté du 19 mai 2016 - art. 7 (V)
-	  - Code forestier (nouveau) - art. R321-65 (M)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-27 (Ab)
+	  - Code forestier (nouveau) - art. R321-65 (V)
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L211-1 (V)
-	  - Code forestier (nouveau) - art. R321-64 (V)
+	  - Code forestier (nouveau) - art. L211-1
+	  - Code forestier (nouveau) - art. R321-64
 
 
 ###### Article R321-64
@@ -38430,17 +38289,16 @@ Le nombre V est arrondi à l'entier le plus proche.
 ###### Article R321-65
 
 Les réclamations contre l'établissement de la liste électorale des organisations professionnelles peuvent être formées par
-les organisations ayant déposé une demande d'inscription, ou par tout adhérent de l'une d'elles, dans les cinq jours de
+les organisations ayant déposé une demande d'inscription, ou par tout adhérent de l'une d'elles, dans les cinq jours suivant
 l'affichage de cette liste. 
 
-Ces réclamations sont adressées, par tout moyen permettant d'établir date certaine, à la commission prévue à l'article R.
-321-63 et sont réglées par celle-ci dans les quinze jours de leur réception. 
+Ces réclamations sont adressées au préfet de région, qui se prononce dans un délai de quinze jours. 
 
-Les décisions de la commission sont notifiées, dans les trois jours, aux réclamants. Elles peuvent être, dans les dix jours
-de l'envoi de cette notification, déférées par les réclamants au ministre chargé des forêts qui statue dans la quinzaine. 
+Les décisions du préfet peuvent, dans les dix jours de leur notification, être contestées par les réclamants devant le
+ministre chargé des forêts, qui dispose d'un délai de quinze jours pour se prononcer. 
 
-La liste électorale, rectifiée s'il y a lieu en vertu des décisions de la commission et du ministre, est arrêtée par le
-préfet de région du siège du centre le 15 décembre de l'année précédant celle de l'élection.
+La liste électorale, rectifiée s'il y a lieu en vertu des décisions du préfet ou du ministre, est arrêtée par le préfet de
+région du siège du centre au plus tard le 15 décembre de l'année précédant celle de l'élection.
 
 **Liens relatifs à cet article**
 
@@ -38448,17 +38306,13 @@ préfet de région du siège du centre le 15 décembre de l'année précédant c
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-29 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cité par**:
 
-	  - Code forestier (nouveau) - art. R321-51 (M)
+	  - Code forestier (nouveau) - art. R321-51 (V)
 
 	**Cite**:
 
@@ -38467,9 +38321,9 @@ préfet de région du siège du centre le 15 décembre de l'année précédant c
 
 ###### Article R321-66
 
-Les collèges régionaux élisent les conseillers des centres régionaux et leurs suppléants au scrutin de liste majoritaire à un
-tour, trente jours après la date fixée par l'arrêté ministériel prévu à l'article R. 321-52 pour l'élection des conseillers
-par les collèges départementaux des propriétaires forestiers.
+Les collèges régionaux élisent les conseillers des centres régionaux et leurs suppléants au scrutin de liste à un tour, avec
+représentation proportionnelle au plus fort reste, trente jours après la date fixée par l'arrêté ministériel prévu à
+l'article R. 321-52 pour l'élection des conseillers par les collèges départementaux des propriétaires forestiers.
 
 **Liens relatifs à cet article**
 
@@ -38477,21 +38331,17 @@ par les collèges départementaux des propriétaires forestiers.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 19 mai 2016 - art. 4 (V)
 
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-30 (Ab)
-
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-52 (V)
+	  - Code forestier (nouveau) - art. R321-52
 
 
 ###### Article R321-67
@@ -38530,19 +38380,19 @@ des dispositions prévues à l'article R. 321-59.
 
 ###### Article R321-68
 
-Les listes de candidatures sont déposées, vingt jours au moins avant la date du scrutin, auprès de la commission prévue à
-l'article R. 321-60. Il en est accusé réception par écrit. 
+Les listes de candidatures sont déposées, vingt jours au moins avant la date du scrutin, auprès du préfet de région. Il en
+est accusé réception par écrit.
 
-Toute liste comprend autant de candidats administrateurs qu'il y a de postes à pourvoir et associe à chacun de ces candidats
-un candidat suppléant. 
+Toute liste comprend autant de candidats conseillers qu'il y a de postes à pourvoir et associe à chacun de ces candidats un
+candidat suppléant. 
 
-A l'appui de la liste sur laquelle ils figurent, chaque candidat administrateur et chaque candidat suppléant fournissent
-ensemble la déclaration de candidature, la déclaration sur l'honneur et le certificat établi par le centre régional de la
-propriété forestière ou par la direction départementale des territoires, conformément aux articles R. 321-55 et R. 321-67. 
+A l'appui de la liste sur laquelle ils figurent, chaque candidat conseiller et chaque candidat suppléant fournissent ensemble
+la déclaration de candidature, la déclaration sur l'honneur et le certificat, conformément aux articles R. 321-55 et R.
+321-67.
 
-La commission vérifie que les listes de candidatures sont établies et présentées conformément aux prescriptions du présent
-article et que les candidats administrateurs et suppléants remplissent les conditions d'eligibilité ; elle enregistre les
-listes recevables. 
+le préfet de région vérifie que les listes de candidatures sont établies et présentées conformément aux prescriptions du
+présent article et que les candidats conseillers et suppléants remplissent les conditions d'eligibilité ; elle enregistre les
+listes recevables.
 
 Si une liste est déposée hors délai ou si elle ne satisfait pas aux dispositions du présent article, son enregistrement est
 refusé.
@@ -38553,36 +38403,32 @@ refusé.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 19 mai 2016 - art. 6 (V)
 	  - Code forestier (nouveau) - art. R321-75 (V)
 
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-32 (Ab)
-
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-55 (V)
-	  - Code forestier (nouveau) - art. R321-60 (V)
-	  - Code forestier (nouveau) - art. R321-67 (V)
+	  - Code forestier (nouveau) - art. R321-55
+	  - Code forestier (nouveau) - art. R321-60
+	  - Code forestier (nouveau) - art. R321-67
 
 
 ###### Article R321-69
 
 Le vote a lieu par correspondance adressée au préfet de région suivant des modalités fixées par arrêté du ministre chargé des
 forêts. Le panachage n'est pas autorisé. L'élection a lieu à la majorité relative des suffrages exprimés. Dans le cas où
-plusieurs listes obtiennent le même nombre de voix, celle comportant le candidat le plus âgé est proclamée élue.
+plusieurs listes obtiennent le même nombre de voix, celle comportant le candidat le plus jeune est proclamée élue. 
 
-Procès-verbal du dépouillement est dressé en double exemplaire et signé par le président, les membres de la commission et les
-scrutateurs. Le président de la commission de recensement des votes proclame les résultats du scrutin et les fait afficher à
-la préfecture de région et aux préfectures des départements intéressés. Le préfet de région transmet un exemplaire du procès-
-verbal au ministre chargé des forêts.
+Procès-verbal du dépouillement est dressé en double exemplaire et signé par le préfet de région ou son représentant et les
+scrutateurs. Le préfet de région proclame les résultats du scrutin et les fait afficher à la préfecture de région et aux
+préfectures des départements intéressés. Le préfet de région transmet un exemplaire du procès-verbal au ministre chargé des
+forêts.
 
 **Liens relatifs à cet article**
 
@@ -38590,13 +38436,9 @@ verbal au ministre chargé des forêts.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-33 (Ab), al. 1 phr 1 à 3, al. 2
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 
 ###### Article R321-70
@@ -38626,7 +38468,8 @@ d'urgence.
 ###### Article R321-71
 
 La durée du mandat des conseillers des centres régionaux de la propriété forestière est de six ans. Les conseillers sont
-rééligibles.
+rééligibles. Les conseillers des centres régionaux de la propriété forestière restent en fonctions jusqu'à l'élection des
+nouveaux conseillers.
 
 **Liens relatifs à cet article**
 
@@ -38634,13 +38477,9 @@ rééligibles.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-35 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cité par**:
 
@@ -38903,8 +38742,8 @@ fixées par le conseil d'administration du centre national, par le président du
 
 ###### Article R321-82
 
-Les dispositions des articles R. 321-11, R. 321-13, R. 321-14 et R. 321-17 à R. 321-19 sont applicables aux conseils et aux
-conseillers des centres régionaux de la propriété forestière. 
+Les dispositions des articles R. 321-11, R. 321-13, R. 321-14 et R. 321-17 à    R. 321-20 sont applicables aux conseils et
+aux conseillers des centres régionaux de la propriété forestière. 
 
 Les dispositions de l'article R. 321-15 relatives à la limite d'âge du président du centre national sont applicables aux
 présidents des conseils des centres régionaux.
@@ -38915,21 +38754,17 @@ présidents des conseils des centres régionaux.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-58 (Ab)
+	  - Décret n°2016-472 du 14 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-11 (V)
-	  - Code forestier (nouveau) - art. R321-13 (V)
-	  - Code forestier (nouveau) - art. R321-14 (V)
-	  - Code forestier (nouveau) - art. R321-15 (V)
-	  - Code forestier (nouveau) - art. R321-17 (V)
+	  - Code forestier (nouveau) - art. R321-11
+	  - Code forestier (nouveau) - art. R321-13
+	  - Code forestier (nouveau) - art. R321-14
+	  - Code forestier (nouveau) - art. R321-15
+	  - Code forestier (nouveau) - art. R321-17
 
 
 ##### Sous-section 3 : Direction
