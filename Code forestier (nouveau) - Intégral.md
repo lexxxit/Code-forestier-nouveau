@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-04-17
+Version Consolidée au 2016-06-05
 
 # Partie législative
 
@@ -34766,17 +34766,51 @@ Le propriétaire fixe la durée d'application de ce plan, qui ne peut être inf�
 	  - Code forestier - art. R222-6 (Ab), al. 2
 
 
+###### Article R312-4-1
+
+I. – Le plan simple de gestion concerté mentionné à l'article L. 122-4 comprend : 
+
+1° Pour l'ensemble du périmètre concerné, les éléments prévus aux 1°, 2°, 3° et 6° de l'article R. 312-4 ; 
+
+2° Pour chacune des propriétés concernées, les éléments prévus aux 4°, 5° et 7° de l'article R. 312-4. Les programmes de
+coupes et de travaux de chaque propriétaire sont établis en cohérence entre eux et entre les différentes interventions ; 
+
+3° La liste des parcelles cadastrales appartenant à chaque propriétaire. 
+
+Les deux derniers alinéas de l'article R. 312-4 lui sont applicables. 
+
+II. – Dans le cas de la reconnaissance d'un groupement d'intérêt économique et environnemental forestier prévue au I de
+l'article L. 332-7, le plan simple de gestion concerté prévu par l'article L. 122-4 et dont le contenu est précisé au I du
+présent article, peut être élaboré en prenant notamment en compte, lorsqu'ils sont applicables à tout ou partie des parcelles
+concernées : 
+
+1° Les plans simples de gestion agréés ; 
+
+2° Les règlements types de gestion ; 
+
+3° Les codes des bonnes pratiques sylvicoles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-734 du 2 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L122-4 (V)
+	  - Code forestier (nouveau) - art. L332-7 (V)
+
+
 ###### Article R312-5
 
-Le plan simple de gestion doit être conforme au schéma régional de gestion sylvicole ainsi qu'aux prescriptions du deuxième
-alinéa de l'article L. 112-2 et, le cas échéant, au règlement approuvé en application de l'article L. 144-1. 
+Le plan simple de gestion et le plan simple de gestion concerté doivent être conformes au schéma régional de gestion
+sylvicole ainsi qu'aux prescriptions du deuxième alinéa de l'article L. 112-2 et, le cas échéant, au règlement approuvé en
+application de l'article L. 144-1.
 
 Les éléments obligatoires du contenu du plan simple de gestion et la liste des documents annexes indispensables à sa
 compréhension qui peuvent être exigés sont fixés par arrêté du ministre chargé des forêts, pris après avis du Centre national
-de la propriété forestière. 
-
-Lorsqu'un plan simple de gestion est présenté collectivement en application de l'article L. 122-4, il comporte la liste des
-parcelles cadastrales appartenant à chaque propriétaire.
+de la propriété forestière.
 
 **Liens relatifs à cet article**
 
@@ -34784,20 +34818,15 @@ parcelles cadastrales appartenant à chaque propriétaire.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R222-5 (Ab), al. 8 ecqc contenu, al. 9
-	  - Code forestier - art. R222-6 (Ab), al. 1
+	  - Décret n°2016-734 du 2 juin 2016 - art. 1
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L112-2 (V)
-	  - Code forestier (nouveau) - art. L122-4 (V)
-	  - Code forestier (nouveau) - art. L144-1 (V)
+	  - Code forestier (nouveau) - art. L112-2
+	  - Code forestier (nouveau) - art. L122-4
+	  - Code forestier (nouveau) - art. L144-1
 
 
 ##### Sous-section 3 : Modalités d'agrément
@@ -35375,6 +35404,22 @@ L'autorité administrative compétente de l'Etat mentionnée à l'article L. 312
 
 	  - Code forestier (nouveau) - art. L312-12 (V)
 
+
+#### Chapitre II : Plans simples de gestion et plan simple de gestion concerté
+
+##### Section 1 : Contenu et agrément du plan simple de gestion et du plan simple de gestion concerté
+
+##### Sous-section 1 : Critères d'application
+
+##### Sous-section 2 : Contenu
+
+##### Sous-section 3 : Modalités d'agrément
+
+##### Section 2 : Droits et obligations  résultant des plans simples de gestion
+
+##### Section 3 : Régime d'autorisation administrative
+
+##### Section 4 : Coupes illicites et coupes abusives
 
 #### Chapitre III : Règlements types de gestion  et codes des bonnes pratiques sylvicoles
 
@@ -39862,7 +39907,7 @@ rural et de la pêche maritime qui souhaite se voir reconnaître la qualité de 
 environnemental forestier dépose auprès du préfet de la région dans laquelle se situe son siège social un dossier de demande
 comprenant : 
 
-1° Le dossier de reconnaissance comme organisation de producteurs ; 
+1°  L'arrêté de reconnaissance comme organisation de producteurs ; 
 
 2° Une analyse économique, environnementale et sociale du territoire concerné ; 
 
@@ -39874,9 +39919,9 @@ comprenant :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-728 du 24 juin 2015 - art. 1
+	  - Décret n°2016-734 du 2 juin 2016 - art. 2
 
 	**Cite**:
 
@@ -39935,6 +39980,19 @@ laquelle se situe le siège social de cette organisation.
 	**Cite**:
 
 	  - Code forestier (nouveau) - art. L332-7
+
+
+###### Article R332-14-1
+
+Le  silence gardé par le préfet de région pendant un délai de quatre mois à  compter de la date de dépôt du dossier mentionné
+aux articles D. 332-14  et D. 332-17 vaut acceptation de la demande de reconnaissance de la  qualité de groupement d'intérêt
+économique et environnemental forestier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-734 du 2 juin 2016 - art. 2
 
 
 ### TITRE IV : DÉFRICHEMENTS
