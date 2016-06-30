@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-07-01
 
 # Partie législative
 
@@ -4244,10 +4244,10 @@ importations.
 
 ###### Article L153-5
 
-Outre les agents mentionnés aux 1° et 2° de l'article L. 161-4 du présent code, les fonctionnaires et agents énumérés à
-l'article L. 215-1 du code de la consommation sont habilités à exercer un contrôle à tous les stades de la récolte, de la
-production, du conditionnement et de la commercialisation des matériels forestiers de reproduction et à effectuer des
-recherches sur l'origine de ces matériels.
+Outre les agents mentionnés aux 1° et 2° de l'article L. 161-4 du présent code, les agents mentionnés à l'article L. 511-3 et
+L. 511-22 du code de la consommation sont habilités à exercer un contrôle à tous les stades de la récolte, de la production,
+du conditionnement et de la commercialisation des matériels forestiers de reproduction et à effectuer des recherches sur
+l'origine de ces matériels.
 
 **Liens relatifs à cet article**
 
@@ -4255,23 +4255,20 @@ recherches sur l'origine de ces matériels.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L215-1
-	  - Code forestier (nouveau) - art. L161-4 (VD)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L555-1 (VT)
+	  - Code de la consommation - art. L511-22 (V)
+	  - Code de la consommation - art. L511-3 (V)
+	  - Code forestier (nouveau) - art. L161-4
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. L153-6 (VD)
-	  - Code forestier (nouveau) - art. L163-17 (V)
+	  - Code forestier (nouveau) - art. L163-17 (VD)
 	  - Code forestier (nouveau) - art. R153-10 (V)
 	  - Code forestier (nouveau) - art. R153-25 (V)
 	  - Code forestier (nouveau) - art. R153-6 (V)
@@ -4280,12 +4277,12 @@ recherches sur l'origine de ces matériels.
 
 ###### Article L153-6
 
-Les agents mentionnés à l'article L. 215-1 du code de la consommation appliquent les dispositions du titre Ier du livre II du
-code de la consommation. 
+Les agents mentionnés aux articles L. 511-3 et L. 511-22 du code de la consommation disposent des pouvoirs mentionnés au I de
+l'article L. 511-22 du même code.
 
 Les autres agents mentionnés à l'article L. 153-5 peuvent, en outre, dans l'exercice de leurs fonctions, visiter les
 peuplements forestiers, pépinières forestières, locaux ou immeubles à usage professionnel, se faire présenter et saisir tous
-documents relatifs aux matériels contrôlés. 
+documents relatifs aux matériels contrôlés.
 
 Si l'accès leur est refusé, ils peuvent saisir l'autorité judiciaire dans les conditions mentionnées à l'article L. 206-1 du
 code rural et de la pêche maritime.
@@ -4296,19 +4293,16 @@ code rural et de la pêche maritime.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L215-1
-	  - Code rural - art. L206-1 (V)
-	  - Code forestier (nouveau) - art. L153-5 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L555-2 (VT)
+	  - Code de la consommation - art. L511-22 (V)
+	  - Code de la consommation - art. L511-3 (V)
+	  - Code rural - art. L206-1
+	  - Code forestier (nouveau) - art. L153-5
 
 
 ###### Article L153-7
@@ -6248,8 +6242,7 @@ amende de 150 euros par mètre carré fouillé.
 ###### Article L163-17
 
 Le fait de faire obstacle de quelque manière que ce soit à l'accomplissement de leurs fonctions par les agents mentionnés à
-l'article L. 153-5 est passible des peines prévues par les articles L. 213-1, L. 213-5 et L. 213-6 du code de la
-consommation. Les dispositions de l'article L. 216-4 du code de la consommation sont applicables.
+l'article L. 153-5 est passible des peines prévues aux articles L. 531-1 et L. 531-2 du code de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -6257,19 +6250,14 @@ consommation. Les dispositions de l'article L. 216-4 du code de la consommation 
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L213-1
-	  - Code de la consommation - art. L216-4
-	  - Code forestier (nouveau) - art. L153-5 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L555-3 (VT)
+	  - Code de la consommation - art. L531-1 (V)
+	  - Code forestier (nouveau) - art. L153-5 (VD)
 
 
 ##### Section 8 : Qualification professionnelle
@@ -34589,9 +34577,9 @@ litige.
 
 ### TITRE Ier : GESTION DES BOIS ET FORÊTS DES PARTICULIERS
 
-#### Chapitre II : Plans simples de gestion
+#### Chapitre II : Plans simples de gestion et plan simple de gestion concerté
 
-##### Section 1 : Contenu et agrément du plan simple de gestion
+##### Section 1 : Contenu et agrément du plan simple de gestion et du plan simple de gestion concerté
 
 ##### Sous-section 1 : Critères d'application
 
@@ -35404,22 +35392,6 @@ L'autorité administrative compétente de l'Etat mentionnée à l'article L. 312
 
 	  - Code forestier (nouveau) - art. L312-12 (V)
 
-
-#### Chapitre II : Plans simples de gestion et plan simple de gestion concerté
-
-##### Section 1 : Contenu et agrément du plan simple de gestion et du plan simple de gestion concerté
-
-##### Sous-section 1 : Critères d'application
-
-##### Sous-section 2 : Contenu
-
-##### Sous-section 3 : Modalités d'agrément
-
-##### Section 2 : Droits et obligations  résultant des plans simples de gestion
-
-##### Section 3 : Régime d'autorisation administrative
-
-##### Section 4 : Coupes illicites et coupes abusives
 
 #### Chapitre III : Règlements types de gestion  et codes des bonnes pratiques sylvicoles
 
