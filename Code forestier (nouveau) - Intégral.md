@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-07-09
 
 # Partie législative
 
@@ -1011,28 +1011,26 @@ d'aménagement, l'accord de ces autorités ne peut être subordonné à l'applic
 
 Les législations faisant l'objet de la coordination des procédures administratives mentionnée à l'article L. 122-7 sont
 celles qui protègent ou classent les habitats d'espèces de la faune ou de la flore ainsi que les périmètres, monuments, sites
-ou zones concernés par les dispositions suivantes : 
+ou zones concernés par les dispositions suivantes :
 
-1° Dispositions relatives aux forêts de protection figurant au chapitre Ier du titre IV ; 
+1° Dispositions relatives aux forêts de protection figurant au chapitre Ier du titre IV ;
 
 2° Dispositions relatives aux parcs nationaux figurant à la section 1 du chapitre Ier du titre III du livre III du code de
-l'environnement ; 
+l'environnement ;
 
-3° Dispositions relatives aux réserves naturelles figurant au chapitre II du titre III du livre III du même code ; 
+3° Dispositions relatives aux réserves naturelles figurant au chapitre II du titre III du livre III du même code ;
 
 4° Dispositions relatives aux sites inscrits et classés figurant à la section 1 du chapitre Ier du titre IV du livre III du
-même code ; 
+même code ;
 
 5° Dispositions relatives à la préservation du patrimoine biologique figurant à la section 1 du chapitre Ier du titre Ier du
-livre IV du même code ; 
+livre IV du même code ;
 
 6° Dispositions relatives aux sites Natura 2000 figurant à la section 1 du chapitre IV du titre Ier du livre IV du même
-code ; 
+code ;
 
-7° Dispositions relatives à la protection des espaces figurant au chapitre II du titre IV du livre VI du code du
-patrimoine ; 
-
-8° Dispositions relatives à la protection des monuments historiques figurant au titre II du livre VI du même code.
+7° Dispositions relatives aux monuments historiques, aux abords des monuments historiques et aux sites patrimoniaux
+remarquables figurant au livre VI du code du patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -1040,24 +1038,23 @@ patrimoine ;
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 102
+
+	**Cite**:
+
+	  - Code du patrimoine -  LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMO... (V)
+	  - Code forestier (nouveau) - art. L122-7
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. D122-13 (V)
-	  - Code forestier (nouveau) - art. L122-7 (V)
 	  - Code forestier (nouveau) - art. L122-7-1 (V)
 	  - Code forestier (nouveau) - art. R122-21 (V)
 	  - Code forestier (nouveau) - art. R122-23 (V)
 	  - Code forestier (nouveau) - art. R122-25 (V)
 	  - Code forestier (nouveau) - art. R312-4 (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L11 (VT)
-	  - Code forestier - art. L11 (VT), al 3 à 10.
 
 
 ##### Section 3 : Prise en compte dans les documents  de gestion de l'accueil du public
