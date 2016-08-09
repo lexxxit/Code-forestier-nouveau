@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-07-09
+Version Consolidée au 2016-08-10
 
 # Partie législative
 
@@ -637,9 +637,8 @@ communique au Conseil supérieur de la forêt et du bois une synthèse de l'ense
 
 Les documents d'orientation régionaux, départementaux et locaux arrêtés par l'Etat ou par les collectivités publiques ayant
 une incidence sur la forêt et la filière bois et figurant sur une liste établie par décret tiennent compte du programme
-régional de la forêt et du bois de la région concernée. Les orientations régionales de gestion de la faune sauvage et de ses
-habitats prévues à l'article L. 414-8 du code de l'environnement et les schémas départementaux de gestion cynégétique prévus
-à l'article L. 425-1 du même code sont compatibles avec le programme régional de la forêt et du bois.
+régional de la forêt et du bois de la région concernée. Les schémas départementaux de gestion cynégétique prévus à l'article
+L. 425-1 code de l'environnement sont compatibles avec le programme régional de la forêt et du bois.
 
 **Nota:**
 
@@ -654,10 +653,6 @@ la forêt et du bois et, au plus tard, jusqu'au 31 décembre 2020.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Modifié par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
-
 	**Cité par**:
 
 	  - Loi n°2014-1170 du 13 octobre 2014 - art. 93 (V)
@@ -665,7 +660,6 @@ la forêt et du bois et, au plus tard, jusqu'au 31 décembre 2020.
 	  - Décret n°2017-758 du 3 mai 2017 - art. 1
 	  - Code de l'environnement - art. D222-11 (V)
 	  - Code de l'environnement - art. L414-8 (Ab)
-	  - Code de l'environnement - art. L425-1 (V)
 	  - Code de l'environnement - art. L425-12 (V)
 	  - Code de l'environnement - art. L425-4 (V)
 	  - Code de l'environnement - art. R122-17 (VD)
@@ -693,9 +687,14 @@ la forêt et du bois et, au plus tard, jusqu'au 31 décembre 2020.
 	  - Code rural - art. D512-2-3 (V)
 	  - Code rural et de la pêche maritime - art. L126-1 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 144
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L120-1
+	  - Code de l'environnement - art. L425-1 (V)
 
 
 ###### Article L122-1-1
@@ -4780,11 +4779,15 @@ Chambord, commissionnés à raison de leurs compétences en matière forestière
 
 ###### Article L161-5
 
-Sont également habilités, dans l'exercice de leurs fonctions, à rechercher et constater les infractions forestières :
+Sont également habilités, dans l'exercice de leurs fonctions, à rechercher et constater les infractions forestières : 
 
 1° Les fonctionnaires et agents publics commissionnés et assermentés, habilités par une disposition du code de
 l'environnement à constater les infractions pénales en matière de chasse, de pêche, de protection de l'eau, des milieux
-aquatiques, des parcs nationaux ou des espaces naturels ;
+aquatiques, des parcs nationaux ou des espaces naturels ; 
+
+Les inspecteurs de l'environnement mentionnés à l'article L. 172-1 du code de l'environnement interviennent dans les
+conditions définies aux articles L. 172-1 à L. 172-17 du même code. Toutefois, l'article L. 161-12 du présent code leur est
+applicable ; 
 
 2° Les agents publics habilités par la loi ou le règlement à effectuer des missions de surveillance, des inspections ou des
 contrôles de police administrative dans les bois et forêts, lorsqu'ils sont assermentés et habilités par la loi à rechercher
@@ -4796,23 +4799,18 @@ et constater des infractions.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2016-1087 du 8 août 2016 - art. 164
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code forestier - art. L323-1 (VT), al 5 à 8.
-	  - Code forestier - art. L371-3 (VT), II.
+	  - Code de l'environnement - art. L172-1 (V)
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. L161-12 (V)
 	  - Code forestier (nouveau) - art. L176-6 (V)
-
-	**Cite**:
-
-	  - code de l'environnement
 
 
 ###### Article L161-6
@@ -8217,28 +8215,53 @@ susceptibles de compromettre la réalisation des objectifs de l'aménagement.
 	  - Code forestier (nouveau) - art. L122-2 (VD)
 
 
+###### Article L212-2-1
+
+Le document d'aménagement peut identifier des zones susceptibles de constituer des réserves biologiques dans un objectif de
+préservation ou de restauration du patrimoine naturel. 
+
+Ces réserves biologiques sont créées par arrêté conjoint des ministres chargés de la forêt et de l'environnement, après avis
+du Conseil national de la protection de la nature, puis accord de la collectivité ou de la personne morale intéressée lorsque
+tout ou partie des bois et forêts concernés appartient à une collectivité ou à une personne morale mentionnée au 2° du I de
+l'article L. 211-1. 
+
+L'arrêté de création d'une réserve biologique définit son périmètre et ses objectifs et peut interdire ou soumettre à des
+conditions particulières les activités susceptibles de compromettre la réalisation de ces objectifs. 
+
+Toute modification du périmètre, des objectifs ou de la réglementation d'une réserve biologique est décidée par arrêté pris
+dans les conditions prévues au deuxième alinéa du présent article. 
+
+Les réserves biologiques sont gérées conformément à un plan de gestion, approuvé par arrêté conjoint des ministres chargés de
+la forêt et de l'environnement. Ce plan de gestion fait partie intégrante du document d'aménagement auquel il est annexé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 163 (V)
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L211-1 (V)
+
+
 ###### Article L212-3
 
 La commune où se trouvent les bois et forêts est consultée pour accord lors de l'élaboration du document d'aménagement dans
-les cas prévus au 2° de l'article L. 212-1 pour les bois et forêts lui appartenant. 
+les cas prévus au 2° de l'article L. 212-1 pour les bois et forêts lui appartenant.
 
-Dans les autres cas, elle est consultée pour avis. 
+Le cas échéant, elle est également consultée pour accord lors de la création d'une réserve biologique et lors de
+l'élaboration de son plan de gestion en application de l'article L. 212-2-1.
+
+Dans les autres cas, elle est consultée pour avis.
 
 L'avis d'autres collectivités territoriales peut être recueilli dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L133-1 (VT), al 3.
+	  - Loi n°2016-1087 du 8 août 2016 - art. 163 (V)
 
 	**Cité par**:
 
@@ -15775,10 +15798,11 @@ végétation spontanée, ou les terres occupées par les formations telles que g
 agricoles depuis moins de trente ans ; 
 
 4° Un déboisement ayant pour but de créer à l'intérieur des bois et forêts les équipements indispensables à leur mise en
-valeur et à leur protection, sous réserve que ces équipements ne modifient pas fondamentalement la destination forestière de
-l'immeuble bénéficiaire et n'en constituent que les annexes indispensables, y compris les opérations portant sur les terrains
-situés dans les zones délimitées et spécifiquement définies comme devant être défrichées pour la réalisation d'aménagements,
-par un plan de prévention des risques naturels prévisibles établi en application des articles L. 562-1 à L. 562-7 du code de
+valeur et à leur protection ou de préserver ou restaurer des milieux naturels, sous réserve que ces équipements ou ces
+actions de préservation ou de restauration ne modifient pas fondamentalement la destination forestière de l'immeuble
+bénéficiaire et n'en constituent que les annexes indispensables, y compris les opérations portant sur les terrains situés
+dans les zones délimitées et spécifiquement définies comme devant être défrichées pour la réalisation d'aménagements, par un
+plan de prévention des risques naturels prévisibles établi en application des articles L. 562-1 à L. 562-7 du code de
 l'environnement. 
 
 II.-Le défrichement destiné à la réouverture des espaces à vocation pastorale est autorisé après que le représentant de
@@ -15794,11 +15818,11 @@ pas intervenu dans un délai d'un mois à compter de la saisine de la commission
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+	  - Loi n°2016-1087 du 8 août 2016 - art. 167 (V)
 
 	**Cite**:
 
-	  - Code rural - art. L112-1-1 (V)
+	  - Code rural - art. L112-1-1
 	  - Code de l'environnement - art. L562-1
 
 
@@ -15950,7 +15974,12 @@ risques naturels, notamment les incendies et les avalanches.
 
 ###### Article L341-6
 
-L'autorité administrative compétente de l'Etat subordonne son autorisation à l'une ou plusieurs des conditions suivantes : 
+Sauf lorsqu'il existe un document de gestion ou un programme validé par l'autorité administrative dont la mise en œuvre
+nécessite de défricher, pour un motif de préservation ou de restauration du patrimoine naturel ou paysager, dans un espace
+mentionné aux articles L. 331-1, L. 332-1, L. 333-1, L. 341-2 ou L. 414-1 du code de l'environnement, dans un espace géré
+dans les conditions fixées à l'article L. 414-11 du même code ou dans une réserve biologique créée dans une zone identifiée
+par un document d'aménagement en application des articles L. 212-1 à L. 212-3 du présent code, l'autorité administrative
+compétente de l'Etat subordonne son autorisation à l'une ou plusieurs des conditions suivantes :
 
 1° L'exécution, sur d'autres terrains, de travaux de boisement ou reboisement pour une surface correspondant à la surface
 défrichée, assortie, le cas échéant, d'un coefficient multiplicateur compris entre 1 et 5, déterminé en fonction du rôle
@@ -15960,8 +15989,9 @@ réalisé dans un même massif forestier ou dans un secteur écologiquement ou s
 
 2° La remise en état boisé du terrain lorsque le défrichement a pour objet l'exploitation du sous-sol à ciel ouvert ; 
 
-3° L'exécution de travaux de génie civil ou biologique en vue de la protection contre l'érosion des sols des parcelles
-concernées par le défrichement ; 
+3° L'exécution de mesures ou de travaux de génie civil ou biologique en vue de réduire les impacts sur les fonctions définies
+à l'article L. 341-5 et exercées soit par les bois et forêts concernés par le défrichement, soit par le massif qu'ils
+complètent ; 
 
 4° L'exécution de travaux ou mesures visant à réduire les risques naturels, notamment les incendies et les avalanches. 
 
@@ -15982,12 +16012,12 @@ plafond prévu à l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de f
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 85
+	  - Loi n°2016-1087 du 8 août 2016 - art. 167 (V)
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. D341-7-2 (V)
-	  - Code forestier (nouveau) - art. L341-10 (M)
+	  - Code forestier (nouveau) - art. L341-10 (V)
 	  - Code forestier (nouveau) - art. L341-9 (V)
 	  - Code forestier (nouveau) - art. L342-1 (M)
 	  - Code forestier (nouveau) - art. L363-2 (VD)
@@ -16101,9 +16131,8 @@ bois des terrains devant être maintenus à l'état de réserves boisées.
 
 ###### Article L341-10
 
-L'article L. 171-8 du code de l'environnement est applicable au propriétaire qui n'a pas effectué la plantation ou le semis
-nécessaire au rétablissement des terrains en nature de bois et forêts prévus aux articles L. 341-6, L. 341-8 et L. 341-9 du
-présent code, dans le délai prescrit par la décision administrative.
+L'article L. 171-8 du code de l'environnement est applicable au propriétaire qui n'a pas exécuté les obligations prévues aux
+articles L. 341-6, L. 341-8 et L. 341-9 du présent code, dans le délai prescrit par la décision administrative.
 
 **Liens relatifs à cet article**
 
@@ -16113,13 +16142,13 @@ présent code, dans le délai prescrit par la décision administrative.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+	  - Loi n°2016-1087 du 8 août 2016 - art. 167 (V)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L171-8 (V)
-	  - Code forestier (nouveau) - art. L341-6 (V)
-	  - Code forestier (nouveau) - art. L341-8 (V)
+	  - Code de l'environnement - art. L171-8
+	  - Code forestier (nouveau) - art. L341-6 (M)
+	  - Code forestier (nouveau) - art. L341-8
 
 	**Cité par**:
 
