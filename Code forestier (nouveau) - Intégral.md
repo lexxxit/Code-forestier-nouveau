@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-12-16
 
 # Partie législative
 
@@ -37764,15 +37764,15 @@ commercial, conformément aux dispositions de l'article R. 16 du code électoral
 
 ###### Article R321-49
 
-I. ― Toute personne qui sollicite : 
+I. ― Toute personne qui sollicite :
 
 1° Soit son inscription sur la liste électorale, celle d'une personne morale ou d'une indivision, en tant que propriétaire ; 
 
 2° Soit la mention de son nom sur la liste électorale en tant que représentant d'une indivision ou en tant que représentant
 d'une personne morale dont il n'est pas le représentant légal, 
 
-adresse une demande écrite, dans le délai mentionné au deuxième alinéa de l'article R. 321-47, au service désigné par le
-préfet de région et mentionné dans l'avis prévu au cinquième alinéa du même article. 
+adresse une demande écrite, dans le délai mentionné au deuxième alinéa de l'article R. 321-47, au centre régional de la
+propriété forestière. 
 
 II. ― L'intéressé indique dans cette demande datée et signée : 
 
@@ -37821,12 +37821,15 @@ de liste électorale peuvent être faites par message électronique si l'avis me
 
 	**Modifié par**:
 
-	  - Décret n°2016-472 du 14 avril 2016 - art. 2
+	  - Décret n°2016-1724 du 13 décembre 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. R321-47 (V)
-	  - Code forestier (nouveau) - art. R321-48 (V)
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. R321-48
 
 
 ###### Article R321-50
@@ -38488,8 +38491,7 @@ refusé.
 ###### Article R321-69
 
 Le vote a lieu par correspondance adressée au préfet de région suivant des modalités fixées par arrêté du ministre chargé des
-forêts. Le panachage n'est pas autorisé. L'élection a lieu à la majorité relative des suffrages exprimés. Dans le cas où
-plusieurs listes obtiennent le même nombre de voix, celle comportant le candidat le plus jeune est proclamée élue. 
+forêts. En cas d'égalité des restes pour l'attribution du dernier siège, le candidat le plus jeune est proclamé élu. 
 
 Procès-verbal du dépouillement est dressé en double exemplaire et signé par le préfet de région ou son représentant et les
 scrutateurs. Le préfet de région proclame les résultats du scrutin et les fait afficher à la préfecture de région et aux
@@ -38504,7 +38506,7 @@ forêts.
 
 	**Modifié par**:
 
-	  - Décret n°2016-472 du 14 avril 2016 - art. 2
+	  - Décret n°2016-1724 du 13 décembre 2016 - art. 1
 
 
 ###### Article R321-70
@@ -38654,10 +38656,9 @@ votes s'effectuent conformément aux articles R. 321-51 et R. 321-56 à R. 321-5
 
 ###### Article R321-76
 
-Pour l'application des dispositions du présent paragraphe, le préfet de région ou les préfets peuvent confier au directeur du
-centre régional de la propriété forestière l'exécution matérielle des tâches incombant à ces préfets ou aux commissions
-prévues par la présente sous-section. Dans ce cas, les agents désignés par le directeur exécutent ces tâches sous l'autorité
-du préfet de région ou du préfet concerné.
+Pour l'application des dispositions du présent paragraphe, le préfet de région peut confier au directeur du centre régional
+de la propriété forestière l'exécution matérielle des tâches correspondantes. Dans ce cas, les agents désignés par le
+directeur exécutent ces tâches sous l'autorité du préfet de région.
 
 **Liens relatifs à cet article**
 
@@ -38665,13 +38666,9 @@ du préfet de région ou du préfet concerné.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R221-40 (Ab)
+	  - Décret n°2016-1724 du 13 décembre 2016 - art. 1
 
 
 ##### Paragraphe 6 : Représentant du personnel au conseil des centres régionaux
