@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-12-29
+Version Consolidée au 2016-12-30
 
 # Partie législative
 
@@ -848,20 +848,16 @@ pour prendre en compte toute évolution réglementaire.
 
 ###### Article L122-4
 
-Un document d'aménagement ou un plan simple de gestion peut être arrêté ou agréé à la demande des propriétaires de parcelles
-forestières lorsqu'elles constituent un ensemble d'une surface totale d'au moins 10 hectares et sont situées sur le
-territoire d'une même commune ou de communes limitrophes. Dans ce cas, le document de gestion concerté engage chaque
-propriétaire pour les parcelles qui lui appartiennent.
+Un document d'aménagement ou un plan simple de gestion peut être arrêté ou agréé à la demande du ou des propriétaires de
+parcelles forestières lorsqu'elles constituent un ensemble d'une surface totale d'au moins dix hectares et sont situées sur
+un territoire géographique cohérent d'un point de vue sylvicole, économique et écologique. En cas de pluralité de
+propriétaires, le document de gestion concerté engage chacun d'entre eux pour la ou les parcelles qui lui appartiennent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Modifié par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 79
 
 	**Cité par**:
 
@@ -872,7 +868,11 @@ propriétaire pour les parcelles qui lui appartiennent.
 	  - Code forestier (nouveau) - art. L332-7 (V)
 	  - Code forestier (nouveau) - art. R312-4-1 (V)
 	  - Code forestier (nouveau) - art. R312-5 (V)
-	  - Code général des impôts, CGI. - art. 199 decies H (V)
+	  - Code général des impôts, CGI. - art. 199 decies H (M)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 52
 
 
 ###### Article L122-5
@@ -1352,7 +1352,7 @@ Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XIX, ces dispo
 
 Les parties de bois et forêts situés dans un site Natura 2000 pour lequel un document d'objectifs a été approuvé par
 l'autorité administrative présentent des garanties ou des présomptions de gestion durable lorsque leur propriétaire dispose
-d'un document de gestion mentionné au 1° et aux a et b du 2° de l'article L. 122-3 et se trouve dans l'un des cas suivants : 
+d'un document de gestion mentionné à l'article L. 122-3 et se trouve dans l'un des cas suivants : 
 
 1° Avoir adhéré à une charte Natura 2000 ou conclu un contrat Natura 2000 ; 
 
@@ -1364,18 +1364,14 @@ d'un document de gestion mentionné au 1° et aux a et b du 2° de l'article L. 
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L8 (VT), IV.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 54
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L122-3 (VD)
-	  - Code forestier (nouveau) - art. L122-7 (VD)
+	  - Code forestier (nouveau) - art. L122-3 (VT)
+	  - Code forestier (nouveau) - art. L122-7
 
 	**Cité par**:
 
@@ -3765,8 +3761,8 @@ publique.
 
 ###### Article L142-9
 
-L'Office national des forêts instruit pour le compte de l'Etat et, le cas échéant, à la demande des collectivités
-territoriales les dossiers nécessaires à l'application des dispositions prévues aux sections 3 et 4 du présent chapitre.
+L'Office national des forêts instruit pour le compte de l'Etat ou à la demande des collectivités territoriales les dossiers
+nécessaires à l'application des dispositions prévues aux sections 3 et 4 du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -3774,13 +3770,9 @@ territoriales les dossiers nécessaires à l'application des dispositions prévu
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L424-5 (VT), al 1.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 55
 
 	**Cité par**:
 
@@ -9666,7 +9658,11 @@ accomplissement ;
 
 4° Les conditions dans lesquelles l'Office national des forêts contribue à la mise en œuvre, dans les bois et forêts soumis
 au régime forestier, des politiques publiques relatives à la gestion de la forêt et des milieux lorsqu'elle ne relève pas des
-missions définies au présent chapitre.
+missions définies au présent chapitre ;
+
+5° Les conditions dans lesquelles l'Office national des forêts apporte son expertise à l'Etat, aux collectivités
+territoriales, à leurs groupements et aux agences de l'eau dans l'évaluation et la gestion des risques naturels prévisibles,
+notamment en montagne.
 
 **Liens relatifs à cet article**
 
@@ -9676,7 +9672,7 @@ missions définies au présent chapitre.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 74
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 25
 
 	**Cité par**:
 
@@ -9738,19 +9734,18 @@ contribuer, en zone de revitalisation rurale, au maintien de services au public 
 ###### Article L221-6
 
 L'Office national des forêts peut être chargé, en vertu de conventions passées avec des personnes publiques ou privées, de la
-réalisation, en France ou à l'étranger, d'opérations de gestion, d'études, d'enquêtes et de travaux en vue de : 
+réalisation, en France ou à l'étranger, d'opérations de gestion, d'études, d'enquêtes et de travaux en vue de :
 
-1° La valorisation de la biomasse forestière ; 
+1° La valorisation de la biomasse forestière ;
 
-2° La protection, l'aménagement et le développement durable des ressources naturelles, notamment des ressources
-forestières ; 
+2° La protection, l'aménagement et le développement durable des ressources naturelles, notamment des ressources forestières ;
 
-3° La prévention des risques naturels ; 
+3° La prévention et la gestion des risques naturels ;
 
-4° La protection, la réhabilitation, la surveillance et la mise en valeur des espaces naturels et des paysages ; 
+4° La protection, la réhabilitation, la surveillance et la mise en valeur des espaces naturels et des paysages ;
 
 5° L'aménagement et le développement rural, dès lors que ces opérations concernent principalement les arbres, la forêt et les
-espaces naturels ou qu'elles contribuent au maintien de services publics dans les zones rurales fragiles. 
+espaces naturels ou qu'elles contribuent au maintien de services publics dans les zones rurales fragiles.
 
 Lorsque ces opérations de gestion ou de travaux portent sur des forêts de particuliers, elles sont soumises aux dispositions
 de l'article L. 315-2.
@@ -9761,9 +9756,9 @@ de l'article L. 315-2.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 26
 
 	**Cité par**:
 
@@ -9773,7 +9768,7 @@ de l'article L. 315-2.
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L315-2 (VD)
+	  - Code forestier (nouveau) - art. L315-2
 
 
 ###### Article L221-7
@@ -11797,8 +11792,8 @@ euros.
 ###### Article L261-7
 
 Le fait pour une collectivité ou une autre personne morale mentionnée au 2° du I de l'article L. 211-1, ou son représentant,
-d'ordonner ou de procéder à des coupes en infraction aux dispositions de l'article L. 124-5 est puni d'une amende de 1 200
-euros par hectare parcouru.
+d'ordonner ou de procéder à des coupes en infraction à l'article L. 124-5 est puni des peines prévues à l'article L. 362-1,
+ces coupes étant considérées comme illicites et abusives en application du dernier alinéa de l'article L. 312-11.
 
 **Liens relatifs à cet article**
 
@@ -11806,18 +11801,16 @@ euros par hectare parcouru.
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L332-2 (VT), ecqc collectivités.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 57
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L124-5 (VD)
-	  - Code forestier (nouveau) - art. L211-1 (VD)
+	  - Code forestier (nouveau) - art. L124-5 (V)
+	  - Code forestier (nouveau) - art. L211-1 (V)
+	  - Code forestier (nouveau) - art. L312-11 (V)
+	  - Code forestier (nouveau) - art. L362-1 (V)
 
 
 ###### Article L261-8
@@ -15975,7 +15968,7 @@ nécessite de défricher, pour un motif de préservation ou de restauration du p
 mentionné aux articles L. 331-1, L. 332-1, L. 333-1, L. 341-2 ou L. 414-1 du code de l'environnement, dans un espace géré
 dans les conditions fixées à l'article L. 414-11 du même code ou dans une réserve biologique créée dans une zone identifiée
 par un document d'aménagement en application des articles L. 212-1 à L. 212-3 du présent code, l'autorité administrative
-compétente de l'Etat subordonne son autorisation à l'une ou plusieurs des conditions suivantes :
+compétente de l'Etat subordonne son autorisation à l'une ou plusieurs des conditions suivantes : 
 
 1° L'exécution, sur d'autres terrains, de travaux de boisement ou reboisement pour une surface correspondant à la surface
 défrichée, assortie, le cas échéant, d'un coefficient multiplicateur compris entre 1 et 5, déterminé en fonction du rôle
@@ -15998,9 +15991,26 @@ Le demandeur peut s'acquitter d'une obligation mentionnée au 1° du présent ar
 le montant est déterminé par l'autorité administrative et lui est notifié en même temps que la nature de cette obligation. Le
 produit de cette indemnité est affecté à l'établissement mentionné à l'article L. 313-1 du code rural et de la pêche maritime
 pour alimenter le fonds stratégique de la forêt et du bois mentionné à l'article L. 156-4 du présent code, dans la limite du
-plafond prévu à l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+plafond prévu à l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. 
+
+En zone de montagne, le 1° du présent article ne s'applique pas au défrichement de boisements spontanés de première
+génération sans aucune intervention humaine et âgés de moins de quarante ans.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+	  - Code rural - art. L313-1 (V)
+	  - Code de l'environnement - art. L331-1 (V)
+	  - Code de l'environnement - art. L332-1 (V)
+	  - Code de l'environnement - art. L333-1 (V)
+	  - Code de l'environnement - art. L341-2 (V)
+	  - Code de l'environnement - art. L414-1 (V)
+	  - Code de l'environnement - art. L414-11 (V)
+	  - Code forestier (nouveau) - art. L156-4 (V)
+	  - Code forestier (nouveau) - art. L212-1 (V)
+	  - Code forestier (nouveau) - art. L341-5
 
 	**Codifié par**:
 
@@ -16008,12 +16018,12 @@ plafond prévu à l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de f
 
 	**Modifié par**:
 
-	  - Loi n°2016-1087 du 8 août 2016 - art. 167 (V)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 56
 
 	**Cité par**:
 
 	  - Code forestier (nouveau) - art. D341-7-2 (V)
-	  - Code forestier (nouveau) - art. L341-10 (V)
+	  - Code forestier (nouveau) - art. L341-10 (M)
 	  - Code forestier (nouveau) - art. L341-9 (V)
 	  - Code forestier (nouveau) - art. L342-1 (M)
 	  - Code forestier (nouveau) - art. L363-2 (VD)
@@ -16023,10 +16033,6 @@ plafond prévu à l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de f
 	  - Code forestier (nouveau) - art. R341-4 (V)
 	  - Code forestier (nouveau) - art. R341-5 (V)
 	  - Code forestier (nouveau) - art. R374-1 (V)
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L341-5
 
 
 ###### Article L341-7
@@ -16504,24 +16510,25 @@ les conditions prévues à l'article L. 161-12.
 
 ###### Article L362-1
 
-Le fait de procéder à une coupe abusive définie à l'article L. 312-11 est puni d'une amende de 20 000 euros par hectare
-parcouru par la coupe pour les deux premiers hectares et de 60 000 euros par hectare supplémentaire. 
+Le fait de procéder à une coupe abusive définie à l'article L. 312-11 est puni d'une amende qui ne peut être supérieure à
+quatre fois et demie le montant estimé de la valeur des bois coupés dans la limite de 20 000 euros par hectare parcouru par
+la coupe pour les deux premiers hectares et de 60 000 euros par hectare supplémentaire.
 
-Les personnes physiques encourent les peines complémentaires suivantes : 
+Les personnes physiques encourent les peines complémentaires suivantes :
 
-1° L'affichage de la décision prononcée, selon les modalités prévues à l'article 131-35 du code pénal ; 
+1° L'affichage de la décision prononcée, selon les modalités prévues à l'article 131-35 du code pénal ;
 
 2° L'interdiction d'exercer une activité professionnelle ou sociale selon les modalités prévues aux articles 131-27 et 131-29
-du même code ; 
+du même code ;
 
-3° L'exclusion des marchés publics pour une durée de trois ans au plus ; 
+3° L'exclusion des marchés publics pour une durée de trois ans au plus ;
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction et de la chose qui en est le produit,
-selon les modalités prévues à l'article 131-21 du même code. 
+selon les modalités prévues à l'article 131-21 du même code.
 
-Les personnes morales encourent les peines complémentaires suivantes : 
+Les personnes morales encourent les peines complémentaires suivantes :
 
-1° Pour une durée de trois ans au plus, les peines mentionnées aux 2°, 4° et 5° de l'article 131-39 du même code ; 
+1° Pour une durée de trois ans au plus, les peines mentionnées aux 2°, 4° et 5° de l'article 131-39 du même code ;
 
 2° Les peines mentionnées aux 8° et 9° de l'article 131-39 du même code.
 
@@ -16531,23 +16538,18 @@ Les personnes morales encourent les peines complémentaires suivantes :
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 57
 
 	**Cite**:
 
-	  - Code pénal - art. 131-21 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-29 (V)
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-29
 	  - Code pénal - art. 131-35
-	  - Code pénal - art. 131-39 (V)
-	  - Code forestier (nouveau) - art. L312-11 (VD)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L223-1 (VT), al 1 ecqc sanction, al 2 à 10.
-	  - Code forestier - art. L332-2 (VT)
+	  - Code pénal - art. 131-39
+	  - Code forestier (nouveau) - art. L312-11
 
 	**Cité par**:
 
