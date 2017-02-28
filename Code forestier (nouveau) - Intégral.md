@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-03-01
 
 # Partie législative
 
@@ -16038,9 +16038,14 @@ génération sans aucune intervention humaine et âgés de moins de quarante ans
 ###### Article L341-7
 
 Lorsque la réalisation d'une opération ou de travaux soumis à une autorisation administrative, à l'exception de celles
-prévues au titre Ier et au chapitre V du titre V du livre V du code de l'environnement , nécessite également l'obtention
-d'une autorisation de défrichement, celle-ci doit être obtenue préalablement à la délivrance de cette autorisation
-administrative.
+prévues au chapitre unique du titre VIII du livre Ier et au chapitre V du titre V du livre V du code de l'environnement ,
+nécessite également l'obtention d'une autorisation de défrichement, celle-ci doit être obtenue préalablement à la délivrance
+de cette autorisation administrative.
+
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017, ces dispositions entrent en vigueur le 1er mars
+2017 sous réserves des dispositions citées audit article.
 
 **Liens relatifs à cet article**
 
@@ -16059,7 +16064,7 @@ administrative.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+	  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 9
 
 
 ###### Article L341-8
