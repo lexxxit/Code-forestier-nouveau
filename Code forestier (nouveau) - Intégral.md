@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -12096,6 +12096,10 @@ Ne sont pas applicables en Guyane les dispositions suivantes du présent livre :
 
 1° La section 7 du chapitre III et la section 5 du chapitre IV du titre Ier ; 
 
+1° bis Le 2° de l'article L. 223-1, s'agissant de la cession de foncier forestier par l'Etat à la collectivité territoriale
+de Guyane pour une période de trois ans à compter de la publication de la loi n° 2017-256 du 28 février 2017 de programmation
+relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique ; 
+
 2° L'article L. 223-4 ; 
 
 3° Le titre IV, à l'exception des articles L. 241-1, L. 242-3 et L. 241-4.
@@ -12106,20 +12110,18 @@ Ne sont pas applicables en Guyane les dispositions suivantes du présent livre :
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L172-1 (VT)
-
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L223-4 (V)
-	  - Code forestier (nouveau) - art. L241-1 (V)
-	  - Code forestier (nouveau) - art. L241-4 (V)
-	  - Code forestier (nouveau) - art. L242-3 (V)
+	  - Loi n°2017-256 du 28 février 2017 (V)
+	  - Code forestier (nouveau) - art. L223-1 (V)
+	  - Code forestier (nouveau) - art. L223-4
+	  - Code forestier (nouveau) - art. L241-1
+	  - Code forestier (nouveau) - art. L241-4
+	  - Code forestier (nouveau) - art. L242-3
+
+	**Modifié par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 120
 
 
 ###### Article L272-2
