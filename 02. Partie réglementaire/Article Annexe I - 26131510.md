@@ -5,1072 +5,979 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 321-42
 Répartition des centres régionaux de la propriété forestière 
 
 <table>
-  <tbody>
-    <tr>
-      <th>RÉGIONS 
-
-de compétence 
+    <tbody>
+      <tr>
+        <th>RÉGIONS DE COMPÉTENCE 
 
 </th>
-      <th>RÉGION DU SIÈGE 
+        <th>
+
+RÉGION DU SIÈGE DU CRPF 
 
 </th>
-      <th>DÉPARTEMENTS 
+        <th>
+
+DÉPARTEMENTS 
 
 </th>
-    </tr>
-    <tr>
-      <td align="center">Nord-Pas-de-Calais 
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-      <td align="center">Picardie 
-
-</td>
-      <td align="center">Nord 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">Picardie 
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Pas-de-Calais 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Aisne 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Oise 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Somme 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">Basse-Normandie 
-
-</td>
-      <td align="center">Haute-Normandie 
-
-</td>
-      <td align="center">Eure 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">Haute-Normandie 
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Seine-Maritime 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Calvados 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Manche 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Hauts-de-France 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">Orne 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">Champagne-Ardenne 
-
-</td>
-      <td align="center">Champagne-Ardenne 
-
-</td>
-      <td align="center">Ardennes 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Aube 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Marne 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Haute-Marne 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">Lorraine 
+Hauts-de-France 
 
 </td>
-      <td align="center">Lorraine 
+        <td align="center">
 
-</td>
-      <td align="center">Meurthe-et-Moselle 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">Alsace 
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Meuse 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Moselle 
+Nord 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">Vosges 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
+Pas-de-Calais 
 
 </td>
-      <td align="center">Rhin (Bas-) 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Aisne 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Rhin (Haut-) 
+Oise 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">Bretagne 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Bretagne 
+Somme 
 
 </td>
-      <td align="center">Côtes-d'Armor 
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Normandie 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">Finistère 
+Normandie 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">
+Eure 
 
 </td>
-      <td align="center">Ille-et-Vilaine 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Seine-Maritime 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Morbihan 
+Calvados 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">Pays de la Loire 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Pays de la Loire 
+Manche 
 
 </td>
-      <td align="center">Loire-Atlantique 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Orne 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-      <td align="center">Maine-et-Loire 
+Grand Est 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">
+Grand Est 
 
 </td>
-      <td align="center">Mayenne 
+        <td valign="middle" align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Ardennes 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Sarthe 
+Aube 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Marne 
 
 </td>
-      <td align="center">Vendée 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">Ile-de-France 
+Haute-Marne 
 
 </td>
-      <td align="center">Centre 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Seine-et-Marne 
+Meurthe-et-Moselle 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">Centre 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Meuse 
 
 </td>
-      <td align="center">Yvelines 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Moselle 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Essonne 
+Vosges 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Bas-Rhin 
 
 </td>
-      <td align="center">Hauts-de-Seine 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Haut-Rhin 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-      <td align="center">Seine-Saint-Denis 
+Bretagne et Pays de la Loire 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">
+Pays de la Loire 
 
 </td>
-      <td align="center">Val-de-Marne 
+        <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Côtes-d'Armor 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Val-d'Oise 
+Finistère 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Ille-et-Vilaine 
 
 </td>
-      <td align="center">Cher 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Morbihan 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Eure-et-Loir 
+Loire-Atlantique 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Maine-et-Loire 
 
 </td>
-      <td align="center">Indre 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Mayenne 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Indre-et-Loire 
+Sarthe 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Vendée 
 
 </td>
-      <td align="center">Loir-et-Cher 
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Ile-de-France et Centre-Val de Loire 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">Loiret 
+Centre-Val de Loire 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">Bourgogne 
+        <td align="center">
 
-</td>
-      <td align="center">Bourgogne 
+Seine-et-Marne 
 
 </td>
-      <td align="center">Côte-d'Or 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Yvelines 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Nièvre 
+Essonne 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Hauts-de-Seine 
 
 </td>
-      <td align="center">Saône-et-Loire 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Seine-Saint-Denis 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Yonne 
+Val-de-Marne 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">Franche-Comté 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Franche-Comté 
+Val-d'Oise 
 
 </td>
-      <td align="center">Doubs 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Cher 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Jura 
+Eure-et-Loir 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Indre 
 
 </td>
-      <td align="center">Saône (Haute-) 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Indre-et-Loire 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Territoire de Belfort 
+Loir-et-Cher 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">Poitou-Charentes 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Poitou-Charentes 
+Loiret 
 
 </td>
-      <td align="center">Charente 
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Bourgogne-Franche-Comté 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">Charente-Maritime 
+Bourgogne-Franche-Comté 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">
+Côte-d'Or 
 
 </td>
-      <td align="center">Deux-Sèvres 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Nièvre 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Vienne 
+Saône-et-Loire 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">Limousin 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Limousin 
+Yonne 
 
 </td>
-      <td align="center">Corrèze 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Doubs 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Creuse 
+Jura 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Haute-Saône 
 
 </td>
-      <td align="center">Haute-Vienne 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">Auvergne 
+Territoire de Belfort 
 
 </td>
-      <td align="center">Auvergne 
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-      <td align="center">Allier 
+Nouvelle-Aquitaine 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">
+Nouvelle-Aquitaine 
 
 </td>
-      <td align="center">Cantal 
+        <td valign="middle" align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Charente 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Haute-Loire 
+Charente-Maritime 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Deux-Sèvres 
 
 </td>
-      <td align="center">Puy-de-Dôme 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">Rhône-Alpes 
+Vienne 
 
 </td>
-      <td align="center">Rhône-Alpes 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Ain 
+Corrèze 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Creuse 
 
 </td>
-      <td align="center">Ardèche 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Haute-Vienne 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Drôme 
+Dordogne 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Gironde 
 
 </td>
-      <td align="center">Isère 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Landes 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Loire 
+Lot-et-Garonne 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Pyrénées-Atlantiques 
 
 </td>
-      <td align="center">Rhône 
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Auvergne-Rhône-Alpes 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">Savoie 
+Auvergne-Rhône-Alpes 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">
+Allier 
 
 </td>
-      <td align="center">Haute-Savoie 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">Aquitaine 
+Cantal 
 
 </td>
-      <td align="center">Aquitaine 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Dordogne 
+Haute-Loire 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Puy-de-Dôme 
 
 </td>
-      <td align="center">Gironde 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Ain 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Landes 
+Ardèche 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Drôme 
 
 </td>
-      <td align="center">Lot-et-Garonne 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Isère 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Pyrénées-Atlantiques 
+Loire 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">Midi-Pyrénées 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Midi-Pyrénées 
+Rhône 
 
 </td>
-      <td align="center">Ariège 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Savoie 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Aveyron 
+Haute-Savoie 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
 
-</td>
-      <td align="center">
+Occitanie 
 
 </td>
-      <td align="center">Haute-Garonne 
+        <td align="center" valign="middle">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Occitanie 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">Gers 
+Ariège 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Aveyron 
 
 </td>
-      <td align="center">Lot 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Haute-Garonne 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Hautes-Pyrénées 
+Gers 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Lot 
 
 </td>
-      <td align="center">Tarn 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Hautes-Pyrénées 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Tarn-et-Garonne 
+Tarn 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">Languedoc-Roussillon 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Languedoc-Roussillon 
+Tarn-et-Garonne 
 
 </td>
-      <td align="center">Aude 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Aude 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Gard 
+Gard 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Hérault 
 
 </td>
-      <td align="center">Hérault 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Lozère 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Lozère 
+Pyrénées-Orientales 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-      <td align="center">
+Provence-Alpes-Côte d'Azur 
 
 </td>
-      <td align="center">Pyrénées-Orientales 
+        <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">Provence-Alpes-Côte d'Azur 
+Provence-Alpes-Côte d'Azur 
 
 </td>
-      <td align="center">Provence-Alpes-Côte d'Azur 
+        <td align="center">
 
-</td>
-      <td align="center">Alpes-de-Haute-Provence 
+Alpes-de-Haute-Provence 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Hautes-Alpes 
 
 </td>
-      <td align="center">Hautes-Alpes 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Alpes-Maritimes 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Alpes-Maritimes 
+Bouches-du-Rhône 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">
+Var 
 
 </td>
-      <td align="center">Bouches-du-Rhône 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+Vaucluse 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
-</td>
-      <td align="center">Var 
+Corse 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
 
-</td>
-      <td align="center">
+Corse 
 
 </td>
-      <td align="center">Vaucluse 
+        <td align="center">
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">Corse 
+Haute-Corse 
 
 </td>
-      <td align="center">Corse 
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="center">
 
-</td>
-      <td align="center">Corse-du-Sud 
+Corse-du-Sud
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+    </tbody>
+  </table>
 
-</td>
-      <td align="center">
+**Nota:**
 
-</td>
-      <td align="center">Haute-Corse</td>
-    </tr>
-  </tbody>
-</table>
+Conformément à l'article 2 du décret n° 2016-1513 du 8 novembre 2016, ces dispositions entrent en vigueur à compter du
+prochain renouvellement des conseillers des centres régionaux de la propriété forestière et au plus tard le 1er avril 2017.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - RECTIFICATION: Décret n°2012-836 du 29 juin 2012 - art., v. init.
+	  - Décret n°2016-1513 du 8 novembre 2016 - art.
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. D321-42 (V)
+	  - Code forestier (nouveau) - art. D321-42

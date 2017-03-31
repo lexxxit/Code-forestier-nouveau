@@ -9,340 +9,218 @@ au conseil d'administration du Centre national de la propriété forestière
 <table>
   <tbody>
     <tr>
-      <td width="221">
+      <th>
 
 CENTRES RÉGIONAUX 
 
-</td>
-      <td width="221">
+</th>
+      <th>
 
 RÉGIONS REPRÉSENTÉES 
 
+</th>
+      <th>
+
+NOMBRE DE SIÈGES 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+Nouvelle-Aquitaine 
+
 </td>
-      <td width="220">
+      <td align="center" valign="middle">
 
-NOMBRE DE SIÈGES RÉSERVÉS 
+Nouvelle-Aquitaine 
 
-dans la commission aux représentants de chaque centre régional 
+</td>
+      <td valign="middle" align="center">
+
+5 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
+      <td align="center" valign="middle">
 
-Aquitaine 
-
-</td>
-      <td width="221">
-
-Aquitaine 
+Auvergne-Rhône-Alpes 
 
 </td>
-      <td width="220">
+      <td valign="middle" align="center">
+
+Auvergne-Rhône-Alpes 
+
+</td>
+      <td valign="middle" align="center">
 
 3 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
+      <td valign="middle" align="center">
 
-Auvergne 
-
-</td>
-      <td width="221">
-
-Auvergne 
+Bourgogne-Franche-Comté 
 
 </td>
-      <td width="220">
+      <td align="center" valign="middle">
 
-1 
+Bourgogne-Franche-Comté 
+
+</td>
+      <td valign="middle" align="center">
+
+3 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
+      <td align="center" valign="middle">
 
-Bourgogne 
-
-</td>
-      <td width="221">
-
-Bourgogne 
+Bretagne-Pays de la Loire 
 
 </td>
-      <td width="220">
+      <td align="center" valign="middle">
+
+Bretagne et Pays de la Loire 
+
+</td>
+      <td valign="middle" align="center">
 
 2 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
+      <td align="center" valign="middle">
 
-Bretagne 
-
-</td>
-      <td width="221">
-
-Bretagne 
+Grand-Est 
 
 </td>
-      <td width="220">
+      <td valign="middle" align="center">
 
-1 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221">
-
-Champagne-Ardenne 
+Grand-Est 
 
 </td>
-      <td width="221">
+      <td valign="middle" align="center">
 
-Champagne-Ardenne 
-
-</td>
-      <td width="220">
-
-1 
+2 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
+      <td align="center" valign="middle">
 
 Corse 
 
 </td>
-      <td width="221">
+      <td valign="middle" align="center">
 
 Corse 
 
 </td>
-      <td width="220">
+      <td align="center" valign="middle">
 
 1 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
+      <td align="center" valign="middle">
 
-Franche-Comté 
-
-</td>
-      <td width="221">
-
-Franche-Comté 
+Ile-de-France-Centre-Val de Loire 
 
 </td>
-      <td width="220">
+      <td align="center" valign="middle">
 
-1 
+Ile-de-France 
 
-</td>
-    </tr>
-    <tr>
-      <td width="221">
-
-Ile-de-France-Centre 
+et Centre-Val de Loire 
 
 </td>
-      <td width="221">
-
-Ile-de-France-Centre 
-
-</td>
-      <td width="220">
+      <td valign="middle" align="center">
 
 2 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
+      <td valign="middle" align="center">
 
-Languedoc-Roussillon 
-
-</td>
-      <td width="221">
-
-Languedoc-Roussillon 
+Occitanie 
 
 </td>
-      <td width="220">
+      <td align="center" valign="middle">
+
+Occitanie 
+
+</td>
+      <td align="center" valign="middle">
+
+3 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+Hauts-de-France 
+
+</td>
+      <td valign="middle" align="center">
+
+Hauts-de-France 
+
+</td>
+      <td valign="middle" align="center">
 
 1 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
-
-Limousin 
-
-</td>
-      <td width="221">
-
-Limousin 
-
-</td>
-      <td width="220">
-
-1 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221">
-
-Lorraine-Alsace 
-
-</td>
-      <td width="221">
-
-Lorraine-Alsace 
-
-</td>
-      <td width="220">
-
-1 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221">
-
-Midi-Pyrénées 
-
-</td>
-      <td width="221">
-
-Midi-Pyrénées 
-
-</td>
-      <td width="220">
-
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221">
-
-Nord-Pas-de-Calais-Picardie 
-
-</td>
-      <td width="221">
-
-Nord-Pas-de-Calais-Picardie 
-
-</td>
-      <td width="220">
-
-1 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221">
+      <td valign="middle" align="center">
 
 Normandie 
 
 </td>
-      <td width="221">
+      <td align="center" valign="middle">
 
-Haute-Normandie, Basse-Normandie 
+Normandie 
 
 </td>
-      <td width="220">
+      <td align="center" valign="middle">
 
 1 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
-
-Pays de la Loire 
-
-</td>
-      <td width="221">
-
-Pays de la Loire 
-
-</td>
-      <td width="220">
-
-1 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221">
-
-Poitou-Charentes 
-
-</td>
-      <td width="221">
-
-Poitou-Charentes 
-
-</td>
-      <td width="220">
-
-1 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221">
+      <td valign="middle" align="center">
 
 Provence-Alpes-Côte d'Azur 
 
 </td>
-      <td width="221">
+      <td valign="middle" align="center">
 
 Provence-Alpes-Côte d'Azur 
 
 </td>
-      <td width="220">
+      <td valign="middle" align="center">
 
 2 
 
 </td>
     </tr>
     <tr>
-      <td width="221">
-
-Rhône-Alpes 
-
-</td>
-      <td width="221">
-
-Rhône-Alpes 
-
-</td>
-      <td width="220">
-
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221">
+      <td colspan="2" valign="middle" align="left">
 
 Total 
 
 </td>
-      <td width="221" valign="top">
-
-</td>
-      <td width="220">
+      <td valign="middle" align="center">
 
 25
 
@@ -351,8 +229,17 @@ Total
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 1er de l'arrêté du 30 novembre 2016 ces dispositions entrent en vigueur à la date de la première
+réunion des conseillers régionaux élus en 2017 et au plus tard le 1er avril 2017.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 30 novembre 2016 - art.
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R321-5 (V)
+	  - Code forestier (nouveau) - art. R321-5
