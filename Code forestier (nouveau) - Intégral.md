@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-10
 
 # Partie législative
 
@@ -17949,19 +17949,19 @@ fonctionnement sont identiques à celles du conseil mentionné à l'article D. 1
 
 ###### Article R113-10
 
-Les règles de fonctionnement du Conseil supérieur de la forêt, des produits forestiers et de la transformation du bois et du
-comité de politique forestière, autres que celles énoncées à la présente section, sont fixées par les articles R. 133-1 à R.
-133-15 du code des relations entre le public et l'administration.
+Les règles de fonctionnement du Conseil supérieur de la forêt, et du bois, de ses comités spécialisés et du comité de
+gouvernance du fonds stratégique de la forêt et du bois, autres que celles énoncées à la présente section, sont fixées par
+les articles R. 133-1 à R. 133-15 du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code des relations entre le public et l'adminis... - art. R*133-1 (V)
+	  - Code des relations entre le public et l'administration - art. R*133-1
 
 
 ##### Section 2 : Commissions régionales de la forêt et du bois
@@ -18187,8 +18187,8 @@ s'adjoindre des experts extérieurs à la commission, qui ne peuvent avoir qu'un
 
 ###### Article R113-15
 
-En Corse, la commission régionale de la forêt et des produits forestiers est présidée conjointement par le préfet de Corse et
-le président du conseil exécutif ou leurs représentants, qui nomment les membres.
+En Corse, la commission régionale de la forêt et du bois est présidée conjointement par le préfet de Corse et le président du
+conseil exécutif ou leurs représentants, qui nomment les membres.
 
 Les représentants de la région sont ceux de la collectivité de Corse désignés par l'assemblée de Corse.
 
@@ -18198,32 +18198,28 @@ Les représentants de la région sont ceux de la collectivité de Corse désign�
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R4-3 (Ab)
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 
 ###### Article R113-16
 
-Les règles de fonctionnement de la commission régionale de la forêt et des produits forestiers, autres que celles énoncées à
-la présente section, sont fixées par les articles R. 133-1 à R. 133-15 du code des relations entre le public et
-l'administration ainsi que par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006 relatif à la
-réduction du nombre et à la simplification de la composition de diverses commissions administratives.
+Les règles de fonctionnement de la commission régionale de la forêt et du bois, autres que celles énoncées à la présente
+section, sont fixées par les articles R. 133-1 à R. 133-15 du code des relations entre le public et l'administration ainsi
+que par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006 relatif à la réduction du nombre et à la
+simplification de la composition de diverses commissions administratives.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2006-665 du 7 juin 2006 (V)
-	  - Code des relations entre le public et l'adminis... - art. R*133-1 (V)
+	  - Décret n°2006-665 du 7 juin 2006
+	  - Code des relations entre le public et l'administration - art. R*133-1
 
 	**Modifié par**:
 
-	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 
 ### TITRE II : POLITIQUE FORESTIÈRE ET GESTION DURABLE
@@ -20312,8 +20308,8 @@ réputé favorable.
 
 ###### Article R133-9
 
-Le projet de plan est également soumis pour avis à la commission régionale de la forêt et des produits forestiers, qui
-dispose d'un délai de deux mois pour se prononcer. A défaut de réponse, son avis est réputé favorable.
+Le projet de plan est également soumis pour avis à la commission régionale de la forêt et du bois, qui dispose d'un délai de
+deux mois pour se prononcer. A défaut de réponse, son avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
@@ -20321,13 +20317,9 @@ dispose d'un délai de deux mois pour se prononcer. A défaut de réponse, son a
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R321-23 (Ab)
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 
 ###### Article R133-10
@@ -21692,8 +21684,8 @@ d'utilité publique, le préfet suspend leur exécution sans délai.
 
 La collectivité publique est tenue, le cas échéant solidairement avec son délégataire, de remettre les lieux en état au terme
 des travaux, en cas d'abandon de ceux-ci ou en fin d'exploitation du captage, notamment de combler les forages, de démanteler
-toutes constructions et canalisations et de reboiser le site en essences forestières conformément aux orientations régionales
-forestières. 
+toutes constructions et canalisations et de reboiser le site en essences forestières conformément au programme régional de la
+forêt et du bois.
 
 En cas de manquement à cette obligation, le préfet peut ordonner le rétablissement des lieux en l'état et, le cas échéant,
 son exécution d'office dans les conditions prévues à l'article R. 141-25.
@@ -21704,17 +21696,13 @@ son exécution d'office dans les conditions prévues à l'article R. 141-25.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R412-21 (Ab)
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R141-25 (V)
+	  - Code forestier (nouveau) - art. R141-25
 
 
 ##### Paragraphe 2 : Travaux nécessaires à la recherche  de la ressource en eau dans les forêts de protection
@@ -24756,10 +24744,9 @@ code de la sécurité intérieure.
 ###### Article R161-4
 
 Les agents mentionnés aux articles R. 161-1 et R. 161-2 sont dotés chacun d'un marteau particulier dont l'empreinte et les
-conditions d'utilisation sont déterminées par arrêté du ministre chargé des forêts. 
+conditions d'utilisation sont déterminées par arrêté du ministre chargé des forêts.
 
-L'empreinte de ces marteaux particuliers est déposée au greffe du tribunal de grande instance de la résidence administrative
-de ces agents.
+L'empreinte de ces marteaux particuliers est déposée au greffe du tribunal de grande instance de Paris.
 
 **Liens relatifs à cet article**
 
@@ -24767,20 +24754,13 @@ de ces agents.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R122-22 (Ab)
-	  - Code forestier - art. R122-23 (Ab)
-	  - Code forestier - art. R122-24 (Ab)
-	  - Code forestier - art. R341-3 (Ab)
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R161-1 (V)
+	  - Code forestier (nouveau) - art. R161-1
 
 
 ##### Sous-section 2 : Assermentation et valeur probante des procès-verbaux
@@ -24813,10 +24793,13 @@ administrative.
 
 ###### Article R161-6
 
-Les agents mentionnés aux articles R. 161-1 et R. 161-2 transcrivent les procès-verbaux qu'ils ont dressés, les
-significations et citations dont ils ont été chargés ainsi que les reconnaissances d'infraction dans un registre coté et
-paraphé. Le directeur régional tient le registre des procès-verbaux qui lui sont transmis dans le système de traitement de
-données à caractère personnel dénommé ILEX, selon les modalités prévues par l'acte réglementaire instituant ce fichier.
+I. – Les agents mentionnés aux articles R. 161-1 et R. 161-2 transcrivent les procès-verbaux qu'ils ont dressés, les
+significations et citations dont ils ont été chargés ainsi que les reconnaissances d'infractions sur un registre tenu par
+tout moyen. 
+
+II. – Le directeur régional de l'administration chargée des forêts tient le registre des procès-verbaux qui lui sont transmis
+dans le système de traitement de données à caractère personnel dénommé ILEX, selon les modalités prévues par l'acte
+réglementaire instituant ce fichier.
 
 **Liens relatifs à cet article**
 
@@ -24824,19 +24807,13 @@ données à caractère personnel dénommé ILEX, selon les modalités prévues p
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
-
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
 	**Cité par**:
 
 	  - Arrêté du 13 mai 2014 - art. 1 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code forestier - art. R122-17 (Ab)
-	  - Code forestier - art. R341-4 (Ab)
-	  - Code forestier - art. R341-5 (Ab)
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cite**:
 
@@ -25594,9 +25571,9 @@ L'absence de représentants d'une catégorie ne fait pas obstacle à la constitu
 
 ###### Article R171-1
 
-Pour la mise en œuvre des dispositions de l'article L. 121-4, l'arrêté mentionné à l'article L. 122-1 et approuvant les
-orientations régionales forestières de la Guadeloupe précise les conditions d'exploitation des essences forestières en voie
-de disparition ou de régression dont le maintien ou le développement se justifie dans l'intérêt général ainsi que les
+Pour la mise en œuvre des dispositions de l'article L. 121-4, l'arrêté mentionné à l'article L. 122-1 et approuvant le
+programme régional de la forêt et du bois de la Guadeloupe précise les conditions d'exploitation des essences forestières en
+voie de disparition ou de régression dont le maintien ou le développement se justifie dans l'intérêt général ainsi que les
 conditions de la circulation et de la vente des produits provenant de ces essences.
 
 **Liens relatifs à cet article**
@@ -25605,18 +25582,14 @@ conditions de la circulation et de la vente des produits provenant de ces essenc
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R361-4 (Ab), al 1, ecqc Guadeloupe
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L121-4 (V)
-	  - Code forestier (nouveau) - art. L122-1 (V)
+	  - Code forestier (nouveau) - art. L121-4
+	  - Code forestier (nouveau) - art. L122-1
 
 	**Cité par**:
 
@@ -26049,9 +26022,9 @@ respectivement par les références à " l'Assemblée de Martinique " et au " pr
 
 ###### Article R173-2
 
-Pour la mise en œuvre des dispositions de l'article L. 121-4, l'arrêté mentionné à l'article L. 122-1 et approuvant les
-orientations régionales forestières de la Martinique précise les conditions d'exploitation des essences forestières en voie
-de disparition ou de régression dont le maintien ou le développement se justifie dans l'intérêt général ainsi que les
+Pour la mise en œuvre des dispositions de l'article L. 121-4, l'arrêté mentionné à l'article L. 122-1 et approuvant le
+programme régional de la forêt et du bois de la Martinique précise les conditions d'exploitation des essences forestières en
+voie de disparition ou de régression dont le maintien ou le développement se justifie dans l'intérêt général ainsi que les
 conditions de la circulation et de la vente des produits provenant de ces essences.
 
 **Liens relatifs à cet article**
@@ -26060,18 +26033,14 @@ conditions de la circulation et de la vente des produits provenant de ces essenc
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R361-4 (Ab), al 1, ecqc Martinique
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L121-4 (V)
-	  - Code forestier (nouveau) - art. L122-1 (V)
+	  - Code forestier (nouveau) - art. L121-4
+	  - Code forestier (nouveau) - art. L122-1
 
 	**Cité par**:
 
@@ -26776,7 +26745,7 @@ est renouvelable.
 
 ###### Article R175-6
 
-Les règles de composition et de fonctionnement de la commission de la forêt et des produits forestiers du Département de
+Les règles de composition et de fonctionnement de la commission départementale de la forêt et du bois du Département de
 Mayotte, autres que celles énoncées au présent chapitre, sont fixées par les articles R. 133-1 à R. 133-15 du code des
 relations entre le public et l'administration.
 
@@ -26784,11 +26753,11 @@ relations entre le public et l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code des relations entre le public et l'adminis... - art. R*133-1 (V)
+	  - Code des relations entre le public et l'administration - art. R*133-1
 
 
 ##### Section 4 : Rôle des forêts de protection
@@ -26996,9 +26965,9 @@ des régimes de propriété forestière dans la collectivité.
 
 ###### Article R177-1
 
-Pour la mise en œuvre des dispositions de l'article L. 121-4, l'arrêté mentionné à l'article L. 122-1 et approuvant les
-orientations territoriales forestières de Saint-Martin précise les conditions d'exploitation des essences forestières en voie
-de disparition ou de régression dont le maintien ou le développement se justifie dans l'intérêt général ainsi que les
+Pour la mise en œuvre des dispositions de l'article L. 121-4, l'arrêté mentionné à l'article L. 122-1 et approuvant le
+programme territorial de la forêt et du bois de Saint-Martin précise les conditions d'exploitation des essences forestières
+en voie de disparition ou de régression dont le maintien ou le développement se justifie dans l'intérêt général ainsi que les
 conditions de la circulation et de la vente des produits provenant de ces essences.
 
 **Liens relatifs à cet article**
@@ -27007,18 +26976,14 @@ conditions de la circulation et de la vente des produits provenant de ces essenc
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R361-4 (Ab), al. 1, ecqc SM
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. L121-4 (V)
-	  - Code forestier (nouveau) - art. L122-1 (V)
+	  - Code forestier (nouveau) - art. L121-4
+	  - Code forestier (nouveau) - art. L122-1
 
 	**Cité par**:
 
@@ -28376,7 +28341,7 @@ soumissionnaires.
 
 Les ventes de gré à gré font l'objet de contrats écrits, conclus par le directeur général de l'Office national des forêts ou
 son délégataire. Elles donnent lieu soit à des contrats d'approvisionnement à exécution ou à livraisons successives et pour
-une durée ne pouvant excéder cinq années, soit à des ventes à exécution ou à livraison immédiate lorsque les produits sont
+une durée ne pouvant excéder dix années, soit à des ventes à exécution ou à livraison immédiate lorsque les produits sont
 disponibles à la vente.
 
 **Liens relatifs à cet article**
@@ -28385,13 +28350,9 @@ disponibles à la vente.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R134-15 (Ab)
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cité par**:
 
@@ -33958,12 +33919,12 @@ cynégétique. "
 
 ###### Article R272-3
 
-Pour l'application en Guyane du 1° de l'article R. 212-8 : 
+Pour l'application en Guyane du 1° de l'article R. 212-8 :
 
-1° Le seuil de 25 ha est porté à 200 ha ; 
+1° Le seuil de 25 ha est porté à 200 ha ;
 
 2° Les critères de potentialité de production sont arrêtés par le préfet sur proposition de l'Office national des forêts et
-après avis de la commission régionale de la forêt et des produits forestiers.
+après avis de la commission régionale de la forêt et du bois.
 
 **Liens relatifs à cet article**
 
@@ -33971,13 +33932,9 @@ après avis de la commission régionale de la forêt et des produits forestiers.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R172-2 (Ab), al. 4
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cité par**:
 
@@ -33985,7 +33942,7 @@ après avis de la commission régionale de la forêt et des produits forestiers.
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R212-8 (V)
+	  - Code forestier (nouveau) - art. R212-8
 
 
 ###### Article R272-4
@@ -35686,6 +35643,25 @@ l'article R. 312-20 pour la superficie objet du défrichement.
 
 	  - Code forestier (nouveau) - art. R312-20 (V)
 	  - Code forestier (nouveau) - art. R341-1 (V)
+
+
+###### Article R312-21-1
+
+Le délai mentionné à l'article L. 312-10 est de quinze jours à compter de la réception de la notification par le propriétaire
+au centre régional de la propriété forestière de la coupe qu'il envisage. Le contenu de cette notification est précisé par
+arrêté du ministre chargé des forêts. 
+
+La notification se fait par tout moyen permettant d'établir une date certaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L312-10
 
 
 ##### Section 4 : Coupes illicites et coupes abusives
@@ -40901,13 +40877,13 @@ Les dispositions du chapitre Ier du titre II du présent livre de la partie rég
 
 ###### Article R372-2
 
-Pour son application en Guyane, l'article R. 312-1 est ainsi rédigé : 
+Pour son application en Guyane, l'article R. 312-1 est ainsi rédigé :
 
-" Art. R. 312-1. ― Le seuil au-delà duquel les bois et forêts des particuliers doivent être gérés conformément à un plan
-simple de gestion est de 200 hectares. 
+" Art. R. 312-1. - Le seuil au-delà duquel les bois et forêts des particuliers doivent être gérés conformément à un plan
+simple de gestion est de 200 hectares.
 
 " Les critères de potentialité de production sont arrêtés par le préfet sur proposition de l'Office national des forêts et
-après avis de la commission régionale de la forêt et des produits forestiers. "
+après avis de la commission régionale de la forêt et du bois. "
 
 **Liens relatifs à cet article**
 
@@ -40915,17 +40891,13 @@ après avis de la commission régionale de la forêt et des produits forestiers.
 
 	  - Décret n°2012-836 du 29 juin 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. R252-2 (Ab), al. 3, al. 4, al. 5
+	  - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code forestier (nouveau) - art. R312-1 (V)
+	  - Code forestier (nouveau) - art. R312-1
 
 
 #### Chapitre III : Martinique
