@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2017-04-28
+Version Consolidée au 2022-01-01
 
 # Partie législative
 
@@ -778,16 +778,17 @@ b) Les règlements types de gestion.
 
 a) Les plans simples de gestion ;
 
-b) Les règlements types de gestion ;
-
-c) Les codes des bonnes pratiques sylvicoles.
+b) Les règlements types de gestion.
 
 **Nota:**
 
-Aux termes de la loi n° 2014-170 du 13 octobre 2014, article 93 XII, les bois et forêts dont les propriétaires ont adhéré aux
-codes des bonnes pratiques sylvicoles mentionnés à l'article L. 122-3 du code forestier avant la publication de la présente
-loi continuent, jusqu'au terme de l'engagement souscrit, àprésenter une présomption de gestion durable dans les conditions
-prévues à l'article L. 124-2 du même code, dans sa rédaction antérieure à la présente loi.
+Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XIX, ces dispositions entrent en vigueur le 1er janvier
+2022. 
+
+Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XII, les bois et forêts dont les propriétaires ont adhéré
+aux codes des bonnes pratiques sylvicoles mentionnés au présent article avant la publication de ladite loi continuent,
+jusqu'au terme de l'engagement souscrit, à présenter une présomption de gestion durable dans les conditions prévues à
+l'article L. 124-2 du présent code, dans sa rédaction antérieure à la loi precitée.
 
 **Liens relatifs à cet article**
 
@@ -795,13 +796,9 @@ prévues à l'article L. 124-2 du même code, dans sa rédaction antérieure à 
 
 	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L4 (VT), al 3 à 8.
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cité par**:
 
@@ -1314,49 +1311,20 @@ Conseil d'Etat.
 	  - Code forestier (nouveau) - art. L313-2
 
 
-###### Article L124-2
-
-Sont présumés présenter des garanties de gestion durable les bois et forêts dont le propriétaire adhère au code des bonnes
-pratiques sylvicoles applicable et le respecte pendant une durée d'au moins dix ans.
-
-**Nota:**
-
-Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XIX, ces dispositions sont abrogées le 1er janvier 2022.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L8 (VT), III.
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L130-1 (VT)
-	  - Code forestier (nouveau) - art. L313-3 (VT)
-	  - Code forestier (nouveau) - art. L321-1 (VT)
-
-
 ###### Article L124-3
 
 Les parties de bois et forêts situés dans un site Natura 2000 pour lequel un document d'objectifs a été approuvé par
-l'autorité administrative présentent des garanties ou des présomptions de gestion durable lorsque leur propriétaire dispose
-d'un document de gestion mentionné à l'article L. 122-3 et se trouve dans l'un des cas suivants : 
+l'autorité administrative présentent des garanties de gestion durable lorsque leur propriétaire dispose d'un document de
+gestion mentionné à l'article L. 122-3 et se trouve dans l'un des cas suivants :
 
 1° Avoir adhéré à une charte Natura 2000 ou conclu un contrat Natura 2000 ; 
 
 2° Disposer d'un document de gestion établi dans les conditions mentionnées à l'article L. 122-7.
+
+**Nota:**
+
+Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XIX, ces dispositions entrent en vigueur le 1er janvier
+2022.
 
 **Liens relatifs à cet article**
 
@@ -1366,7 +1334,7 @@ d'un document de gestion mentionné à l'article L. 122-3 et se trouve dans l'un
 
 	**Modifié par**:
 
-	  - Loi n°2016-1888 du 28 décembre 2016 - art. 54
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 	**Cite**:
 
@@ -13850,49 +13818,6 @@ application de l'article L. 315-2.
 	  - Code forestier (nouveau) - art. L315-2 (V)
 
 
-##### Section 2 : Code des bonnes pratiques sylvicoles
-
-###### Article L313-3
-
-Le code des bonnes pratiques sylvicoles prévu à l'article L. 124-2 comprend, par région naturelle ou groupe de régions
-naturelles, des recommandations, prenant en compte les usages locaux, essentielles à la conduite des grands types de
-peuplements et aux conditions rendant possible la gestion durable d'une parcelle forestière. Ce document est élaboré par le
-centre régional de la propriété forestière et approuvé par le représentant de l'Etat dans la région, après avis de la
-commission régionale de la forêt et des produits forestiers.
-
-**Nota:**
-
-Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XIX, ces dispositions sont abrogées le 1
-  <sup>er</sup> janvier 2022.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
-
-	**Anciens textes**:
-
-	  - Code forestier - art. L222-6 (VT), al 2.
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. D313-8 (V)
-	  - Code forestier (nouveau) - art. L321-1 (VT)
-
-	**Cite**:
-
-	  - Code forestier (nouveau) - art. L124-2 (VT)
-
-
 #### Chapitre IV : Droits d'usage
 
 ###### Article L314-1
@@ -14099,17 +14024,15 @@ forestiers, notamment les organismes de gestion et d'exploitation en commun des 
 charge des demandes particulières à caractère environnemental et social, en concertation s'il y a lieu avec les représentants
 des usagers ; 
 
-3° Encourager l'adoption de méthodes de sylviculture conduisant à une gestion durable des forêts compatibles avec une bonne
-valorisation économique du bois, de la biomasse et des autres produits et services des forêts, par la formation théorique et
-pratique des propriétaires forestiers et par le développement et la vulgarisation sylvicoles, à l'exclusion de tout acte de
-gestion directe, de maîtrise d'œuvre de travaux ou de commercialisation ; 
+3° Encourager l'adoption de méthodes de sylviculture conduisant à une gestion durable et multifonctionnelle des forêts
+compatibles avec une bonne valorisation économique du bois, de la biomasse et des autres produits et services des forêts, par
+la formation théorique et pratique des propriétaires forestiers et par le développement et la vulgarisation sylvicoles, à
+l'exclusion de tout acte de gestion directe, de maîtrise d'œuvre de travaux ou de commercialisation ; 
 
-4° Elaborer les schémas régionaux de gestion sylvicole des bois et forêts des particuliers et les codes de bonnes pratiques
-sylvicoles ; 
+4° Elaborer les schémas régionaux de gestion sylvicole des bois et forêts des particuliers ; 
 
-5° Agréer les plans simples de gestion, dans les conditions prévues aux articles L. 312-2 à L. 312-10, approuver les
-règlements types de gestion, dans les conditions prévues à l'article L. 313-1, et approuver les programmes des coupes et
-travaux des adhérents aux codes des bonnes pratiques sylvicoles prévus aux articles L. 124-2 et L. 313-3 ; 
+5° Agréer les plans simples de gestion dans les conditions prévues aux articles L. 312-2 à L. 312-10 et approuver les
+règlements types de gestion dans les conditions prévues par l'article L. 313-1 ; 
 
 6° Concourir au développement durable et à l'aménagement rural, en particulier au développement économique des territoires
 par la valorisation des produits et des services de la forêt des particuliers et de la contribution de ces forêts à la lutte
@@ -14135,7 +14058,18 @@ Il peut être consulté par les pouvoirs publics et émettre des propositions su
 forêt-bois, au développement durable des forêts et de leurs fonctions économiques, environnementales et sociales, et à leur
 contribution à l'aménagement rural.
 
+**Nota:**
+
+Loi n° 2014-1170 du 13 octobre 2014, article 93 XIX : ces dispositions entrent en vigueur à compter du 1er janvier 2022.
+
+Aux termes de l'article 93 XX de la loi n° 2014-1170 du 13 octobre 2014, au 1er janvier 2022, le 5° du présent article est
+rétabli dans sa rédaction antérieure à ladite loi, qui est celle de cette version.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
 	**Modifié par**:
 
@@ -14145,14 +14079,12 @@ contribution à l'aménagement rural.
 
 	  - Code monétaire et financier - art. L214-124
 	  - Code de l'environnement - art. L132-2
-	  - Code forestier (nouveau) - art. L124-2 (VT)
 	  - Code forestier (nouveau) - art. L312-2 (V)
 	  - Code forestier (nouveau) - art. L313-1 (V)
-	  - Code forestier (nouveau) - art. L313-3 (VT)
 
 	**Cité par**:
 
-	  - Code forestier (nouveau) - art. L122-2 (VD)
+	  - Code forestier (nouveau) - art. L122-2 (V)
 	  - Code forestier (nouveau) - art. L321-4 (V)
 	  - Code forestier (nouveau) - art. L321-5 (V)
 	  - Code forestier (nouveau) - art. R321-9 (V)
